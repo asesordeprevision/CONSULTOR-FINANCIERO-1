@@ -18,6 +18,14 @@ Origen: 2026-10-06 llegaron conversaciones de WhatsApp con números extranjeros 
 - Edad para previsión: 25–65.
 - Mantener exclusión de la audiencia "Retargeting Nogalar - Interaccion Pagina 365d" (`120255465505980768`) en campañas de captación en frío.
 
+## Aprendizajes de rendimiento (previsión, 90 días al 2026-10-16)
+
+- Mejor creativo histórico: "WhatsApp - Fin de Año 2026" (creative `29021759714084558`), $16.35 por conversación.
+- Por ubicación: Historias de Facebook ~$11, Marketplace ~$17, Feed de Facebook ~$35, Reels de Facebook $43–139, Instagram casi sin conversiones. Priorizar Feed + Historias + Marketplace de FB; Reels e Instagram solo con creativo vertical propio.
+- Por edad: 65+ es el segmento más barato (~$17); mujeres 35–54 el más caro ($53–59). Hombres más baratos que mujeres en todas las edades.
+- La tasa clic→conversación de ~17–20% es la base histórica de la cuenta, no una falla nueva.
+- Oportunidad cruzada: leads de créditos para pensionados/jubilados son prospectos naturales de previsión.
+
 ## Operación
 
 - Editar un conjunto o campaña activa por MCP lo pausa automáticamente: reactivar campaña y conjunto después de cada edición.
