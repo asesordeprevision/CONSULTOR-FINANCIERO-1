@@ -16,7 +16,9 @@ Origen: 2026-10-06 llegaron conversaciones de WhatsApp con números extranjeros 
   - whatsapp_positions: status
 - Advantage+ audience puede quedar activo, pero con expansión geográfica apagada (`individual_setting.geo = 0`).
 - Edad para previsión: 25–65.
-- Mantener exclusión de la audiencia "Retargeting Nogalar - Interaccion Pagina 365d" (`120255465505980768`) en campañas de captación en frío.
+- Mantener exclusión de la audiencia "Retargeting Nogalar - Interaccion Pagina 365d" (`120255465505980768`) en campañas de captación en frío. OJO: esa audiencia son los que interactuaron con la página de previsión (`826648143857806`); excluirla solo tiene sentido si existe una campaña de retargeting que SÍ la incluya.
+- Audiencias calientes disponibles: "Público Unificado - Engagers Página Gayosso (365d)" (`120255894808770768`), "AUD_NL_FanPageUnificada_365d" (`120256036448630768`), "Video Engagement - Reel Creditos Pensionados" (`120255905930770768`). Excluir siempre "[DB][Lista de Clientes]" (`120256226767570768`).
+- El lookalike de la lista de clientes (`120256297242750768`) está creado sobre US, no MX: no usarlo; recrear en MX.
 
 ## Aprendizajes de rendimiento (previsión, 90 días al 2026-10-16)
 
