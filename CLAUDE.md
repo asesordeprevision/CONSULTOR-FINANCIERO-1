@@ -37,3 +37,4 @@ Origen: 2026-10-06 llegaron conversaciones de WhatsApp con números extranjeros 
 ## Historial
 
 - 2026-10-07 00:15 UTC: corregida la segmentación del conjunto "Previsión Familiar - Cierre WhatsApp - SEP 2026" (`120255806431370768`); campaña `120255806054890768` con fin programado 2026-10-08 00:15 UTC (18:15 hora de Monterrey del 7-oct).
+- 2026-10-16: creadas en pausa la campaña FRÍA `120257101274550768` ($200/día, conjunto `120257101281740768`, anuncio `120257101286310768`) y la CALIENTE `120257101274740768` ($60/día, conjunto `120257101283010768`, anuncios `120257101286860768` y `120257101287530768`). Solo ubicaciones de Facebook: Estados de WhatsApp exige incluir Historias de Instagram. Al publicarlas hay que pausar Tranquilidad `120257021195410768`.
