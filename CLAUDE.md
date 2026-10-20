@@ -32,6 +32,91 @@ Origen: 2026-10-06 llegaron conversaciones de WhatsApp con números extranjeros 
 
 - NO mencionar "Día de Muertos" en textos, títulos ni descripciones de anuncios.
 
+## Propuestas de cierre por WhatsApp (formato estándar aprobado 2026-10-20)
+
+Cuando el cliente comparta cotizaciones del "Cotizador GG" y pida una propuesta/presentación, usar SIEMPRE este formato (nivel ejecutivo).
+
+Reglas de cálculo y contenido:
+- El usuario manda dos capturas: la de promoción y la de PRECIO DE LISTA (normalmente condición `M036`, 36 M ENG. DIFERIDO). Todo ahorro se calcula contra el precio de lista, no contra el tachado del cotizador. Si los plazos difieren (p. ej. lista 36 vs promo 48), etiquetar cada mensualidad con su plazo y advertir al usuario que el tachado del sistema no coincide con la lista.
+- Condición `D0xx` = pago con tarjeta de crédito, SIN enganche: solo se carga la primera mensualidad al formalizar.
+- Apartado: solo correo electrónico activo + INE → se genera folio de contratación que respeta precio y regalo hasta la fecha límite. "No implica pago ni compromiso hoy."
+- Obsequio: Certificado Vacacional con valor de $24,999 (confirmar si aplica a ese producto).
+- Fecha límite actual de la promoción: 31 de octubre de 2026 (actualizar si cambia).
+- Incluir: ahorro $ y %, mensualidad de lista vs promoción, equivalente diario, precio congelado, beneficio total (ahorro + $24,999).
+- Multiplaza = válido en cualquier sucursal Gayosso del país; Ambivalente = lo usa quien lo necesite primero.
+- No inventar coberturas, intereses ni datos que no estén en la cotización; al final listar al usuario los puntos a confirmar.
+- Nunca mencionar "Día de Muertos". Formato WhatsApp (*negritas* con un asterisco, ~tachado~), dentro de bloque de código para copiar. Nombre del cliente como *[NOMBRE]* si no se da. Trato de "usted".
+- Nunca pedir datos de tarjeta por WhatsApp.
+
+Plantilla:
+
+```
+Estimado(a) *[NOMBRE]*, buen día.
+
+Le saluda Abraham Cutipa, Asesor Certificado de Previsión Familiar de *Grupo Gayosso*. Conforme a lo que platicamos, le comparto la propuesta que mejor se ajusta a lo que busca: *[NECESIDAD DEL CLIENTE]*.
+
+━━━━━━━━━━━━━━━
+*PROPUESTA: [PRODUCTO]*
+━━━━━━━━━━━━━━━
+
+*¿Por qué [PRODUCTO]?*
+[1–2 líneas de por qué encaja con la necesidad]
+
+*Incluye:*
+▪️ [concepto 1 de la cotización]
+▪️ [...]
+
+━━━━━━━━━━━━━━━
+*INVERSIÓN*
+━━━━━━━━━━━━━━━
+
+Precio de lista: ~$[LISTA]~
+*Precio con promoción: $[PROMO]*
+✅ *Ahorro: $[AHORRO] ([%]%)*
+
+*Plan de pagos: [N] mensualidades fijas con tarjeta de crédito, sin enganche*
+Mensualidad de lista: ~$[MENS_LISTA]~
+*Mensualidad con promoción: $[MENS_PROMO]*
+✅ *$[DIF] menos cada mes[, en el mismo plazo]*
+
+Equivale a *$[DIARIO] pesos diarios* para que su familia no tenga que tomar decisiones ni desembolsar en el momento más difícil.
+
+🔒 *Precio congelado durante los [N] meses*, protegido de cualquier aumento futuro.
+
+━━━━━━━━━━━━━━━
+*BENEFICIO ADICIONAL*
+━━━━━━━━━━━━━━━
+
+🎁 *Certificado Vacacional de obsequio con valor de $24,999*
+
+*Beneficio total a su favor:*
+Ahorro vs. precio de lista: $[AHORRO]
+Certificado vacacional: $24,999.00
+*Total: $[AHORRO + 24,999]*
+
+━━━━━━━━━━━━━━━
+*VIGENCIA Y SIGUIENTE PASO*
+━━━━━━━━━━━━━━━
+
+⏰ Esta promoción tiene vigencia *únicamente hasta el [FECHA LÍMITE]*. Después aplica precio de lista.
+
+Para reservarla a su nombre solo requiero:
+1. *Correo electrónico* activo
+2. *INE*
+
+Con ello genero su *folio de contratación*, que le garantiza este precio y el certificado vacacional hasta el [FECHA LÍMITE]. *No implica pago ni compromiso hoy.*
+
+Al formalizar, únicamente se carga la *primera mensualidad de $[MENS_PROMO]*.
+
+¿Le parece bien si le genero su folio hoy mismo? Quedo a sus órdenes para cualquier duda. 🕊️
+
+*Abraham Cutipa*
+Asesor Certificado de Previsión Familiar
+Grupo Gayosso · Monterrey
+```
+
+Variantes: con varias opciones (p. ej. mensualidades vs contado) usar bloques "OPCIÓN 1 / OPCIÓN 2" dentro de INVERSIÓN y cerrar con "¿Cuál opción le acomoda mejor?". Con paquete "2 + 1 de obsequio", agregar la línea "Paga menos de lo que cuestan solo [X] a precio de lista: [Y] le sale de obsequio".
+
 ## Operación
 
 - Editar un conjunto o campaña activa por MCP lo pausa automáticamente: reactivar campaña y conjunto después de cada edición.
