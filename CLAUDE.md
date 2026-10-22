@@ -36,6 +36,8 @@ SaleAds IA crea/edita campañas de forma independiente en esta misma cuenta, fue
 - OJO: `ads_get_errors` no siempre marca el CTA mal configurado de inmediato — una campaña puede aparecer "sin errores" por horas y luego mostrar el bloqueo (visto en ba49 el 2026-10-10, un día después de "confirmar" que estaba bien). Si SaleAds IA generó el conjunto, verificar el `call_to_action_type` real de cada creativo con `ads_get_creatives` (campo `call_to_action_type`) en vez de confiar solo en `ads_get_errors`.
 - SaleAds IA también duplica conjuntos idénticos (mismo targeting, mismos creativos, mismo minuto de creación) bajo una sola campaña, causando fragmentación — revisar y archivar duplicados.
 - Mientras una campaña de SaleAds IA esté en fase de aprendizaje (5–7 días tras una corrección), pausar esa estrategia específica en el dashboard de SaleAds IA (botón "Pausar estrategia"), no desconectar la integración. Ojo: ese botón pausa la campaña real en Meta, no solo bloquea la edición automática — si se quiere mantener la entrega corriendo, no usarlo.
+- El botón "Eliminar plan" en SaleAds IA tampoco borra la campaña en Meta — solo la pausa y corta la gestión automática de SaleAds IA sobre ella. La campaña sigue existiendo en Ads Manager, solo queda en PAUSED.
+- **2026-10-22: Abraham decidió administrar "Créditos especializados para pensionados y activos - e05d" directamente desde Meta/este chat, no desde SaleAds IA.** Usó "Eliminar plan" en SaleAds IA para esa campaña a propósito. De aquí en adelante, tratar e05d como gestión manual total — no asumir que SaleAds IA va a volver a tocarla, pero seguir vigilando por si acaso.
 
 ## Historial
 
