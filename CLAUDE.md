@@ -39,6 +39,9 @@ Cuando el cliente comparta cotizaciones del "Cotizador GG" y pida una propuesta/
 Reglas de cálculo y contenido:
 - El usuario manda dos capturas: la de promoción y la de PRECIO DE LISTA (normalmente condición `M036`, 36 M ENG. DIFERIDO). Todo ahorro se calcula contra el precio de lista, no contra el tachado del cotizador. Si los plazos difieren (p. ej. lista 36 vs promo 48), etiquetar cada mensualidad con su plazo y advertir al usuario que el tachado del sistema no coincide con la lista.
 - Condición `D0xx` = pago con tarjeta de crédito, SIN enganche: solo se carga la primera mensualidad al formalizar.
+- Condición `DD36` = 36 meses domiciliado a tarjeta de DÉBITO. `P001` = contado en una sola exhibición. Ya NO existe talonario ni enganche 15/20%.
+- Esencial Pro: débito máximo 36 meses; tarjeta de crédito hasta 48 meses.
+- Además del texto, se puede entregar una imagen de propuesta (1080x1350) con logo Grupo Gayosso, opciones de pago en tarjetas, obsequio, vigencia, apartado y datos de Abraham (WhatsApp 81 1627 6206), con nota al pie de costos no incluidos. Es propuesta del asesor, NUNCA una imitación de captura del Cotizador.
 - Apartado: solo correo electrónico activo + INE → se genera folio de contratación que respeta precio y regalo hasta la fecha límite. "No implica pago ni compromiso hoy."
 - Obsequio: Certificado Vacacional con valor de $24,999 POR CONTRATO (2 contratos = 2 certificados = $49,998).
 - Promoción 2+1 con más de 3 servicios: se hacen contratos separados de 3 servicios cada uno; mostrar mensualidad por contrato y pago mensual total.
