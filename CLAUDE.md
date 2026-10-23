@@ -44,7 +44,8 @@ Reglas de cálculo y contenido:
 - Promoción 2+1 con más de 3 servicios: se hacen contratos separados de 3 servicios cada uno; mostrar mensualidad por contrato y pago mensual total.
 - Fecha límite actual de la promoción: 31 de octubre de 2026 (actualizar si cambia).
 - Incluir: ahorro $ y %, mensualidad de lista vs promoción, equivalente diario, precio congelado, beneficio total (ahorro + $24,999).
-- Multiplaza = válido en cualquier sucursal Gayosso del país; Ambivalente = lo usa quien lo necesite primero.
+- Categorías Gayosso: PREMIER PRO, UNIVERSAL PRO y ESENCIAL PRO. Las tres son AMBIVALENTES = el usuario elige al momento entre paquete de INHUMACIÓN o de CREMACIÓN. Solo PREMIER PRO es MULTIPLAZA (se redime en cualquier agencia Gayosso del país sin costo adicional); Universal y Esencial son LOCALES (cambiar de agencia cuesta ~20% del precio de contado del paquete en la nueva agencia).
+- OJO: "Ambivalente" NO significa "lo usa quien lo necesite primero" (error en propuestas anteriores al 2026-10-23).
 - No inventar coberturas, intereses ni datos que no estén en la cotización; al final listar al usuario los puntos a confirmar.
 - Nunca mencionar "Día de Muertos". Formato WhatsApp (*negritas* con un asterisco, ~tachado~), dentro de bloque de código para copiar. Nombre del cliente como *[NOMBRE]* si no se da. Trato de "usted".
 - Nunca pedir datos de tarjeta por WhatsApp.
@@ -65,6 +66,8 @@ Le saluda Abraham Cutipa, Asesor Certificado de Previsión Familiar de *Grupo Ga
 
 *Incluye:*
 ▪️ [concepto 1 de la cotización]
+▪️ Paquete *Ambivalente*: al momento se elige inhumación o cremación
+▪️ (Solo Premier Pro) Paquete *Multiplaza*: válido en cualquier agencia Gayosso del país
 ▪️ [...]
 
 ━━━━━━━━━━━━━━━
@@ -117,6 +120,23 @@ Grupo Gayosso · Monterrey
 ```
 
 Variantes: con varias opciones (p. ej. mensualidades vs contado) usar bloques "OPCIÓN 1 / OPCIÓN 2" dentro de INVERSIÓN y cerrar con "¿Cuál opción le acomoda mejor?". Con paquete "2 + 1 de obsequio", agregar la línea "Paga menos de lo que cuestan solo [X] a precio de lista: [Y] le sale de obsequio".
+
+## Contrato Gayosso (Contrato de prestación de servicios funerarios a futuro, PROFECO 3692-2022) — argumentos verificados
+
+Usar en presentaciones solo lo que está aquí (fuente: contrato de adhesión, págs. 3–8):
+- *Sin intereses*: el monto total ya contempla todo; no hay gasto, interés ni cargo adicional si paga a tiempo. (Atraso: interés moratorio 3% mensual; >90 días puede rescindirse.)
+- *Precio congelado*: los montos no pueden modificarse sin consentimiento escrito del cliente.
+- *Garantía de cancelación*: 5 días hábiles tras la firma para cancelar con devolución íntegra. Después aplica pena convencional de 48% de lo pagado.
+- *Beneficio por fallecimiento del titular (quita)*: si el titular fallece antes de terminar de pagar, Gayosso condona el saldo de UN servicio para el propio titular, si: va al corriente, pagó ≥25% del contrato, pasaron ≥90 días desde la firma y tenía 18–60 años al firmar. Una sola vez, intransferible.
+- *Titular sustituto*, beneficiarios y usuarios designables y modificables en cualquier momento.
+- *Cesión*: puede ceder el contrato a otra persona pagando 10% del precio vigente.
+- *Pagos anticipados* sin penalización.
+- *Servicio 24/7, 365 días*, tel. 800-716-1616. Si la agencia no tiene disponibilidad, se presta en otra agencia de igual o superior categoría sin costo.
+- *% mínimo pagado para usar un servicio antes de liquidar*: servicio individual 100%; dúplex 50% / 100%; triplex/cuádruplex/paquetes integrales 50% / 75% / 100% (1er/2do/3er uso); capillas y jardines privados 100%. El saldo restante se liquida al usarlo. Mencionarlo con honestidad si preguntan.
+- *NO incluido* (cláusula Quinta): derechos de inhumación ante autoridad, apertura/cierre de fosas y nichos, grabado de lápida, cuota de mantenimiento anual (fosas/nichos), gestión de actas de defunción y derechos gubernamentales.
+- Cremación: si se elige cremar, Gayosso informa si el ataúd sirve para cremación o si hay ataúdes especiales; puede haber diferencia de precio.
+- Pago domiciliado a tarjeta de crédito o pagaré como garantía de mensualidades.
+- No guardar en este repo (es público) nombres, firmas ni datos de clientes que aparezcan en contratos.
 
 ## Operación
 
