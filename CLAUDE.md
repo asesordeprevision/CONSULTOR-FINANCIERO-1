@@ -125,6 +125,21 @@ Grupo Gayosso · Monterrey
 
 Variantes: con varias opciones (p. ej. mensualidades vs contado) usar bloques "OPCIÓN 1 / OPCIÓN 2" dentro de INVERSIÓN y cerrar con "¿Cuál opción le acomoda mejor?". Con paquete "2 + 1 de obsequio", agregar la línea "Paga menos de lo que cuestan solo [X] a precio de lista: [Y] le sale de obsequio".
 
+## Propuesta vigente OCTUBRE 2026: Premier Pro 2+1 (válida solo hasta el 31-oct-2026)
+
+Aprobada 2026-10-23. Precios de octubre: en NOVIEMBRE no reutilizar estas cifras; pedir al usuario capturas nuevas (promo + lista M036) y recalcular. Usar esta estructura como modelo para cualquier paquete 2+1.
+
+Cifras (3 servicios Premier Pro, 1 contrato):
+- Precio de lista M036: $246,900.03 ($82,300.01 por servicio; 2 a lista = $164,600.02). Mensualidad de lista 36 m: $6,863.82. (El tachado del cotizador dice $239,493.03: no usarlo.)
+- Promoción: $159,670.00 → ahorro $87,230.03 (35.3%). Beneficio total con certificado: $112,229.03.
+- Opción 1, débito DD36: $4,438.83/mes ($2,424.99 menos que la de lista, mismo plazo; < $50 diarios por persona). Cotizador: enganche Pr $4,438.83 + 35 mensualidades (suma $159,797.88, $127.88 sobre el total: no poner "total a pagar" en esa opción).
+- Opción 2, tarjeta de crédito 48 m: $3,321.14/mes (de cotización TDC previa; confirmar con D048). "Menos de la mitad" de la mensualidad de lista; < $37 diarios por persona. Es la "MÁS ACCESIBLE".
+- Incluye por servicio: Sala Premier, ataúd de lujo metal o madera cat. Premier, embalsamado y arreglo estético, cafetería básica, copia de acta de defunción, Ambivalente, Multiplaza.
+
+Imagen (1080x1350, mismo diseño que la de Esencial Pro): encabezado logo + "PROPUESTA PERSONALIZADA"; banda verde "3 Servicios · Previsión Gayosso PREMIER PRO / Promoción 2 + 1 · el tercer servicio le sale de obsequio"; lista "Cada servicio incluye" + recuadro precio de lista tachado y precio con promoción; tres tarjetas: "1 · DÉBITO 36 MESES", "2 · T. CRÉDITO 48 MESES" (dorada, insignia "★ MÁS ACCESIBLE ★") y "PROMOCIÓN 2 + 1" ("3 por menos que 2", 2 a lista tachado vs. lo que paga por los 3); banda dorada del certificado de $24,999 (precio congelado · sin intereses si paga a tiempo · 5 días hábiles para cancelar); vigencia en rojo; 3 pasos (correo e INE → correo "Asegura hoy la paz del mañana" de ABRAHAM CUTIPA QUENAYA, clic en Ver mi cotización, revisar Spam → firma electrónica en < 5 min); pie con nombre y botón WhatsApp 81 1627 6206; letra pequeña de costos no incluidos.
+
+Texto WhatsApp: plantilla estándar con estas variaciones: subtítulo "*Promoción 2 + 1*"; "¿Por qué Premier Pro?" = categoría más completa y única Multiplaza; en INVERSIÓN, línea 2+1 ("Paga menos de lo que cuestan solo 2 a precio de lista (~$164,600.02~): *el tercer servicio le sale de obsequio.*"), luego "OPCIÓN 1 · Débito a 36 meses" y "OPCIÓN 2 · Tarjeta de crédito a 48 meses ⭐ _la más accesible_"; "no se requiere enganche" en ambas; precio congelado + sin intereses; en el siguiente paso, mencionar el correo de ABRAHAM CUTIPA QUENAYA y la firma electrónica; cierre "¿Cuál opción le acomoda mejor?". Enviar primero la imagen y luego el texto.
+
 ## Contrato Gayosso (Contrato de prestación de servicios funerarios a futuro, PROFECO 3692-2022) — argumentos verificados
 
 Usar en presentaciones solo lo que está aquí (fuente: contrato de adhesión, págs. 3–8):
