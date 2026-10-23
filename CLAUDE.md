@@ -40,7 +40,8 @@ Reglas de cálculo y contenido:
 - El usuario manda dos capturas: la de promoción y la de PRECIO DE LISTA (normalmente condición `M036`, 36 M ENG. DIFERIDO). Todo ahorro se calcula contra el precio de lista, no contra el tachado del cotizador. Si los plazos difieren (p. ej. lista 36 vs promo 48), etiquetar cada mensualidad con su plazo y advertir al usuario que el tachado del sistema no coincide con la lista.
 - Condición `D0xx` = pago con tarjeta de crédito, SIN enganche: solo se carga la primera mensualidad al formalizar.
 - Apartado: solo correo electrónico activo + INE → se genera folio de contratación que respeta precio y regalo hasta la fecha límite. "No implica pago ni compromiso hoy."
-- Obsequio: Certificado Vacacional con valor de $24,999 (confirmar si aplica a ese producto).
+- Obsequio: Certificado Vacacional con valor de $24,999 POR CONTRATO (2 contratos = 2 certificados = $49,998).
+- Promoción 2+1 con más de 3 servicios: se hacen contratos separados de 3 servicios cada uno; mostrar mensualidad por contrato y pago mensual total.
 - Fecha límite actual de la promoción: 31 de octubre de 2026 (actualizar si cambia).
 - Incluir: ahorro $ y %, mensualidad de lista vs promoción, equivalente diario, precio congelado, beneficio total (ahorro + $24,999).
 - Multiplaza = válido en cualquier sucursal Gayosso del país; Ambivalente = lo usa quien lo necesite primero.
