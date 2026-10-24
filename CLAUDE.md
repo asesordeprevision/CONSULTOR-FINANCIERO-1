@@ -155,6 +155,54 @@ Imagen: mismo diseño que Premier 2+1, con banda "3 Servicios · Gayosso UNIVERS
 
 Texto WhatsApp: igual que Premier 2+1, cambiando "¿Por qué Universal Pro?" = punto de equilibrio de Gayosso: ataúd de metal o madera y servicio completo, con inversión muy por debajo de Premier; necesidad: "dejar protegidos a tres integrantes de su familia con un servicio completo, a una mensualidad cómoda"; en ambas opciones mostrar mensualidad de lista (36 meses) tachada.
 
+## Respuesta a leads que SOLICITAN INFORMACIÓN (Meta → WhatsApp), aprobado 2026-10-24
+
+Para prospectos que llegan del anuncio y piden informes NO usar el texto largo de cierre: van 3 mensajes cortos. La imagen de propuesta se envía con el Mensaje 1 como pie. Las cifras son las de octubre 2026 (vigentes al 31-oct); en noviembre se actualizan con capturas nuevas.
+
+Mensaje 1 (pie de la imagen), estructura:
+```
+¡Hola! Muchas gracias por su interés. Le saluda Abraham Cutipa, Asesor Certificado de Previsión Familiar de *Grupo Gayosso* en Monterrey. 🕊️
+
+Le comparto el detalle de la *[PROMOCIÓN] en Previsión Gayosso [CATEGORÍA]*: protege a *[N] integrantes de su familia* [y paga menos de lo que cuestan solo 2 a precio de lista. *El tercer servicio le sale de obsequio.*]
+
+✅ *Ahorro de $[AHORRO]* contra precio de lista
+💳 Desde *$[MENS_TDC48] al mes* por los [N] servicios (tarjeta de crédito, 48 meses) o *$[MENS_DD36]* (débito, 36 meses)
+🚫 *Sin enganche requerido*
+🔒 *Precio congelado* y sin intereses pagando a tiempo
+🎁 *Certificado Vacacional de obsequio* con valor de $24,999
+[línea diferenciadora de la categoría]
+
+⏰ Vigente *solo hasta el 31 de octubre*.
+
+Para orientarle mejor: *¿a quiénes le gustaría proteger?* (por ejemplo usted, su pareja, sus papás)
+```
+
+Variantes del Mensaje 1:
+- Premier Pro 2+1: ahorro $87,230; $3,321.14 TDC 48 / $4,438.83 débito 36; línea "📍 *Multiplaza:* válido en cualquier agencia Gayosso del país".
+- Universal Pro 2+1: ahorro $66,031 (redondeado); $2,514.06 TDC 48 / $3,360.13 débito 36; línea "⚱️ Ataúd de *metal o madera* y paquete *Ambivalente*: al momento se elige inhumación o cremación". NO mencionar Multiplaza (no la tiene).
+- Esencial Pro 2 servicios (sin 2+1): "*Promoción de octubre*", "protege a *2 integrantes de su familia* con un servicio funerario completo y el respaldo de Gayosso, por menos de lo que imagina"; $1,559.20 TDC 48 / $2,083.93 débito 36 (siempre "por los 2 servicios"); línea extra "💵 De contado: *$61,824*, con *ahorro de $34,776 (36%)* contra precio de lista"; línea "⚱️ *Ambivalente:* al momento se elige inhumación o cremación"; ejemplo de pregunta "(por ejemplo usted y su pareja, o sus papás)".
+
+Mensaje 2 (cuando responde con interés):
+```
+Excelente. Para apartarle la promoción a su nombre solo necesito:
+
+1. *Correo electrónico* activo
+2. *INE*
+
+Con eso genero su *folio de contratación*, que le respeta el precio y el certificado vacacional hasta el 31 de octubre. *No implica pago ni compromiso hoy.*
+
+Le llegará un correo de *ABRAHAM CUTIPA QUENAYA* con el asunto *"Asegura hoy la paz del mañana"*. Ahí revisa su cotización y firma desde su celular en menos de 5 minutos. Al formalizar solo se carga la *primera mensualidad*.
+
+¿Me comparte su correo para generar su folio hoy mismo?
+```
+
+Mensaje 3 (sin respuesta en 24 h):
+```
+Buen día, solo para confirmar que recibió la información de [la Promoción 2 + 1 en CATEGORÍA / Previsión Esencial Pro]. Le recuerdo que vence el *31 de octubre* y después aplica precio de lista. ¿Tiene alguna duda que le pueda resolver? 🕊️
+```
+
+Uso de la pregunta "¿a quiénes le gustaría proteger?" (calificación): 1–2 personas → Esencial Pro o servicio individual; 3 → paquete 2+1; 6 o más → 2 contratos 2+1. Escalamientos: Esencial con 3 personas → Universal 2+1 (~$955/mes más a 48 m, un servicio más y mejor categoría); Universal que pregunta por otras ciudades → Premier 2+1 (~$807/mes más a 48 m, Multiplaza y Sala Premier). Nunca pedir datos de tarjeta en estos mensajes.
+
 ## Contrato Gayosso (Contrato de prestación de servicios funerarios a futuro, PROFECO 3692-2022) — argumentos verificados
 
 Usar en presentaciones solo lo que está aquí (fuente: contrato de adhesión, págs. 3–8):
