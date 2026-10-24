@@ -140,6 +140,21 @@ Imagen (1080x1350, mismo diseño que la de Esencial Pro): encabezado logo + "PRO
 
 Texto WhatsApp: plantilla estándar con estas variaciones: subtítulo "*Promoción 2 + 1*"; "¿Por qué Premier Pro?" = categoría más completa y única Multiplaza; en INVERSIÓN, línea 2+1 ("Paga menos de lo que cuestan solo 2 a precio de lista (~$164,600.02~): *el tercer servicio le sale de obsequio.*"), luego "OPCIÓN 1 · Débito a 36 meses" y "OPCIÓN 2 · Tarjeta de crédito a 48 meses ⭐ _la más accesible_"; "no se requiere enganche" en ambas; precio congelado + sin intereses; en el siguiente paso, mencionar el correo de ABRAHAM CUTIPA QUENAYA y la firma electrónica; cierre "¿Cuál opción le acomoda mejor?". Enviar primero la imagen y luego el texto.
 
+## Propuesta vigente OCTUBRE 2026: Universal Pro 2+1 (válida solo hasta el 31-oct-2026)
+
+Aprobada 2026-10-24. Mismas reglas que la de Premier Pro 2+1: en NOVIEMBRE no reutilizar cifras; pedir capturas nuevas (DD36, D048 y lista M036) y recalcular.
+
+Cifras (3 servicios Universal Pro, 1 contrato; capturas del cotizador con fecha de precio 23/10/2026):
+- Precio de lista M036: $186,900.03 ($62,300.01 por servicio; 2 a lista = $124,600.02). Mensualidad de lista 36 m: $5,195.82. (Tachado del cotizador $181,293.03: no usarlo.)
+- Promoción (33.33% en cotizador): $120,868.06 → ahorro vs. lista $66,031.97 (35.3%). Beneficio total con certificado: $91,030.97.
+- Opción 1, débito DD36: $3,360.13/mes ($1,835.69 menos que la de lista, mismo plazo; < $38 diarios por persona). Suma 36 pagos $120,964.68 (+$96.62).
+- Opción 2, tarjeta de crédito D048: $2,514.06/mes ("menos de la mitad"; < $28 diarios por persona), "MÁS ACCESIBLE". Suma 48 pagos $120,674.88 (−$193.18). Por las diferencias, no poner "total a pagar" en las opciones.
+- Incluye por servicio: Sala Estándar, ataúd metal o madera cat. Universal, embalsamado y arreglo estético, cafetería básica, Ambivalente. Multiplaza NO: en imagen y texto decir "Servicio en agencia Gayosso de su plaza" (no "local"); si preguntan, cambio de agencia ~20% del contado.
+
+Imagen: mismo diseño que Premier 2+1, con banda "3 Servicios · Gayosso UNIVERSAL PRO" (título corto para que no se parta en dos líneas), tarjetas "1 · DÉBITO 36 MESES", "2 · T. CRÉDITO 48 MESES" (dorada, MÁS ACCESIBLE) y "PROMOCIÓN 2 + 1" ("3 por menos que 2"); diarios como "Menos de $X diarios c/u".
+
+Texto WhatsApp: igual que Premier 2+1, cambiando "¿Por qué Universal Pro?" = punto de equilibrio de Gayosso: ataúd de metal o madera y servicio completo, con inversión muy por debajo de Premier; necesidad: "dejar protegidos a tres integrantes de su familia con un servicio completo, a una mensualidad cómoda"; en ambas opciones mostrar mensualidad de lista (36 meses) tachada.
+
 ## Contrato Gayosso (Contrato de prestación de servicios funerarios a futuro, PROFECO 3692-2022) — argumentos verificados
 
 Usar en presentaciones solo lo que está aquí (fuente: contrato de adhesión, págs. 3–8):
