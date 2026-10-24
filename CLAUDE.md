@@ -155,6 +155,22 @@ Imagen: mismo diseño que Premier 2+1, con banda "3 Servicios · Gayosso UNIVERS
 
 Texto WhatsApp: igual que Premier 2+1, cambiando "¿Por qué Universal Pro?" = punto de equilibrio de Gayosso: ataúd de metal o madera y servicio completo, con inversión muy por debajo de Premier; necesidad: "dejar protegidos a tres integrantes de su familia con un servicio completo, a una mensualidad cómoda"; en ambas opciones mostrar mensualidad de lista (36 meses) tachada.
 
+## Propuesta vigente OCTUBRE 2026: Nicho para 2 urnas, Mausoleo Nogalar (válida solo hasta el 31-oct-2026)
+
+Aprobada 2026-10-24. En NOVIEMBRE no reutilizar cifras; pedir capturas nuevas (M036, P001, D036) y recalcular. Usar como modelo para cualquier propuesta de nicho.
+
+Cifras (producto 827302 "PAQ. NICHO CHICO ZONA MAUS PISO 5 NIV. SUP", Ambivalente NO, Multiplaza NO):
+- Precio de lista M036: $32,000.00 (36 mensualidades de $889.60).
+- Opción 1, contado P001: $25,600.00 → ahorro $6,400 (20%). Es la estrella ("★ MAYOR AHORRO ★"), al revés que en servicios: a meses el descuento es débil.
+- Opción 2, tarjeta de crédito D036: $818.43/mes (36 pagos, enganche opcional; < $28 diarios) → total $29,440, ahorro $2,560 (8%). Suma 36 pagos $29,463.48 (+$23.48): no poner "total a pagar".
+- Beneficio total: contado $31,399 (6,400 + 24,999); 36 meses $27,559. Gancho: el certificado de $24,999 "¡vale casi lo mismo que su nicho!".
+- Incluye: construcción de nicho chico en mausoleo, espacio con capacidad para 2 urnas (dato del usuario, no viene en la cotización: confirmar), piso 5 nivel superior, ceremonia de depósito de cenizas, Mausoleo Nogalar. No mencionar Ambivalente ni Multiplaza.
+- No incluido (cláusula Quinta): cuota de mantenimiento anual, apertura/cierre del nicho, grabado de placa, derechos y trámites. Va en letra pequeña de la imagen y en una nota en cursiva del texto ("se cubren por separado; con gusto le detallo los montos"). Si es nicho/capilla privada: 100% pagado para usarlo.
+
+Imagen: mismo diseño base; banda "Nicho para 2 urnas · Mausoleo Nogalar / Un espacio propio y digno para el descanso de su familia"; "Su nicho incluye:" + recuadro de lista tachado con "36 mensualidades de $889.60"; DOS tarjetas grandes: "1 · CONTADO" (dorada, MAYOR AHORRO) y "2 · T. CRÉDITO 36 MESES"; banda dorada del certificado con "¡Vale casi lo mismo que su nicho!"; mismos 3 pasos, vigencia y pie.
+
+Texto WhatsApp: plantilla estándar; necesidad "asegurar un lugar propio y digno para el descanso de su familia"; título "*PROPUESTA: NICHO PARA 2 URNAS* / *Mausoleo Nogalar*"; "¿Por qué un nicho en Mausoleo Nogalar?" = espacio propio, cuidado y permanente donde reunirse y recordar, sin buscar ni pagar un lugar en el momento más difícil; OPCIÓN 1 contado ⭐ _mayor ahorro_, OPCIÓN 2 TDC 36 con mensualidad de lista tachada; beneficio total en dos líneas (contado / 36 meses); nota de costos no incluidos antes del cierre "¿Cuál opción le acomoda mejor?".
+
 ## Respuesta a leads que SOLICITAN INFORMACIÓN (Meta → WhatsApp), aprobado 2026-10-24
 
 Para prospectos que llegan del anuncio y piden informes NO usar el texto largo de cierre: van 3 mensajes cortos. La imagen de propuesta se envía con el Mensaje 1 como pie. Las cifras son las de octubre 2026 (vigentes al 31-oct); en noviembre se actualizan con capturas nuevas.
