@@ -189,6 +189,23 @@ Imagen: mismo diseño base; banda "Nicho para 2 urnas · Mausoleo Nogalar / Un e
 
 Texto WhatsApp: plantilla estándar; necesidad "asegurar un lugar propio y digno para el descanso de su familia"; título "*PROPUESTA: NICHO PARA 2 URNAS* / *Mausoleo Nogalar*"; "¿Por qué un nicho en Mausoleo Nogalar?" = espacio propio, cuidado y permanente donde reunirse y recordar, sin buscar ni pagar un lugar en el momento más difícil; OPCIÓN 1 contado ⭐ _mayor ahorro_, OPCIÓN 2 TDC 36 con mensualidad de lista tachada; beneficio total en dos líneas (contado / 36 meses); nota de costos no incluidos antes del cierre "¿Cuál opción le acomoda mejor?".
 
+## Propuesta vigente OCTUBRE 2026: 2 Esencial Pro + Nicho de obsequio (válida solo hasta el 31-oct-2026)
+
+Aprobada 2026-10-28. En NOVIEMBRE no reutilizar cifras; pedir capturas nuevas (M036, D036, D048 del paquete) y recalcular. Promoción del cotizador "2 PREVISION GAYOSSO ESENCIAL PRO + PAQ. NICHO CHICO ZONA MAUS PISO 5 NIV. SUP" (25%). Modelo para cualquier "servicios + nicho de obsequio" (existe también la versión 2 Premier Pro + nicho: lista $196,600.02, promo $143,026.52, TDC 48 $2,974.95/mes, ahorro $53,573.50 (27.2%), nicho gratis + $21,573.50; beneficio total $78,572.50; confirmar precios vigentes).
+
+Cifras (1 cotización; tomada como 1 contrato = 1 certificado, confirmar si Gayosso lo formaliza separado → serían 2 certificados $49,998):
+- Precio de lista M036: 2 Esencial $96,600 + nicho $32,000 = $128,600.00; mensualidad de lista 36 m $3,575.08.
+- Opción 1, TDC D036: $88,734.00, $2,466.81/mes ($1,108.27 menos, mismo plazo; < $83 diarios por todo) → ahorro $39,866 (31%). Suma 36 pagos $88,805.16 (+$71.16).
+- Opción 2, TDC D048: $93,556.50, $1,945.98/mes (< $65 diarios por todo), "MÁS ACCESIBLE" → ahorro $35,043.50 (27.2%). Suma 48 pagos $93,407.04 (−$149.46). No poner "total a pagar"; usar "precio con promoción".
+- Gancho: paga menos que solo los 2 Esencial a lista ($96,600) → "el nicho le sale de obsequio" (a 36 m además ahorra $7,866).
+- Beneficio total: 36 m $64,865.00; 48 m $60,042.50.
+- Incluye: por servicio velación en Sala Estándar, ataúd metálico cat. Esencial, embalsamado y arreglo estético, cafetería, Ambivalente (cremación o inhumación); nicho: construcción y espacio en nicho piso 5 nivel superior, ceremonia de depósito de cenizas. Urna NO (confirmar si el paquete de cremación la incluye).
+- Letra pequeña: cremación/ataúd (Gayosso informa si aplica o hay diferencia), no incluye mantenimiento anual, apertura/cierre del nicho, grabado de placa, derechos y trámites.
+
+Imagen: banda "2 Servicios ESENCIAL PRO + Nicho / Servicio y lugar de descanso en un solo plan · ¡el nicho de obsequio!"; dos bloques de incluye (servicio y nicho); recuadro de lista con desglose tachado (2 Esencial / Nicho / total) y "36 mensualidades de $3,575.08"; tarjetas "1 · T. CRÉDITO 36 MESES", "2 · T. CRÉDITO 48 MESES" (dorada, MÁS ACCESIBLE) y "NICHO DE OBSEQUIO" ("Paga menos que solo los 2 servicios", 2 a lista tachado vs. "usted paga por todo desde $88,734", "¡Nicho gratis!"); certificado, vigencia, 3 pasos y pie. Versión Premier: una tarjeta TDC 48 (dorada, "★ TODO EN UN SOLO PLAN ★") + tarjeta NICHO DE OBSEQUIO.
+
+Texto WhatsApp: plantilla estándar; necesidad "dejar resuelto todo para dos integrantes de su familia: la velación, la cremación y el lugar de descanso"; título "*PROPUESTA: 2 PREVISIÓN GAYOSSO ESENCIAL PRO* / *+ NICHO DE OBSEQUIO en Mausoleo Nogalar*"; "¿Por qué esta propuesta?" = resuelve en un solo plan el servicio completo y el lugar donde descansarán las cenizas; INVERSIÓN con desglose de lista (2 servicios, nicho, total, mensualidad de lista), línea de nicho de obsequio, OPCIÓN 1 TDC 36 y OPCIÓN 2 TDC 48 ⭐ _la más accesible_ (precio con promoción, mensualidad, ahorro, diario); beneficio total en dos líneas; nota de costos no incluidos; cierre "¿Cuál opción le acomoda mejor?".
+
 ## Respuesta a leads que SOLICITAN INFORMACIÓN (Meta → WhatsApp), aprobado 2026-10-24
 
 Para prospectos que llegan del anuncio y piden informes NO usar el texto largo de cierre: van 3 mensajes cortos. La imagen de propuesta se envía con el Mensaje 1 como pie. Las cifras son las de octubre 2026 (vigentes al 31-oct); en noviembre se actualizan con capturas nuevas.
