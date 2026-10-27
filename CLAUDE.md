@@ -237,6 +237,55 @@ Buen día, solo para confirmar que recibió la información de [la Promoción 2 
 
 Uso de la pregunta "¿a quiénes le gustaría proteger?" (calificación): 1–2 personas → Esencial Pro o servicio individual; 3 → paquete 2+1; 6 o más → 2 contratos 2+1. Escalamientos: Esencial con 3 personas → Universal 2+1 (~$955/mes más a 48 m, un servicio más y mejor categoría); Universal que pregunta por otras ciudades → Premier 2+1 (~$807/mes más a 48 m, Multiplaza y Sala Premier). Nunca pedir datos de tarjeta en estos mensajes.
 
+## Comparativo PREMIER vs UNIVERSAL (cliente que vio Premier y pide Universal), aprobado 2026-10-28
+
+Cuando el cliente ya recibió Premier Pro 2+1 y pide ver Universal: NO presentar Universal como propuesta nueva desde cero; presentarla comparada con Premier para que la decisión sea "cuál de las dos" y no "compro o no". Cifras de octubre 2026 (en noviembre actualizar).
+
+Mensaje 1 (pie de la imagen de Universal Pro 2+1):
+```
+Con gusto, *[NOMBRE]*. Le comparto la propuesta en *Previsión Gayosso Universal Pro*, con la misma *Promoción 2 + 1*: protege a *3 integrantes de su familia* y *el tercer servicio le sale de obsequio*. 🕊️
+
+✅ *Ahorro de $66,031* contra precio de lista
+💳 *$2,514.06 al mes* por los 3 servicios (tarjeta de crédito, 48 meses)
+💳 *$3,360.13 al mes* por los 3 servicios (débito, 36 meses)
+👨‍👩‍👧 *Menos de $28 diarios por persona*
+🚫 Sin enganche requerido
+🔒 Precio congelado y sin intereses pagando a tiempo
+🎁 *Certificado Vacacional de $24,999* de obsequio
+```
+
+Mensaje 2 (comparación, justo después):
+```
+Para que pueda decidir con toda claridad, así se comparan las dos opciones:
+
+*✅ LO QUE SE MANTIENE IGUAL*
+▪️ 3 servicios, el tercero de obsequio
+▪️ Embalsamado, arreglo estético y cafetería
+▪️ *Ambivalente:* al momento se elige inhumación o cremación
+▪️ Certificado Vacacional de $24,999
+▪️ Precio congelado, sin enganche y atención 24/7
+
+*🔄 LO QUE CAMBIA*
+▪️ *Sala:* Premier ➝ Estándar
+▪️ *Ataúd:* de lujo categoría Premier ➝ metal o madera categoría Universal
+▪️ *Cobertura:* Premier es válido en *cualquier agencia Gayosso del país*; Universal, en la agencia de su plaza
+
+*💰 LA DIFERENCIA*
+Premier Pro: $3,321.14 al mes
+Universal Pro: $2,514.06 al mes
+➡️ *$807 menos al mes con Universal*
+
+Si su familia vive en Monterrey y no le preocupa el traslado a otra ciudad, *Universal Pro le da un servicio completo y digno pagando menos*. Si alguno vive o viaja fuera, *Premier le da esa tranquilidad*.
+
+⏰ Ambas terminan el *sábado 31 de octubre*.
+
+*¿Con cuál de las dos se siente más tranquilo(a)?*
+```
+
+Mensaje de cierre (cuando elige cualquiera): pedir correo electrónico + foto de INE (frente y reverso), folio de contratación sin pago ni compromiso, correo de ABRAHAM CUTIPA QUENAYA "Asegura hoy la paz del mañana" para firmar desde el celular; "¿Me los comparte para dejarlo listo?".
+
+Criterio de decisión que se le da al cliente: familia en Monterrey → Universal; alguien vive o viaja fuera → Premier (Multiplaza). Si pregunta "¿cuál me recomienda?": responder con su propio dato ("Si toda su familia está aquí, Universal: servicio completo y ahorra más de $9,600 al año. Si alguien está fuera, Premier."). Dejarle elegir con criterio reduce cancelaciones en los 5 días hábiles. Para el caso inverso (vio Universal y pregunta por más), usar la misma estructura invirtiendo el sentido: "$807 más al mes" por Sala Premier, ataúd de lujo y Multiplaza.
+
 ## Contrato Gayosso (Contrato de prestación de servicios funerarios a futuro, PROFECO 3692-2022) — argumentos verificados
 
 Usar en presentaciones solo lo que está aquí (fuente: contrato de adhesión, págs. 3–8):
