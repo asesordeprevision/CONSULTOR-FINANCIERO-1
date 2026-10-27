@@ -155,6 +155,24 @@ Imagen: mismo diseño que Premier 2+1, con banda "3 Servicios · Gayosso UNIVERS
 
 Texto WhatsApp: igual que Premier 2+1, cambiando "¿Por qué Universal Pro?" = punto de equilibrio de Gayosso: ataúd de metal o madera y servicio completo, con inversión muy por debajo de Premier; necesidad: "dejar protegidos a tres integrantes de su familia con un servicio completo, a una mensualidad cómoda"; en ambas opciones mostrar mensualidad de lista (36 meses) tachada.
 
+## Propuesta vigente OCTUBRE 2026: Esencial Pro 1 servicio, enfoque VELACIÓN + CREMACIÓN (válida solo hasta el 31-oct-2026)
+
+Aprobada 2026-10-27. En NOVIEMBRE no reutilizar cifras; pedir capturas nuevas (M036, P001, DD36, D036) y recalcular. Usar para clientes que buscan velación y cremación. Plazo máximo 36 meses (débito o crédito) o contado.
+
+Cifras (1 servicio):
+- Precio de lista M036: $48,300.00 (36 mensualidades de $1,342.74).
+- Opción 1, contado P001: $30,912.00 → ahorro $17,388 (36%). Estrella "★ MAYOR AHORRO ★". DERIVADO de la cotización de 2 servicios (÷2): validar con captura P001 de 1 servicio.
+- Opción 2, débito DD36: $1,041.97/mes ($300.77 menos que la de lista; < $35 diarios) → total $37,480.80, ahorro $10,819.20 (22.4%). DERIVADO (÷2): validar con captura DD36.
+- Opción 3, tarjeta de crédito D036: $1,111.79/mes ($230.95 menos; < $38 diarios) → total $39,992.40, ahorro $8,307.60 (17.2%). De cotización real de 1 servicio.
+- Beneficio total: contado $42,387.00; débito $35,818.20; crédito $33,306.60.
+- Incluye: velación en Sala Estándar, ataúd metálico cat. Esencial, embalsamado y arreglo estético, cafetería básica, Ambivalente (al momento se elige cremación o inhumación), agencia Gayosso de su plaza, atención 24/7. NO poner urna (no viene en la cotización) hasta que el usuario confirme que el paquete de cremación la incluye.
+- Argumento clave: "si el servicio termina en cremación, no tiene sentido invertir en un ataúd de lujo; Esencial Pro le da lo que necesita, sin pagar de más".
+- Letra pequeña extra: "Si se elige cremación, Gayosso informa si el ataúd aplica o hay diferencia de precio" (cláusula del contrato).
+
+Imagen: diseño base; banda "1 Servicio · Gayosso ESENCIAL PRO / Velación y cremación · un servicio digno, al precio justo"; "Su servicio incluye:" + recuadro lista tachado con "36 mensualidades de $1,342.74"; tres tarjetas: "1 · CONTADO" (dorada, MAYOR AHORRO), "2 · DÉBITO 36 MESES", "3 · T. CRÉDITO 36 MESES"; banda del certificado, vigencia, 3 pasos y pie.
+
+Texto WhatsApp: plantilla estándar con título "*PROPUESTA: PREVISIÓN GAYOSSO ESENCIAL PRO* / *Velación + Cremación*"; necesidad "velación y cremación, con un servicio digno y al precio justo"; OPCIÓN 1 contado ⭐ _mayor ahorro_, OPCIÓN 2 débito y OPCIÓN 3 crédito, ambas con mensualidad de lista tachada y "menos cada mes, en el mismo plazo"; beneficio total en tres líneas; cierre "¿Cuál opción le acomoda mejor?". Si se confirma que débito es más barato que crédito: "con débito ahorra $70 más al mes".
+
 ## Propuesta vigente OCTUBRE 2026: Nicho para 2 urnas, Mausoleo Nogalar (válida solo hasta el 31-oct-2026)
 
 Aprobada 2026-10-24. En NOVIEMBRE no reutilizar cifras; pedir capturas nuevas (M036, P001, D036) y recalcular. Usar como modelo para cualquier propuesta de nicho.
