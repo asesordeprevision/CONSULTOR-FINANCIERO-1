@@ -303,6 +303,17 @@ Mensaje de cierre (cuando elige cualquiera): pedir correo electrónico + foto de
 
 Criterio de decisión que se le da al cliente: familia en Monterrey → Universal; alguien vive o viaja fuera → Premier (Multiplaza). Si pregunta "¿cuál me recomienda?": responder con su propio dato ("Si toda su familia está aquí, Universal: servicio completo y ahorra más de $9,600 al año. Si alguien está fuera, Premier."). Dejarle elegir con criterio reduce cancelaciones en los 5 días hábiles. Para el caso inverso (vio Universal y pregunta por más), usar la misma estructura invirtiendo el sentido: "$807 más al mes" por Sala Premier, ataúd de lujo y Multiplaza.
 
+## Qué incluye / no incluye (tabla oficial Protección Familiar Gayosso, Agencia A Monterrey) y salas en los formatos
+
+Usar SIEMPRE en imágenes y textos de propuesta (columna lateral "¿Qué incluye? / ¿Qué NO incluye?" aprobada 2026-10-28):
+- Las 3 categorías incluyen: asesoría en trámites; traslado a la funeraria y al cementerio/panteón/crematorio (área conurbada); embalsamamiento; arreglo estético básico (aseo, vestido, maquillaje); cafetería básica; ataúd para inhumación; URNA para cremación; ataúd de uso para presentación (velación si elige cremación); Ambivalente; 100% transferible (usuarios designables sin costo; ceder el contrato completo cuesta 10%).
+- Premier Pro: ataúd de lujo metal o madera cat. Premier; urna de lujo madera cat. Premier; ataúd de lujo de presentación; *Sala de velación Premier 24 h, 60 personas sentadas*; Multiplaza (agencias del mismo tipo o inferior, no superior); 1 copia del acta de defunción PLUS.
+- Universal Pro: ataúd metal o madera cat. Universal; urna de madera cat. Universal; *Sala de velación Estándar 24 h, 40 personas sentadas*. Sin Multiplaza ni acta.
+- Esencial Pro: ataúd de metal cat. Esencial; urna de madera (la tabla dice "de lujo cat. Premiere", probable error: poner solo "urna de madera"); *Sala de velación Estándar 24 h, 20 personas sentadas*. Sin Multiplaza ni acta.
+- NO incluye (las 3): recuperación en hospitales/instituciones; trámites (certificado médico, CODE); apostillados y embajada; traslados foráneos; embalsamamiento clínico; sacerdote y oficios religiosos; oratorio; esquela y flores; transporte de acompañantes; traslados foráneos a destino final; derechos de inhumación; gestión del acta de defunción; maniobras de nicho y de destape.
+- No poner en las imágenes el teléfono 800 de Gayosso ni "atención 24/7" como recuadro (pedido del usuario 2026-10-28).
+- Salas en los formatos (Capillas Marianas): en propuestas Premier escribir "Sala Premier 24 h para 60 personas · salas Premier y Magna (5º piso), Lourdes y Fátima (4º piso) en Capillas Marianas". En Universal/Esencial escribir la capacidad (40 / 20 personas) y NO nombrar sala hasta que el usuario confirme cuáles de Mausoleo A, Mausoleo B, Esperanza y Piedad corresponden a cada categoría.
+
 ## Capillas Marianas (agencia GCM8, Agencia A Monterrey) — salas
 
 Dirección: Lázaro Cárdenas #1005, San Pedro Garza García, N.L.
