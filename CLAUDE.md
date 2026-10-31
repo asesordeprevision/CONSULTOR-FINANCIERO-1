@@ -305,7 +305,10 @@ Criterio de decisión que se le da al cliente: familia en Monterrey → Universa
 
 ## Capillas Marianas (agencia GCM8, Agencia A Monterrey) — salas
 
-Dirección: Lázaro Cárdenas #1005, San Pedro Garza García, N.L. Salas de velación: *Mausoleo A*, *Mausoleo B*, *Esperanza* y *Piedad*. (Pendiente confirmar qué sala corresponde a cada categoría: Premier = Sala Premier 60 personas; Universal = Estándar 40; Esencial = Estándar 20.) Usar los nombres de las salas en citas presenciales y recorridos de cierre ("le muestro la sala Esperanza, donde estaría su familia").
+Dirección: Lázaro Cárdenas #1005, San Pedro Garza García, N.L.
+- Salas PREMIER PRO (Sala Premier, 60 personas): *Premier* (5º piso), *Magna* (5º piso), *Lourdes* (4º piso), *Fátima* (4º piso).
+- Otras salas: *Mausoleo A*, *Mausoleo B*, *Esperanza* y *Piedad* (pendiente confirmar cuáles son Universal, 40 personas, y cuáles Esencial, 20 personas).
+- Uso: en citas presenciales y recorridos de cierre nombrar la sala ("le muestro la sala Magna, en el 5º piso, donde estaría su familia"). Para clientes Premier, recorrer 5º/4º piso; no prometer salas Premier a clientes Universal/Esencial.
 
 ## Contrato Gayosso (Contrato de prestación de servicios funerarios a futuro, PROFECO 3692-2022) — argumentos verificados
 
