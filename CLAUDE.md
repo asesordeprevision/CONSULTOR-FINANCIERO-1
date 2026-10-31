@@ -303,6 +303,10 @@ Mensaje de cierre (cuando elige cualquiera): pedir correo electrónico + foto de
 
 Criterio de decisión que se le da al cliente: familia en Monterrey → Universal; alguien vive o viaja fuera → Premier (Multiplaza). Si pregunta "¿cuál me recomienda?": responder con su propio dato ("Si toda su familia está aquí, Universal: servicio completo y ahorra más de $9,600 al año. Si alguien está fuera, Premier."). Dejarle elegir con criterio reduce cancelaciones en los 5 días hábiles. Para el caso inverso (vio Universal y pregunta por más), usar la misma estructura invirtiendo el sentido: "$807 más al mes" por Sala Premier, ataúd de lujo y Multiplaza.
 
+## Capillas Marianas (agencia GCM8, Agencia A Monterrey) — salas
+
+Dirección: Lázaro Cárdenas #1005, San Pedro Garza García, N.L. Salas de velación: *Mausoleo A*, *Mausoleo B*, *Esperanza* y *Piedad*. (Pendiente confirmar qué sala corresponde a cada categoría: Premier = Sala Premier 60 personas; Universal = Estándar 40; Esencial = Estándar 20.) Usar los nombres de las salas en citas presenciales y recorridos de cierre ("le muestro la sala Esperanza, donde estaría su familia").
+
 ## Contrato Gayosso (Contrato de prestación de servicios funerarios a futuro, PROFECO 3692-2022) — argumentos verificados
 
 Usar en presentaciones solo lo que está aquí (fuente: contrato de adhesión, págs. 3–8):
