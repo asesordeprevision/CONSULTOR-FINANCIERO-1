@@ -314,9 +314,19 @@ Usar SIEMPRE en imágenes y textos de propuesta (columna lateral "¿Qué incluye
 - No poner en las imágenes el teléfono 800 de Gayosso ni "atención 24/7" como recuadro (pedido del usuario 2026-10-28).
 - Salas en los formatos (Capillas Marianas): en propuestas Premier escribir "Sala Premier 24 h para 60 personas · salas Premier y Magna (5º piso), Lourdes y Fátima (4º piso) en Capillas Marianas". En Universal/Esencial escribir la capacidad (40 / 20 personas) y NO nombrar sala hasta que el usuario confirme cuáles de Mausoleo A, Mausoleo B, Esperanza y Piedad corresponden a cada categoría.
 
-## Capillas Marianas (agencia GCM8, Agencia A Monterrey) — salas
+## Direcciones Gayosso Monterrey y cobertura nacional (usar en propuestas cuando se requiera)
 
-Dirección: Lázaro Cárdenas #1005, San Pedro Garza García, N.L.
+- *Capillas Marianas* (agencia GCM8, Agencia A): Av. Lázaro Cárdenas No. 1005 Pte., Col. Loma Larga, C.P. 66220, San Pedro Garza García, N.L.
+- *Nuevas Capillas Nogalar*: Av. Nogalar Sur #440, entre Futuro Nogalar y Privada San Francisco.
+- *Cementerio Jardines del Descanso* (oficina CJ04): Calle de la Meza No. 7650, Col. La Estanzuela, C.P. 64988, Monterrey, N.L. Tel. (81) 8317 8505, abierto todos los días de 5:00 a 18:00.
+- *Oficinas administrativas*: Aramberri No. 1115 Ote., esq. Diego de Montemayor, Col. Centro, Monterrey, N.L. Tel. (81) 8173 5469. L–V 9:00–13:00 y 15:00–18:00; sábados 9:00–13:00.
+- *Oficinas telemarketing*: Hidalgo #1911, Col. Obispado, entre Verlaine y Baudelaire.
+- *Reportar fallecimiento*: *247 (línea de emergencia funeraria, consejeros 24 h). Documentos para solicitar el servicio: contrato; certificado médico de defunción; identificación oficial vigente del fallecido (INE, pasaporte o cédula); acta de nacimiento; acta de matrimonio. (Usar en mensajes post-venta/bienvenida, no en las imágenes de propuesta.)
+- *Cobertura nacional Gayosso*: 13 estados, 24 agencias, 23 cementerios, 17 mausoleos (Baja California, Durango, Coahuila, Nuevo León, Tamaulipas, Aguascalientes, Guanajuato, Guadalajara/Jalisco, Estado de México, Michoacán, Guerrero, CDMX, Morelos). Nuevo León: 2 agencias, 1 cementerio, 1 mausoleo.
+- *Premier Pro Multiplaza*: el servicio se redime en las agencias Gayosso de todo México donde hay Gayosso (24 agencias en 13 estados). Argumento: "válido en las 24 agencias Gayosso de 13 estados". Universal y Esencial: solo su plaza.
+
+## Capillas Marianas — salas
+
 - Salas PREMIER PRO (Sala Premier, 60 personas): *Premier* (5º piso), *Magna* (5º piso), *Lourdes* (4º piso), *Fátima* (4º piso).
 - Otras salas: *Mausoleo A*, *Mausoleo B*, *Esperanza* y *Piedad* (pendiente confirmar cuáles son Universal, 40 personas, y cuáles Esencial, 20 personas).
 - Uso: en citas presenciales y recorridos de cierre nombrar la sala ("le muestro la sala Magna, en el 5º piso, donde estaría su familia"). Para clientes Premier, recorrer 5º/4º piso; no prometer salas Premier a clientes Universal/Esencial.
