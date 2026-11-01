@@ -46,7 +46,7 @@ Reglas de cálculo y contenido:
 - Apartado: solo correo electrónico activo + INE → se genera folio de contratación que respeta precio y regalo hasta la fecha límite. "No implica pago ni compromiso hoy."
 - Obsequio: Certificado Vacacional con valor de $24,999 POR CONTRATO (2 contratos = 2 certificados = $49,998).
 - Promoción 2+1 con más de 3 servicios: se hacen contratos separados de 3 servicios cada uno; mostrar mensualidad por contrato y pago mensual total.
-- Fecha límite actual de la promoción: 31 de octubre de 2026 (actualizar si cambia).
+- Fecha límite actual de la promoción: *30 de noviembre de 2026* (anuncio oficial Gayosso visto 2026-11-01: "Hasta el 30 de noviembre: 2 servicios + 1 sin costo adicional, además de un certificado"). Las cifras de octubre guardadas abajo se usan solo hasta confirmar con capturas nuevas del Cotizador que no cambiaron; confirmar también que el certificado vacacional sigue siendo de $24,999.
 - Incluir: ahorro $ y %, mensualidad de lista vs promoción, equivalente diario, precio congelado, beneficio total (ahorro + $24,999).
 - Categorías Gayosso: PREMIER PRO, UNIVERSAL PRO y ESENCIAL PRO. Las tres son AMBIVALENTES = el usuario elige al momento entre paquete de INHUMACIÓN o de CREMACIÓN. Solo PREMIER PRO es MULTIPLAZA (se redime en cualquier agencia Gayosso del país sin costo adicional); Universal y Esencial son LOCALES (cambiar de agencia cuesta ~20% del precio de contado del paquete en la nueva agencia).
 - OJO: "Ambivalente" NO significa "lo usa quien lo necesite primero" (error en propuestas anteriores al 2026-10-23).
