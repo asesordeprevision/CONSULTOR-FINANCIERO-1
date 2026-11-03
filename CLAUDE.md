@@ -53,6 +53,8 @@ Reglas de cálculo y contenido:
 - No inventar coberturas, intereses ni datos que no estén en la cotización; al final listar al usuario los puntos a confirmar.
 - Nunca mencionar "Día de Muertos". Formato WhatsApp (*negritas* con un asterisco, ~tachado~), dentro de bloque de código para copiar. Nombre del cliente como *[NOMBRE]* si no se da. Trato de "usted".
 - Nunca pedir datos de tarjeta por WhatsApp.
+- Liga de validación de asesor (página "Identidad Validada" de Grupo Gayosso, con foto, zona Monterrey y correo de reporte asesoresgayosso@gayosso.com): https://gayossocatrinas.com/951848-2/ . Incluirla en TODOS los textos de propuesta, cierre y solicitud de información, antes de la pregunta de cierre: "✅ Puede validar mi registro como asesor oficial aquí: 👉 [liga]". En el mensaje donde se piden correo e INE, repetirla ("Antes de compartirme su INE, puede validar que soy asesor oficial aquí"). La página muestra el nombre como "CUITPA" (error de captura de Gayosso): si el cliente pregunta, es la misma persona.
+- Cliente que quiere SOLO servicio funerario (inhumación, sin cremación): presentar "🎁 DE OBSEQUIO: PLAN AMBIVALENTE · 2 EN 1" = contrata inhumación y sin pagar más se lleva la opción de cremación (urna de madera + ataúd de presentación); "2 opciones al precio de 1". Usar "2 en 1", NUNCA "2x1" (sugiere dos servicios). Letra pequeña: si se elige cremación, Gayosso informa si el ataúd aplica o hay diferencia de precio. Modelo aprobado 2026-11-03 con Esencial Pro 1 servicio (lista $48,300; TDC 36 $1,111.79; enganche 15% $5,542.43 + $897.87; enganche 20% $7,389.90 + $842.45; precio con enganche $36,949.50).
 
 Plantilla:
 
