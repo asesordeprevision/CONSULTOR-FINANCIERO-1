@@ -317,7 +317,7 @@ Usar SIEMPRE en imágenes y textos de propuesta (columna lateral "¿Qué incluye
 ## Direcciones Gayosso Monterrey y cobertura nacional (usar en propuestas cuando se requiera)
 
 - *Capillas Marianas* (agencia GCM8, Agencia A): Av. Lázaro Cárdenas No. 1005 Pte., Col. Loma Larga, C.P. 66220, San Pedro Garza García, N.L.
-- *Nuevas Capillas Nogalar*: Av. Nogalar Sur #440, entre Futuro Nogalar y Privada San Francisco.
+- *Nuevas Capillas Nogalar* ("Marianas Nogalar", nueva casa funeraria, APERTURA DICIEMBRE 2026; ya se puede visitar con el asesor): Av. Nogalar Sur #440, entre Futuro Nogalar y Privada San Francisco. Argumento en visitas: conocer las dos instalaciones (Capillas Marianas y la nueva Nogalar).
 - *Cementerio Jardines del Descanso* (oficina CJ04): Calle de la Meza No. 7650, Col. La Estanzuela, C.P. 64988, Monterrey, N.L. Tel. (81) 8317 8505, abierto todos los días de 5:00 a 18:00.
 - *Oficinas administrativas*: Aramberri No. 1115 Ote., esq. Diego de Montemayor, Col. Centro, Monterrey, N.L. Tel. (81) 8173 5469. L–V 9:00–13:00 y 15:00–18:00; sábados 9:00–13:00.
 - *Oficinas telemarketing*: Hidalgo #1911, Col. Obispado, entre Verlaine y Baudelaire.
