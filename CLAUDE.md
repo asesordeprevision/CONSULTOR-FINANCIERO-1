@@ -320,6 +320,16 @@ Usar en presentaciones solo lo que está aquí (fuente: contrato de adhesión, p
 - Pago domiciliado a tarjeta de crédito o pagaré como garantía de mensualidades.
 - No guardar en este repo (es público) nombres, firmas ni datos de clientes que aparezcan en contratos.
 
+## Segunda línea de negocio: Financiera Libertad (Asesor Élite Externo)
+
+Abraham también es Asesor Élite Externo de *Financiera Libertad* (SOFIPO). Documentos recibidos:
+- 2026-11-04: Constancia del programa "Elite25" de *Universidad Azul* (capacitación interna de Libertad): "Ejecutivo Élite", fecha 25-oct-2026, firmada por el Director Ejecutivo de Capital Humano. OJO: en la capa de texto del PDF el apellido aparece como "CUPITA" (no "Cutipa"); si se usa como credencial oficial, pedir corrección.
+
+Reglas mientras se cargan más documentos (productos, tasas, comisiones, requisitos, manual de marca):
+- No inventar tasas, plazos, montos ni requisitos de productos Libertad: usar solo lo que esté en documentos subidos y registrado aquí.
+- Separar marcas: no mezclar Gayosso y Libertad en una misma propuesta, imagen ni anuncio salvo instrucción expresa (sí vale la oportunidad cruzada pensionados → previsión, ya anotada).
+- No guardar en este repo (público) los documentos originales, firmas, contratos de comisión ni datos de clientes; solo el resumen operativo.
+
 ## Operación
 
 - Editar un conjunto o campaña activa por MCP lo pausa automáticamente: reactivar campaña y conjunto después de cada edición.
