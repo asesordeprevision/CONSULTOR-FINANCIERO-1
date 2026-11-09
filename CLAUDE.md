@@ -351,6 +351,22 @@ Usar en presentaciones solo lo que está aquí (fuente: contrato de adhesión, p
 - Pago domiciliado a tarjeta de crédito o pagaré como garantía de mensualidades.
 - No guardar en este repo (es público) nombres, firmas ni datos de clientes que aparezcan en contratos.
 
+## Contrato Gayosso aplicado a PROPIEDAD (jardín privado, nichos, gavetas, capillas) — leído del contrato PROFECO 3692-2022 el 2026-11-09
+
+Mismo contrato de adhesión que los servicios funerarios. Puntos clave para explicar al cliente de propiedad (sin datos del cliente de la copia revisada):
+- *Perpetuidad* (cláusula Tercera): el derecho de uso de fosas, nichos, gavetas y jardines es a perpetuidad conforme a la legislación aplicable. Al liquidar, Gayosso emite *Constancia de Pago Total* y el *Título de Derecho de Uso a Perpetuidad* (cláusula Sexta), con plano de ubicación.
+- *Uso*: capillas y jardines privados requieren *100% pagado* para usarse (tabla de la cláusula Octava). El contrato puede usarse a partir de *15 días de la firma*; antes se trata como necesidad inmediata (precios de lista de uso inmediato, abonando lo pagado).
+- *Lugar en construcción*: si el lugar aún no está construido, Gayosso debe tenerlo disponible en máximo 180 días naturales; si no, paga pena convencional al cliente.
+- *Mantenimiento anual* (Quinta): obligatorio; se cobra a partir de los 6 meses de la adquisición o al primer uso, lo que ocurra primero. Para usar el lugar hay que estar al corriente. Montos en gayosso.com (tabla interna: jardines $2,800 + conservación $1,050, confirmar).
+- *Abandono*: lugares sin inhumación, depósito de cenizas ni pago de mantenimiento por 10 años se consideran abandonados y Gayosso puede recuperarlos (con notificación previa y exhumación). Decirlo con honestidad: el mantenimiento al corriente protege la perpetuidad.
+- *No incluido / a cargo del cliente*: derechos de inhumación ante autoridad, apertura y cierre (maniobras), grabado de lápida, mantenimiento anual, gestión de actas, derechos de traslado y permisos de inhumación, exhumación, reinhumación o cremación.
+- *Beneficiarios*: hasta 2; titular sustituto designable y removible; usuarios designables y modificables por escrito.
+- *Cesión*: al corriente, pagando 10% del precio vigente; Gayosso responde en 30 días naturales.
+- *Pagos*: anticipados sin penalización; sin intereses pagando a tiempo; mora 3% mensual; >90 días puede rescindirse. Domiciliación a tarjeta de crédito o pagaré como garantía.
+- *Cancelación*: 5 días hábiles tras la firma con devolución íntegra (aviso fehaciente por escrito). Después, pena convencional de 48% de lo pagado. Contratos ya usados (incluye Jardines Privados) NO pueden cancelarse: se mantienen hasta su liquidación.
+- *Quita por fallecimiento del titular*: aplica solo a UN servicio funerario del titular; NO condona lotes, gavetas, criptas o nichos restantes: no prometerla en propiedad.
+- Incumplimiento de Gayosso: devuelve lo pagado + 48%. Controversias: PROFECO. Atención a clientes L–V 9:00–17:00.
+
 ## Operación
 
 - Editar un conjunto o campaña activa por MCP lo pausa automáticamente: reactivar campaña y conjunto después de cada edición.
