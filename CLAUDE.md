@@ -355,6 +355,21 @@ Usar en presentaciones solo lo que está aquí (fuente: contrato de adhesión, p
 - Pago domiciliado a tarjeta de crédito o pagaré como garantía de mensualidades.
 - No guardar en este repo (es público) nombres, firmas ni datos de clientes que aparezcan en contratos.
 
+## Argumentos oficiales de gayosso.com (extraídos 2026-11-10; usar en textos e imágenes de confianza)
+
+- *Contigo desde 1875*: 150 años; fundada por Eusebio Gayosso tras perder a su madre, para simplificar trámites y acompañar a las familias. Primera agencia en el Hotel Gillow (CDMX).
+- *Más de 2 millones de mexicanos confían en Gayosso*; más de 830 mil familias acompañadas.
+- *La única funeraria con servicio integral*: previsión, capillas, mausoleos y cementerios propios.
+- Presencia nacional (sitio web): 24 agencias, 23 cementerios y 21 mausoleos (la presentación local decía 17 mausoleos: usar 21).
+- Calidad: ISO 9001 y norma UNE de servicios funerarios; NPS certificado por tercero.
+- Planes funerarios: "Planifica y ahorra · 100% transferible · Inhumación o cremación · Plan personalizado". Atención inmediata 24/7.
+- Agencias: cafetería, florería, capilla ecuménica, crematorio, nichos, estacionamiento, wifi, valet parking, accesibilidad, elevador.
+- *Gayosso MED*: telemedicina y segunda opinión médica; descuentos de 5% a 25% en medicamentos y farmacias; 1 servicio de ambulancia al año; cuestionario de salud. (Se regala en la preventa Nogalar, "aplican restricciones".)
+- *Gayosso Contigo*: plan de lealtad para clientes, descuentos con +1,500 aliados, app iOS/Android (gayossocontigo.com).
+- Otros: servicio internacional (traslados, acta apostillada), Rest In Cloud (obituario digital, mural conmemorativo), Pet Love Story (mascotas), florería en línea, asistencia emocional (guías de duelo).
+- Testimonios públicos: "Nunca me esperé el gran servicio que nos ofrecieron" (Familia Ávila); "Empresa muy atenta y con personal muy cálido y humano" (Familia Baltazar).
+- Imagen de confianza: propuesta/por_que_gayosso.html (render nocturno de Nogalar).
+
 ## Catálogo de propiedades Gayosso 2025 (Drive: CATÁLOGO_PROPIEDADES_25.pdf, leído 2026-11-10)
 
 Todas: uso perpetuo, cuota anual de mantenimiento y/o conservación, inventario varía por plaza, imágenes ilustrativas. Medidas interiores aproximadas:
