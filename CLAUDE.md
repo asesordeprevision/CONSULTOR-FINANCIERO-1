@@ -408,6 +408,7 @@ Medios de pago de mensualidades (para clientes ya contratados, post-venta):
 - Emergencia funeraria *247; 800 GAYOSSO (800 429 6776); redes @GayossoOnline. (No poner los 800 en imágenes de propuesta; sí en mensajes post-venta/bienvenida.)
 
 Cuotas anuales de mantenimiento (tabla interna; usar para responder "¿cuánto es el mantenimiento?"):
+- TABLA "CLUSTER 1" (compartida 2026-11-10, más reciente; confirmar si Monterrey es Cluster 1): gaveta mural / 4 gavetas / Ciprés $1,520; sendero memorial $1,520; jardines $2,530; capillas $3,165. Si se confirma, usar estas cifras en lugar de las de abajo.
 - Nicho chico/individual $1,150; nicho grande/familiar $1,700; gaveta mural/4 gavetas/Ciprés $1,700; jardines $2,800; capillas $3,500; sendero memorial $1,700 (aplica en cementerios y mausoleos Gayosso, incl. Monterrey).
 - Cuota de conservación: lote gaveta 2G/3G/4G, lote preferencial y gaveta mural $750; capilla, jardín familiar y jardín privado $1,050; nichos $900. (Confirmar con oficina si el nicho paga mantenimiento + conservación o solo una.)
 
