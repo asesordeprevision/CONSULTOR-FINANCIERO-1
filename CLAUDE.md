@@ -351,6 +351,14 @@ Usar en presentaciones solo lo que está aquí (fuente: contrato de adhesión, p
 - Pago domiciliado a tarjeta de crédito o pagaré como garantía de mensualidades.
 - No guardar en este repo (es público) nombres, firmas ni datos de clientes que aparezcan en contratos.
 
+## Catálogo de propiedades Gayosso 2025 (Drive: CATÁLOGO_PROPIEDADES_25.pdf, leído 2026-11-10)
+
+Todas: uso perpetuo, cuota anual de mantenimiento y/o conservación, inventario varía por plaza, imágenes ilustrativas. Medidas interiores aproximadas:
+- Cementerio: *Nicho exterior* 30×60×30 cm, mármol (chico 2 urnas, grande 4, familiar 6). *Lote tipo americano* 0.93×2.30×0.76 m, lápida y florero, 2 o 4 gavetas. *Gaveta mural* 0.90×2.50×0.80 m, tapa de mármol, 1 gaveta (doble: 2, altura 1.60 m; triple: 3; *obispal*: 1, 2.50 m de frente). *Ciprés ecológico* 30×40×35 cm con árbol ciprés, 1 urna. *Sendero memorial* 67×30×30 cm forrado de mármol con jardinera, 4 urnas.
+- Producto mayor: *Jardín privado* 7.99 m² (2.24 × 2.94 m), 4 gavetas / 4 osarios BAJO PISO, muros inferiores de block y superiores de tabique rojo, repisón y tapas de concreto. *Jardín familiar* 12.51 m² (3.30 × 3.10 m), 8 gavetas / 8 osarios bajo piso. *Capilla estándar* 11.42 m² (3.34 × 3.42 m), 6 gavetas / 6 osarios sobre o bajo piso, loseta, cancel de aluminio y cristal. *Capilla clásica* 10.96 m² (3.20 × 3.42 m), 6/6, puerta en arco y cúpula. *Capilla premier* igual a clásica + detalles de cantera. *Capilla doble romana* 7.34 m² (2.71 × 2.71 m), 5 gavetas / 4 osarios sobre piso.
+- Mausoleo: *Nicho interior* mueble MDF con melamina, cristal claro; individual 1 urna, chico 2, grande 4, familiar 6.
+- Escalera de venta del jardín privado: si la familia es de más de 4 → jardín familiar (8); si busca construcción cerrada → capillas (6).
+
 ## Contrato Gayosso aplicado a PROPIEDAD (jardín privado, nichos, gavetas, capillas) — leído del contrato PROFECO 3692-2022 el 2026-11-09
 
 Mismo contrato de adhesión que los servicios funerarios. Puntos clave para explicar al cliente de propiedad (sin datos del cliente de la copia revisada):
