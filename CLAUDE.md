@@ -4,6 +4,10 @@ Cuenta publicitaria principal: `789501147519125` (negocio "Abraham Cutipa - Ases
 La cuenta `1779143873445450` ("Consultor Financiero" / Previsión Familiar) aún no está habilitada para Ads MCP.
 Mercado: previsión funeraria / previsión familiar en Nuevo León (Monterrey y área metropolitana).
 
+## Alcance de este proyecto (regla del usuario 2026-11-10)
+
+Aquí SOLO se trabaja Previsión Gayosso (campaña CALIENTE `120257101274740768` y futuras de previsión/propiedad). Las campañas de créditos IMSS Ley 73 y "Primeras Ventas por WhatsApp con Fotos" (`120257509932420768`) se manejan en otro lado: no reportarlas ni proponer cambios sobre ellas aquí.
+
 ## Reglas de segmentación para TODA campaña nueva (o al editar una existente)
 
 Origen: 2026-10-06 llegaron conversaciones de WhatsApp con números extranjeros aunque el 100% de la entrega fue en MX.
