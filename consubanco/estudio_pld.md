@@ -98,3 +98,6 @@ Como asesor, eres prestador de servicios de la entidad, así que el agravante te
 4. Delito precedente al lavado de dinero → **Robo y fraude** (el delito que genera los recursos ilícitos que luego se lavan).
 
 **Resultado evaluación (4 preguntas): 100.**
+
+**Evaluación "¡Identificando las leyes!"**
+1. "El art. 115 LIC no impone ninguna obligación a las entidades financieras" → **Falso** (es la base de las obligaciones PLD: identificar clientes y reportar operaciones a la SHCP/UIF).
