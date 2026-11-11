@@ -218,3 +218,4 @@ Cada centro de trabajo determina su nivel y cumple las disposiciones que le corr
 3. Uno de los 3 principios para el uso ético de IA → **Trazabilidad** (decisiones de IA explicables y auditables; las otras opciones contradicen supervisión humana y minimización de datos).
 4. Principio de ética digital que evita sesgos en datos y modelos algorítmicos → **No discriminación** (no discriminación algorítmica, Código 3.12).
 5. Definición de abuso de confianza → **Apropiarse o utilizar indebidamente un bien confiado solo para uso temporal** (fuerza/amenaza = extorsión; alterar documento = falsificación).
+6. Qué comprende el control interno → **Funciones que las entidades realizan de forma cotidiana y permanente para asegurar, mediante medidas y controles...** (no "periódica" ni "exclusivamente legal": es proceso permanente).
