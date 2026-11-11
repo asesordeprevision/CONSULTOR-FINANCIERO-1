@@ -138,6 +138,54 @@ Hay que firmar la **constancia de conocimiento y aceptación** (Anexo B) y entre
 
 La Entidad se compromete a proteger el ambiente para las generaciones presentes y futuras, cumplir la legislación ecológica y fomentar la participación del personal en tecnologías y productos que conserven recursos, faciliten el reciclaje, eliminen la contaminación y preserven el entorno. El código también tiene una sección de desarrollo sostenible y conducta **ASG** (ambiental, social y gobierno corporativo).
 
+## Material de cierre del curso (compartido 2026-11-11)
+
+**Infografía "Brújula de integridad: Código de Ética y Conducta Grupo Consupago".** Resume el Código así:
+- Misión y Visión al 2026: maximizar el valor del grupo con experiencias ágiles y una transformación centrada en el cliente.
+- **Responsabilidad 24/7**: la integridad se mantiene incluso fuera del horario laboral.
+- Seis valores: Respeto, Honestidad, Compromiso, Confiabilidad, Agilidad y Colaboración.
+- **Innovación con ética (IA)**: el uso de inteligencia artificial debe garantizar **supervisión humana, transparencia y no discriminación algorítmica**.
+- **Tolerancia cero a la corrupción**: prohibido ofrecer o aceptar sobornos y regalos inapropiados, y participar en prácticas que limiten la libre competencia.
+- **Escala de sanciones**: amonestación verbal → amonestación escrita / suspensión → despido inmediato / denuncia legal. El Código detalla esta escala como amonestación verbal, acta administrativa, suspensión temporal, despido y denuncia ante autoridades. Si el examen dice "amonestación escrita", equivale al acta administrativa.
+- **Conductas punibles** (Código Penal Federal):
+  - Fraude: engaño para alcanzar un lucro indebido.
+  - Abuso de confianza: disponer para sí de algo ajeno recibido en tenencia.
+  - Falsificación: alterar la autenticidad de documentos o firmas.
+
+**Ficha NOM-035** (Universidad Consupago, V.02, actualizada el 05/02/2026, validada por la Subdirección de Contraloría Normativa).
+
+**Objetivo:** identificar, analizar y **prevenir factores de riesgo psicosocial** y fomentar un **entorno organizacional favorable**.
+
+**A quién aplica:** a todo el territorio nacional y a todos los centros de trabajo, en **tres niveles** según el número de trabajadores:
+- Hasta **15** trabajadores.
+- De **16 a 50** trabajadores.
+- **Más de 50** trabajadores.
+
+Cada centro de trabajo determina su nivel y cumple las disposiciones que le corresponden.
+
+**Obligaciones del empleador:**
+- **Política integral**: prevenir riesgos psicosociales y violencia laboral, y difundirla.
+- **Diagnóstico**: identificar y analizar los factores de riesgo con evaluaciones periódicas.
+- **Comunicación**: informar a los trabajadores de las medidas y los resultados.
+
+**Obligaciones del trabajador:**
+- **Colaborar en los diagnósticos**.
+- **Reportar y denunciar** prácticas negativas y actos de violencia laboral.
+- **Capacitación y salud**: asistir a eventos informativos y someterse a los exámenes médicos o evaluaciones requeridas.
+
+**Factores de riesgo psicosocial** (6):
+- Condiciones del ambiente de trabajo.
+- Control sobre el trabajo.
+- Jornadas que exceden lo establecido en la ley.
+- Interferencia en la relación trabajo-familia.
+- Liderazgo negativo y relaciones negativas.
+- Violencia laboral.
+
+**Trampas NOM-035:**
+- Es una norma de la STPS sobre riesgo **psicosocial**, no sobre riesgo físico ni químico.
+- Aplica a **todos** los centros de trabajo, incluso los de 15 trabajadores o menos; lo que cambia según el número de trabajadores son las obligaciones.
+- El trabajador también tiene obligaciones, no solo el empleador.
+
 ## Trampas típicas de examen
 
 - "¿El control interno da seguridad absoluta?" No: **razonable**.
@@ -148,6 +196,8 @@ La Entidad se compromete a proteger el ambiente para las generaciones presentes 
 - "¿Un pago para agilizar un trámite de rutina está permitido?" No, es corrupción.
 - "¿El Código aplica a promotores y comisionistas?" Sí.
 - "¿La confidencialidad termina al salir de la empresa?" No.
+- "¿El uso de IA en la institución requiere qué?" Supervisión humana, transparencia y no discriminación algorítmica.
+- "¿Cuántos niveles de aplicación tiene la NOM-035?" Tres: hasta 15, de 16 a 50 y más de 50 trabajadores.
 
 ## Respuestas de ejercicios del curso
 
