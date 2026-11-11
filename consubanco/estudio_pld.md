@@ -179,3 +179,4 @@ Como asesor, eres prestador de servicios de la entidad, así que el agravante te
 2. ¿Quién puede ser PEP? → **El cónyuge de un senador en funciones** (cónyuges y parientes cercanos —consanguinidad/afinidad hasta 2º grado— se equiparan; un sobrino lejano no).
 3. ¿Qué clientes requieren recopilación más profunda y cuestionarios adicionales? → **Clientes de alto riesgo, como casinos o remesas** (debida diligencia reforzada).
 4. Operación que no coincide con el perfil del cliente y sin justificación razonable → **Operación inusual** (relevante = efectivo ≥ 7,500 USD, por monto).
+**Resultado evaluación KYC: 100.**
