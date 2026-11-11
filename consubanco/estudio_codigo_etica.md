@@ -103,6 +103,21 @@ Ambiente sano y seguro; se sancionan el castigo corporal, la coerción mental y 
 - **Extorsión**, art. 390: obligar a alguien sin derecho a dar, hacer, dejar de hacer o tolerar algo para obtener un lucro; 2 a 8 años de prisión.
 - Delitos bancarios: capítulo IV de la Ley de Instituciones de Crédito, por ejemplo el art. 112 Bis sobre tarjetas.
 
+**Del texto del curso, módulo "Conductas observables aplicables a fraudes"** (compartido 2026-11-11). El objetivo del módulo es que todos los colaboradores identifiquen las conductas que constituyen delitos y sus consecuencias legales.
+
+La falsificación de documentos tiene cinco formas que suelen preguntarse:
+- Poner una firma falsa o alterar una verdadera.
+- Usar indebidamente una firma o rúbrica en blanco ajena para un trámite distinto al original.
+- Alterar el contexto de un documento verdadero después de concluido y firmado.
+- Cambiar la fecha o cualquier otra circunstancia de tiempo.
+- Atribuirse la autoría de quien extiende el documento.
+
+La extorsión es un delito contra el **patrimonio y la propiedad**: se usa fuerza, presión o amenaza para obligar a alguien a actuar. La pena es de **2 a 8 años de prisión y multa de 40 a 160 días**.
+
+La institución tiene **tolerancia cero** frente a la corrupción y el fraude, con políticas de **prevención, detección y denuncia**.
+
+Para tu trabajo de asesor, la aplicación práctica es directa: nunca llenes ni firmes por el cliente, no uses formatos firmados en blanco, no modifiques una solicitud ya firmada y no alteres fechas de recibos o de documentos.
+
 **Denuncias**: se hacen ante la **Dirección Jurídica y de Cumplimiento**, de forma anónima, confidencial o personal. Si la resolución no satisface, se escala a **Capital Humano**. Hay buzón de voz 24 h, **(55) 5081 3307**, y el correo **consejeroscsp@consubanco.com**.
 - **Sin represalias** contra quien denuncia, pero una declaración falsa puede causar el despido.
 - Los casos relevantes se informan al Comité de Auditoría, a la Dirección General y, en su caso, al Consejo.
