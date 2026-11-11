@@ -220,3 +220,4 @@ Cada centro de trabajo determina su nivel y cumple las disposiciones que le corr
 5. Definición de abuso de confianza → **Apropiarse o utilizar indebidamente un bien confiado solo para uso temporal** (fuerza/amenaza = extorsión; alterar documento = falsificación).
 6. Qué comprende el control interno → **Funciones que las entidades realizan de forma cotidiana y permanente para asegurar, mediante medidas y controles...** (no "periódica" ni "exclusivamente legal": es proceso permanente).
 7. Cuándo se aceptan invitaciones de proveedores → **Cuando formen parte integral de la agenda de trabajo** (voluntaria, objetivo legítimo; informar al supervisor; Código 3.7.1 punto 2).
+8. Queja o inquietud sobre el Código → **Dirección Jurídica y de Cumplimiento** (Capital Humano solo si la resolución no es satisfactoria; Código 9.1).
