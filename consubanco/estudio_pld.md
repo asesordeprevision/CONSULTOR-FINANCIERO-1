@@ -79,3 +79,5 @@ Qué hacer: no confrontar al cliente, no avisarle, documentar y reportar de inme
 2. En el financiamiento al terrorismo lo más importante es… → **El destino de los recursos** (pueden ser de origen lícito).
 3. Señal de alerta en la fase de colocación → **Ingresos en efectivo desproporcionados al tamaño del negocio.**
 4. Delito precedente al lavado de dinero → **Robo y fraude** (el delito que genera los recursos ilícitos que luego se lavan).
+
+**Resultado evaluación (4 preguntas): 100.**
