@@ -191,3 +191,4 @@ Como asesor, eres prestador de servicios de la entidad, así que el agravante te
 7. Objetivo de la estratificación → **Romper el rastro del origen del dinero mediante operaciones complejas.**
 8. Tipos de operaciones a monitorear y reportar → **Relevantes, inusuales e internas preocupantes.**
 9. "Clientes de alto riesgo requieren medidas reforzadas de debida diligencia" → **Verdadero**.
+10. Delito precedente al lavado → **Robo y Fraude**.
