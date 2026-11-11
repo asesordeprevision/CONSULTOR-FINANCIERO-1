@@ -183,3 +183,4 @@ Como asesor, eres prestador de servicios de la entidad, así que el agravante te
 
 **EXAMEN FINAL PLD**
 1. ¿Cuándo sanciona la CNBV a la Entidad? → **Cuando la información del expediente sea incompleta, ilegible, contenga errores o no cumpla con los Manuales.**
+2. "El FT solo puede llevarse a cabo con recursos de origen ilícito" → **Falso** (pueden ser lícitos; importa el destino).
