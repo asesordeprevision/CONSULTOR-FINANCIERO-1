@@ -103,3 +103,4 @@ Como asesor, eres prestador de servicios de la entidad, así que el agravante te
 1. "El art. 115 LIC no impone ninguna obligación a las entidades financieras" → **Falso** (es la base de las obligaciones PLD: identificar clientes y reportar operaciones a la SHCP/UIF).
 2. "Sanciones por lavado hasta 15 años de prisión según art. 400 Bis CPF" → **Verdadero** (5 a 15 años).
 3. "Las leyes y normativas sobre delitos financieros no están disponibles al público" → **Falso** (se publican en el DOF; son públicas).
+4. "Solo quienes administran o supervisan reciben sanciones, los demás quedan exentos" → **Falso** (art. 4 LFDO: quien dirige 20–40 años; quien no tiene esas funciones 10–20 años).
