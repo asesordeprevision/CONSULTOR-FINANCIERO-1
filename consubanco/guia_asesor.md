@@ -89,3 +89,43 @@ Comisiones: en Institucional General, LCOM, Especial 2 e Institucional 3 hay ape
 Pensionado IMSS que pide hasta $100,000: Opcipres IMSS. Sin comisión de apertura, sin penalización si liquida antes y CAT promedio dos puntos menor; es el argumento más limpio frente a otras financieras ("si mañana quiere liquidar, no le cobran nada extra"). Más de $100,000 o capacidad de pago alta: Consubanco (hasta $1,000,000). Trabajador de gobierno: comparar la oferta real de ambos para su convenio; en Opcipres la apertura con tope de $258.62 sale más barata que el 1% de Consubanco a partir de ~$25,900 de crédito, pero las dos cobran 13% por prepago. Los CAT publicados son promedios de cartera: la decisión final se toma con la oferta real de cada uno, no con el promedio.
 
 Pendiente confirmar: si el asesor puede colocar en ambas marcas o solo en Opcipres, y cómo se paga la comisión en cada una; si Opcipres IMSS admite pago con cheque o solo retención (el sitio publica cheque de forma general); proceso de liquidación y carta de no adeudo en Opcipres (probablemente el mismo de Consubanco, vía 800 830 3543).
+
+## Esquema comercial explicado por el gerente (hoja manuscrita, 2026-11-11). Lectura PRELIMINAR, confirmar con el usuario
+
+**Segmentos de Consubanco:**
+1. **IMSS pensionados y jubilados.** Sin consulta de buró ("no buró"). El "80" encerrado parece ser la edad máxima al terminar el crédito. La tabla tachada (77 → 3, 76 → 4, 75 → 5) parece ser edad del cliente → años máximos de plazo.
+2. **Gobierno NL activos.** Fuerza Civil representa ~90% de los clientes. Buró interno.
+3. **SNTE 21 (federales) activos.** Requisitos anotados junto al "50":
+   - Estados de cuenta bancarios.
+   - 2 recibos de nómina.
+   - Comprobante de domicilio.
+   - INE.
+   - Teléfono (¿"PONE/FONE"?).
+
+   El "50" está por confirmar. La regla anotada es "IF − DT = −10.00 · O.D SNTE": parece capacidad de pago (ingreso fijo menos descuentos totales y otros descuentos SNTE). Confirmar.
+
+**Variables del crédito:** monto, plazo, % de interés. El costo baja si la comisión baja.
+
+**Dos esquemas para el asesor:**
+- **Asesor 3.0:**
+  - Prestaciones de ley.
+  - Fijo de ~$8,000 (por confirmar si es mensual).
+  - Comisiones (círculo "1,80…": ¿1.8%?).
+  - Herramientas de prospección.
+  - Otros beneficios (monederos, programa de lealtad).
+- **Representante:** apoyo mensual en función del nivel de ventas.
+
+  | Ventas | Apoyo mensual |
+  |---|---|
+  | $100,000–$200,000 | $4,000 |
+  | $200,000–$400,000 | $8,000 |
+  | $400,000 o más | ¿$8,000? (ilegible) |
+
+  En la hoja hay un ejemplo de $370,000 en el mes, con notas "40,000 / 20,000 → 50,000" y "vencido / vencido".
+
+**Plazo y comisión:** gráfica de 12 a 60 meses con la nota "x12 +1%". Parece que la comisión sube un punto por cada 12 meses de plazo. Confirmar.
+
+**Otros:**
+- Calendario del mes (días 1, 3, 10, 12 encerrados): ¿fechas de corte o de pago?
+- "CCC" (¿Comité de Comunicación y Control, o centro de contacto?).
+- "Mi Maletín Prospección": herramienta.
