@@ -180,3 +180,6 @@ Como asesor, eres prestador de servicios de la entidad, así que el agravante te
 3. ¿Qué clientes requieren recopilación más profunda y cuestionarios adicionales? → **Clientes de alto riesgo, como casinos o remesas** (debida diligencia reforzada).
 4. Operación que no coincide con el perfil del cliente y sin justificación razonable → **Operación inusual** (relevante = efectivo ≥ 7,500 USD, por monto).
 **Resultado evaluación KYC: 100.**
+
+**EXAMEN FINAL PLD**
+1. ¿Cuándo sanciona la CNBV a la Entidad? → **Cuando la información del expediente sea incompleta, ilegible, contenga errores o no cumpla con los Manuales.**
