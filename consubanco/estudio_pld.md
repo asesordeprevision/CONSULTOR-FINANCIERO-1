@@ -173,3 +173,6 @@ Como asesor, eres prestador de servicios de la entidad, así que el agravante te
 3. "Las leyes y normativas sobre delitos financieros no están disponibles al público" → **Falso** (se publican en el DOF; son públicas).
 4. "Solo quienes administran o supervisan reciben sanciones, los demás quedan exentos" → **Falso** (art. 4 LFDO: quien dirige 20–40 años; quien no tiene esas funciones 10–20 años).
 **Resultado evaluación "¡Identificando las leyes!": 100.**
+
+**Evaluación KYC / expedientes**
+1. ¿Qué significa "conocer a tu cliente"? → **Entender quién es, a qué se dedica y cómo opera financieramente.**
