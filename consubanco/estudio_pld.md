@@ -77,3 +77,4 @@ Qué hacer: no confrontar al cliente, no avisarle, documentar y reportar de inme
 
 1. ¿Qué es el lavado de dinero? → **Dar apariencia legal a recursos obtenidos de actividades ilícitas.** (Recaudar fondos para organizaciones criminales = financiamiento al terrorismo/delincuencia.)
 2. En el financiamiento al terrorismo lo más importante es… → **El destino de los recursos** (pueden ser de origen lícito).
+3. Señal de alerta en la fase de colocación → **Ingresos en efectivo desproporcionados al tamaño del negocio.**
