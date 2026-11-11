@@ -75,4 +75,4 @@ Qué hacer: no confrontar al cliente, no avisarle, documentar y reportar de inme
 
 ## Preguntas del examen (respuestas)
 
-(Se agregan conforme el usuario las comparta.)
+1. ¿Qué es el lavado de dinero? → **Dar apariencia legal a recursos obtenidos de actividades ilícitas.** (Recaudar fondos para organizaciones criminales = financiamiento al terrorismo/delincuencia.)
