@@ -4,7 +4,7 @@ Base: marco mexicano general de PLD/FT (Disposiciones de carácter general del a
 
 ## Conceptos
 
-**Lavado de dinero** (operaciones con recursos de procedencia ilícita, **art. 400 Bis del Código Penal Federal**): dar apariencia de legítimos a recursos que vienen de un delito. Pena: **5 a 15 años de prisión** y 1,000 a 5,000 días multa (confirmar). No se limita al efectivo.
+**Lavado de dinero** (operaciones con recursos de procedencia ilícita, **art. 400 Bis del Código Penal Federal**): dar apariencia de legítimos a recursos que vienen de un delito. Pena: **5 a 15 años de prisión** y 1,000 a 5,000 días multa (CONFIRMADO en el material del curso). No se limita al efectivo.
 
 **Etapas del lavado**:
 1. **Colocación**: el dinero ilícito entra al sistema financiero, por ejemplo con depósitos fraccionados.
@@ -62,6 +62,21 @@ Base: marco mexicano general de PLD/FT (Disposiciones de carácter general del a
 
 Qué hacer: no confrontar al cliente, no avisarle, documentar y reportar de inmediato a Jurídico y Cumplimiento.
 
+## Sanciones (descargable oficial del curso, 2026-11-11)
+
+Quien incumpla las disposiciones de PLD/FT, sea empleado o funcionario, puede ser sancionado conforme al Código Penal Federal y a la Ley Federal contra la Delincuencia Organizada (LFDO).
+
+| Fundamento | Conducta | Prisión | Multa |
+|---|---|---|---|
+| **Art. 400 Bis CPF** | Operaciones con recursos de procedencia ilícita | **5 a 15 años** | 1,000 a 5,000 días |
+| **Art. 4 LFDO** | Quien **administre, dirija o supervise** la actividad | **20 a 40 años** | 500 a 25,000 días |
+| **Art. 4 LFDO** | Quien participe **sin** esas funciones | **10 a 20 años** | 250 a 12,500 días |
+| **Art. 139 en relación con 139 Quáter CPF** | Financiamiento al terrorismo: recaudar o aportar fondos o recursos de cualquier naturaleza, directa o indirectamente, sabiendo que se destinarán a terroristas | **15 a 40 años** | 400 a 1,200 días |
+
+**Agravante:** las penas aumentan **desde un tercio hasta la mitad** si quien comete el delito es consejero, administrador, funcionario, empleado, apoderado o **prestador de servicios** de una entidad sujeta al régimen de PLD. También aplica si lo hace **dentro de los 2 años siguientes** a dejar el cargo. Además, se le impone **inhabilitación**.
+
+Como asesor, eres prestador de servicios de la entidad, así que el agravante te aplica directamente.
+
 ## Trampas típicas de examen
 
 - "¿El lavado solo se da con efectivo?" **No**.
@@ -72,6 +87,8 @@ Qué hacer: no confrontar al cliente, no avisarle, documentar y reportar de inme
 - "¿Operación hecha por un empleado que facilita el lavado?" **Interna preocupante**.
 - "¿Umbral de la relevante?" Efectivo de **7,500 dólares** o más (su equivalente).
 - "¿Cada cuánto es la capacitación?" **Al menos una vez al año**.
+- "¿Pena del 400 Bis?" 5 a 15 años. "¿Financiamiento al terrorismo?" 15 a 40 años. "¿Delincuencia organizada, quien dirige?" 20 a 40 años; "¿quien no dirige?" 10 a 20 años.
+- "¿Cuánto aumenta la pena si es empleado o prestador de servicios de la entidad?" De un tercio a la mitad, también dentro de los 2 años posteriores a dejar el cargo, más inhabilitación.
 
 ## Preguntas del examen (respuestas)
 
