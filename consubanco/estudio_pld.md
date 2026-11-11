@@ -186,3 +186,4 @@ Como asesor, eres prestador de servicios de la entidad, así que el agravante te
 2. "El FT solo puede llevarse a cabo con recursos de origen ilícito" → **Falso** (pueden ser lícitos; importa el destino).
 3. Diferencia LD vs FT → **El LD investiga el origen de los fondos y el FT identifica el destino del dinero.** (La opción a está invertida.)
 4. Regla de recopilación según riesgo → **A mayor riesgo del cliente, mayor información se debe recabar** (enfoque basado en riesgo).
+5. Fase de Integración → **Compra de bienes de alto valor para justificar ingresos aparentemente legítimos.** (Transferencias repetidas = estratificación; depósitos en efectivo = colocación.)
