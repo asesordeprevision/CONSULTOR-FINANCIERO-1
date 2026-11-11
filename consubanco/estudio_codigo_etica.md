@@ -4,6 +4,8 @@ Fuentes públicas del grupo: Código de Ética y Conducta OPC-DGE-POL/CEC-02 ver
 
 ## 1. Introducción: Control interno
 
+Texto del curso (compartido por el usuario 2026-11-11): el sistema se llama **SCIRA, Sistema de Control Interno, Riesgos y Auditoría**. La **Subdirección de Contraloría Normativa** se encarga de que los procesos del sistema automatizado de control interno sigan funcionando y actualizados, y asesora a los colaboradores sobre el marco jurídico interno y externo. Los nombres y correos de contacto vienen en el material del curso; no se guardan aquí porque el repositorio es público. Según el curso, sin un control interno sólido pueden ocurrir malversación o pérdida de activos, incumplimientos legales o fiscales y fraudes que dañan la reputación. "Todas y todos somos responsables de cuidar el presente y el futuro de nuestra Institución." Si no se cumplen las políticas, las medidas disciplinarias van **desde una llamada de atención hasta la terminación de la relación laboral**.
+
 El control interno es un proceso **permanente** en el que intervienen **todos** los niveles: Consejo de Administración, Comité de Auditoría, Dirección General y todos los empleados. Da **seguridad razonable** (nunca absoluta) sobre cuatro cosas: información financiera correcta, salvaguarda de activos, eficiencia de las operaciones y cumplimiento de leyes.
 
 El Consejo de Administración aprueba los objetivos y lineamientos del SCI a propuesta del Comité de Auditoría y los revisa **al menos una vez al año**. El Código de Ética se presenta a la CNBV a más tardar **10 días hábiles** después de que lo aprueba el Consejo.
