@@ -214,3 +214,4 @@ Cada centro de trabajo determina su nivel y cumple las disposiciones que le corr
 ## Preguntas del examen final (respuestas)
 
 1. Pilar de Gobernanza (G) en ASG → **Gestión transparente y rendición de cuentas**. (Ambiental = medio ambiente; Social = inclusión financiera y equidad.)
+2. Responsabilidad original de las funciones de control interno, aunque las ejecute otro → **El Director General** (la Dirección General puede delegar en Contraloría Interna la elaboración y revisión, pero la responsabilidad sigue siendo suya; Disposiciones CNBV art. 164).
