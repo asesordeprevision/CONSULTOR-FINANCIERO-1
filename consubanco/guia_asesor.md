@@ -71,3 +71,21 @@ _CAT promedio 37.0% sin IVA, para fines informativos y de comparación. Fecha de
 ## Pendientes por confirmar en la capacitación
 
 Si la penalización de 13% por pago anticipado aplica al producto IMSS; plazo y monto máximos reales para pensionados IMSS Ley 73 según edad; comisión del asesor y si se paga sobre monto colocado o neto; si el asesor puede pautar anuncios propios con la marca Consubanco (y con qué leyendas); qué hacer con un lead que ya tiene descuento de otra financiera (compra de deuda / carta de no adeudo); oficinas de Consubanco en Monterrey.
+
+## OPCIPRES (canal con el que el usuario colocará sus créditos, desde 2026-11-11)
+
+Fuente: opcipres.com.mx (inicio, nosotros, oficinas, PDF de costos OPC-CyC-CAT), consultado 2026-11-11.
+
+Opcipres, S.A. de C.V., SOFOM, E.R. (entidad regulada, no banco) es una marca del mismo grupo que Consubanco, Consupago y Más Nómina; se integró a Consubanco en 2025, que "respalda sus productos", y el cliente consulta su crédito en la **App Consubanco**. Más de 20 años en crédito con descuento de nómina. Por eso la capacitación es la misma (Universidad Consupago) y los procesos de postventa son prácticamente los mismos. Atención a clientes: 800 830 3543. Única oficina administrativa publicada: Av. Chapultepec 19 piso 3, Col. Centro, CDMX (no hay oficina en Monterrey en el sitio).
+
+Mismo público (pensionados y jubilados IMSS; gobierno estatal, federal, ayuntamientos, salud, educación, previo convenio) y mismos requisitos (INE vigente + 2 últimos recibos de nómina o informes de pago). Descuento máximo de 30% sobre la nómina o pensión.
+
+Condiciones publicadas (cálculo 24-sep-2026, vigencia 31-mar-2027): monto de $5,000 a **$100,000** (tope diez veces menor que Consubanco); plazo de 18 a 120 quincenas (9 a 60 meses; la portada dice "12 hasta 120 meses", que no cuadra con el documento de costos: usar 60 meses como máximo hasta que capacitación diga otra cosa); CAT promedio **35.0%** sin IVA; tasa promedio anual fija 30.4% (tasa de interés anual promedio 30.7%); moratoria = 2 veces la ordinaria (~61% anual, contra 97.72% de Consubanco).
+
+Comisiones: en Institucional General, LCOM, Especial 2 e Institucional 3 hay apertura de 2.59% con tope de $258.62 sin IVA (en un crédito de $50,000 son $258.62, no $1,295) y penalización de 13% por pago anticipado. **Opcipres IMSS no genera ninguna comisión**: ni apertura ni penalización por prepago.
+
+### Consubanco vs. Opcipres: cuál ofrecer
+
+Pensionado IMSS que pide hasta $100,000: Opcipres IMSS. Sin comisión de apertura, sin penalización si liquida antes y CAT promedio dos puntos menor; es el argumento más limpio frente a otras financieras ("si mañana quiere liquidar, no le cobran nada extra"). Más de $100,000 o capacidad de pago alta: Consubanco (hasta $1,000,000). Trabajador de gobierno: comparar la oferta real de ambos para su convenio; en Opcipres la apertura con tope de $258.62 sale más barata que el 1% de Consubanco a partir de ~$25,900 de crédito, pero las dos cobran 13% por prepago. Los CAT publicados son promedios de cartera: la decisión final se toma con la oferta real de cada uno, no con el promedio.
+
+Pendiente confirmar: si el asesor puede colocar en ambas marcas o solo en Opcipres, y cómo se paga la comisión en cada una; si Opcipres IMSS admite pago con cheque o solo retención (el sitio publica cheque de forma general); proceso de liquidación y carta de no adeudo en Opcipres (probablemente el mismo de Consubanco, vía 800 830 3543).
