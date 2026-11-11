@@ -192,3 +192,4 @@ Como asesor, eres prestador de servicios de la entidad, así que el agravante te
 8. Tipos de operaciones a monitorear y reportar → **Relevantes, inusuales e internas preocupantes.**
 9. "Clientes de alto riesgo requieren medidas reforzadas de debida diligencia" → **Verdadero**.
 10. Delito precedente al lavado → **Robo y Fraude**.
+**Resultado EXAMEN FINAL PLD: 100 (2026-11-11).**
