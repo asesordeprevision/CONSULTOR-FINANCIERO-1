@@ -210,3 +210,7 @@ Cada centro de trabajo determina su nivel y cumple las disposiciones que le corr
 - Responsabilidad → registrar correctamente una operación sin omitir información (uso eficiente y transparente de los recursos).
 - Respeto → tratar con respeto a un compañero sin importar origen, género o creencias.
 - Cumplimiento de normas → seguir el procedimiento interno aunque exista una "ruta rápida" que incumpla la norma.
+
+## Preguntas del examen final (respuestas)
+
+1. Pilar de Gobernanza (G) en ASG → **Gestión transparente y rendición de cuentas**. (Ambiental = medio ambiente; Social = inclusión financiera y equidad.)
