@@ -8,6 +8,13 @@ Mercado: previsión funeraria / previsión familiar en Nuevo León (Monterrey y 
 
 Aquí SOLO se trabaja Previsión Gayosso (campaña CALIENTE `120257101274740768` y futuras de previsión/propiedad). Las campañas de créditos IMSS Ley 73 y "Primeras Ventas por WhatsApp con Fotos" (`120257509932420768`) se manejan en otro lado: no reportarlas ni proponer cambios sobre ellas aquí.
 
+## Rol adicional: asesor de CONSUBANCO (desde 2026-11-11)
+
+El usuario ahora también es asesor de Consubanco (crédito con descuento vía nómina/pensión; zona "Norte"). Inducción en "Universidad Consupago" (uvconsupago.com): Reto 1 = 8 cursos de "Capacitación Normativa 2026" (PLD/FT, código de ética, datos personales, fraudes, fraudes informáticos, riesgo operacional, continuidad del negocio, seguridad de la información); Reto 2 = 4 módulos "PMS" (atención a grupos vulnerables, Master Sales 1–3; en "Convenio por subdirección" solo "Norte"); sesión propedéutica "¿Cómo vender mi primer crédito?" lunes 11–14 h (hora centro). NO guardar en este repo (público) usuarios, contraseñas ni datos del portal.
+- La regla de alcance sigue: la operación de créditos (incl. Consubanco) se trabaja en otro lado; aquí solo cuenta como fuente de prospectos cruzados de previsión.
+- Cruce de bases: un lead captado para crédito solo puede recibir oferta de previsión (y viceversa) si el aviso de privacidad bajo el que se captó cubre esa finalidad; no exportar bases de Consubanco a campañas de Gayosso (Custom Audiences) sin ese consentimiento.
+- Publicidad de crédito con marca Consubanco requiere autorización del banco y reglas CONDUSEF (CAT, leyendas): no mezclarla en anuncios o imágenes de Gayosso.
+
 ## Reglas de segmentación para TODA campaña nueva (o al editar una existente)
 
 Origen: 2026-10-06 llegaron conversaciones de WhatsApp con números extranjeros aunque el 100% de la entrega fue en MX.
