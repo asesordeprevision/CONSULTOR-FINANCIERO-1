@@ -133,3 +133,15 @@ La Entidad se compromete a proteger el ambiente para las generaciones presentes 
 - "¿Un pago para agilizar un trámite de rutina está permitido?" No, es corrupción.
 - "¿El Código aplica a promotores y comisionistas?" Sí.
 - "¿La confidencialidad termina al salir de la empresa?" No.
+
+## Respuestas de ejercicios del curso
+
+**Principios éticos: "Descubre otros principios éticos que nos rigen" (relacionar)**
+- Solidaridad → apoyar a un compañero que enfrenta una dificultad (bienestar y apoyo mutuo).
+- Unidad → colaborar con el equipo para cumplir un objetivo común (responsabilidades y derechos compartidos).
+- Honestidad → informar un error propio en lugar de ocultarlo (transparencia y rectitud).
+- Creación de valor → usar el equipo de trabajo solo para fines laborales y cuidarlo.
+- Racionalidad → evaluar riesgos antes de autorizar una operación (criterio, análisis, sentido común).
+- Responsabilidad → registrar correctamente una operación sin omitir información (uso eficiente y transparente de los recursos).
+- Respeto → tratar con respeto a un compañero sin importar origen, género o creencias.
+- Cumplimiento de normas → seguir el procedimiento interno aunque exista una "ruta rápida" que incumpla la norma.
