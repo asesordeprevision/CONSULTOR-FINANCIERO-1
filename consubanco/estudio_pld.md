@@ -51,6 +51,74 @@ Base: marco mexicano general de PLD/FT (Disposiciones de carácter general del a
 
 **Está prohibido avisarle al cliente** (o a cualquier tercero) que su operación fue o será reportada, o que hay una investigación. No se le dice "lo voy a reportar" ni "su crédito está en revisión por lavado". Los reportes son confidenciales, y revelarlos es una falta grave, sancionable incluso penalmente.
 
+## Integración de expedientes: políticas internas (descargable oficial "Datos y políticas", 2026-11-11)
+
+**Persona física nacional, datos que se recaban:**
+- Nombre completo.
+- Fecha y entidad federativa de nacimiento.
+- Género y nacionalidad.
+- Domicilio completo con CP.
+- Profesión u ocupación, actividad o giro.
+- Teléfono y correo electrónico.
+- CURP, RFC y número de serie de la FIEL, si cuenta con ellos.
+
+**Persona física extranjera:** además, número de identificación fiscal, el país que lo emitió y un domicilio en territorio nacional.
+
+**Documentos:**
+- Copia de la identificación.
+- Copia del comprobante de domicilio.
+- CURP, cédula fiscal y constancia de FIEL, si cuenta con ellas.
+
+**Identificaciones válidas:**
+- INE/IFE **vigente**.
+- Pasaporte vigente.
+- Cédula profesional.
+- Licencia de conducir.
+- Las emitidas por dependencias federales, estatales y municipales.
+- Documento del Instituto Nacional de Migración.
+- Tarjeta **INAPAM**.
+- Credenciales del ISSSTE, ISSFAM y Seguro Popular.
+
+La tarjeta INAPAM es relevante para tus pensionados.
+
+**Comprobantes de domicilio, con antigüedad no mayor a 3 meses:**
+- Predial, agua, luz o gas natural.
+- Teléfono fijo. El **celular no vale**.
+- Estado de cuenta bancario o de Afore.
+- Contrato de arrendamiento registrado ante la autoridad fiscal.
+
+Si la INE trae el mismo domicilio de la solicitud, sustituye al comprobante. Si trae otro domicilio o no trae ninguno, el comprobante adicional es **obligatorio**.
+
+**Cotejo:**
+- Las copias deben ser legibles.
+- Llevan la leyenda **"SE HACE CONSTAR QUE LA PRESENTE COPIA COINCIDE CON EL ORIGINAL QUE SE TUVO A LA VISTA"**.
+- Se registran el **nombre de quien coteja, la fecha y la firma**.
+
+**Contrato:** el cliente declara **"bajo protesta de decir verdad"** si actúa por cuenta propia o de un tercero. Si actúa por cuenta de un tercero, se recaban los datos y documentos del tercero como si fuera el titular y se llena el formato de **"Propietario real"**.
+
+**Propietario real** (o beneficiario final): la persona física que, por medio de otra o de cualquier acto, obtiene los beneficios de una cuenta, contrato u operación y es, en última instancia, el **verdadero dueño de los recursos**, con derechos de uso, disfrute, aprovechamiento o disposición.
+
+**Cuentas de bajo riesgo (nivel 2):** se permite identificación simplificada, solo con nombre, fecha de nacimiento y domicilio, si los abonos están limitados a **3,000 UDIS al mes** por cliente.
+
+**Personas morales:**
+- Datos: denominación, giro, nacionalidad, RFC, FIEL, domicilio, teléfono, correo, fecha de constitución y nombre completo del administrador o apoderado.
+- Documentos: acta constitutiva inscrita en el registro público, cédula fiscal, comprobante de domicilio, poderes ante fedatario e identificación de los representantes.
+- Si es extranjera, sus documentos van legalizados o **apostillados** (Convenio de La Haya de 1961).
+- Si su riesgo no es bajo, también se recaba su estructura accionaria y organigrama.
+
+**Reglas generales:**
+- Identificar y verificar al cliente con documentos de **fuentes confiables e independientes**.
+- **No se puede iniciar la relación comercial sin identificación previa**, ni sin conocer el propósito de la relación y el uso de los recursos.
+- Identificar al **beneficiario final**: saber quién tendrá acceso a los fondos y para qué.
+
+**Señales de alerta del documento:**
+- Apertura de cuentas en **zonas fronterizas sin justificación**.
+- **Ocultamiento del propósito** de la cuenta.
+- Poca claridad sobre la actividad de una persona moral.
+- **Proveedores de recursos sin relación con el giro**. Ejemplo del curso: una papelería cuyo proveedor de recursos es una distribuidora de materiales de construcción.
+
+**Sanciones a la Entidad:** la **CNBV** puede sancionar a la entidad por expedientes con información **incompleta, ilegible o con errores**, o que no cumplan con los manuales.
+
 ## Señales de alerta en crédito de nómina (tu día a día)
 
 - El cliente no sabe o no quiere decir para qué quiere el dinero, o un tercero decide por él.
