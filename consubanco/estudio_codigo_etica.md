@@ -222,3 +222,4 @@ Cada centro de trabajo determina su nivel y cumple las disposiciones que le corr
 7. Cuándo se aceptan invitaciones de proveedores → **Cuando formen parte integral de la agenda de trabajo** (voluntaria, objetivo legítimo; informar al supervisor; Código 3.7.1 punto 2).
 8. Queja o inquietud sobre el Código → **Dirección Jurídica y de Cumplimiento** (Capital Humano solo si la resolución no es satisfactoria; Código 9.1).
 9. ¿Pagos o regalos a partidos políticos permitidos si son de bajo monto? → **Falso** (prohibido sin importar el monto; Código 4.1).
+10. ¿El incumplimiento puede dar lugar a suspensión temporal o despido? → **Verdadero** (Código cap. 11).
