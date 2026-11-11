@@ -189,3 +189,4 @@ Como asesor, eres prestador de servicios de la entidad, así que el agravante te
 5. Fase de Integración → **Compra de bienes de alto valor para justificar ingresos aparentemente legítimos.** (Transferencias repetidas = estratificación; depósitos en efectivo = colocación.)
 6. Fase de colocación → **Introducir el dinero al sistema financiero.**
 7. Objetivo de la estratificación → **Romper el rastro del origen del dinero mediante operaciones complejas.**
+8. Tipos de operaciones a monitorear y reportar → **Relevantes, inusuales e internas preocupantes.**
