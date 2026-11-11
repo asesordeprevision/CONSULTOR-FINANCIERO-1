@@ -136,7 +136,7 @@ La Entidad se compromete a proteger el ambiente para las generaciones presentes 
 
 ## Respuestas de ejercicios del curso
 
-**Principios éticos: "Descubre otros principios éticos que nos rigen" (relacionar)**
+**Principios éticos: "Descubre otros principios éticos que nos rigen" (relacionar)**: CONFIRMADO correcto en la plataforma (2026-11-11).
 - Solidaridad → apoyar a un compañero que enfrenta una dificultad (bienestar y apoyo mutuo).
 - Unidad → colaborar con el equipo para cumplir un objetivo común (responsabilidades y derechos compartidos).
 - Honestidad → informar un error propio en lugar de ocultarlo (transparencia y rectitud).
