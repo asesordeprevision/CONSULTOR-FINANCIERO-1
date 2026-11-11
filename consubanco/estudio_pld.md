@@ -176,3 +176,4 @@ Como asesor, eres prestador de servicios de la entidad, así que el agravante te
 
 **Evaluación KYC / expedientes**
 1. ¿Qué significa "conocer a tu cliente"? → **Entender quién es, a qué se dedica y cómo opera financieramente.**
+2. ¿Quién puede ser PEP? → **El cónyuge de un senador en funciones** (cónyuges y parientes cercanos —consanguinidad/afinidad hasta 2º grado— se equiparan; un sobrino lejano no).
