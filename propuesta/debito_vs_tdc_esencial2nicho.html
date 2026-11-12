@@ -1,0 +1,117 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:1080px;height:1350px;font-family:"DejaVu Sans",Arial,sans-serif;background:#fff;color:#1d2b22}
+.wrap{padding:28px 40px 22px;height:100%;display:flex;flex-direction:column;gap:12px}
+.top{display:flex;align-items:center;justify-content:space-between;border-bottom:5px solid #2e7d32;padding-bottom:10px}
+.top img{height:95px}
+.top .r{text-align:right}.top .k{font-size:21px;letter-spacing:3px;color:#2e7d32;font-weight:bold}.top .d{font-size:18px;color:#555;margin-top:5px}
+.band{background:#1f5f2a;color:#fff;text-align:center;padding:12px;border-radius:10px;position:relative}
+.band .t{font-size:30px;font-weight:bold}.band .s{font-size:18px;margin-top:4px;color:#d9f0da}
+.bf{display:inline-block;background:#c62828;color:#fff;font-weight:bold;font-size:15px;letter-spacing:2px;padding:4px 14px;border-radius:20px;margin-bottom:6px}
+.main{display:flex;gap:16px;flex:1}
+.side{width:420px;display:flex;flex-direction:column;gap:10px}
+.box{border-radius:12px;padding:10px 14px}
+.inc{background:#eef6ef;border:2px solid #2e7d32}
+.inc h3,.no h3{font-size:17px;margin-bottom:4px}
+.inc h3{color:#1f5f2a}
+.inc li{list-style:none;font-size:14.5px;line-height:1.32;padding-left:20px;position:relative;margin-bottom:1px}
+.inc li:before{content:"✔";position:absolute;left:0;color:#2e7d32;font-weight:bold}
+.no{background:#fbeeee;border:2px solid #c62828}
+.no h3{color:#c62828}
+.no li{list-style:none;font-size:13px;line-height:1.32;padding-left:16px;position:relative}
+.no li:before{content:"✖";position:absolute;left:0;color:#c62828;font-size:11px}
+.right{flex:1;display:flex;flex-direction:column;gap:10px}
+.lista{border:2px solid #c9b37e;border-radius:10px;padding:10px 14px}
+.lista .l{font-size:17px;color:#666;text-align:center;margin-bottom:4px}
+.lista .row{display:flex;justify-content:space-between;font-size:15px;color:#777}
+.lista .row s{color:#999}
+.lista .tot{display:flex;justify-content:space-between;font-size:20px;color:#888;font-weight:bold;border-top:1px dashed #c9b37e;margin-top:4px;padding-top:4px}
+.lista .n{font-size:14px;color:#666;text-align:center;margin-top:3px}
+.op{border:3px solid #2e7d32;border-radius:14px;overflow:hidden}
+.op.best{border-color:#c9a24a;box-shadow:0 0 0 3px #e6c66e}
+.op .h{background:#2e7d32;color:#fff;font-size:17px;font-weight:bold;padding:7px;text-align:center}
+.op.best .h{background:#b8892f}
+.badge{background:#c62828;color:#fff;font-size:12px;font-weight:bold;padding:3px 0;text-align:center;letter-spacing:2px}
+.op .b{padding:8px 10px;text-align:center}
+.op .big{font-size:30px;font-weight:bold;color:#1f5f2a}
+.op .sm{font-size:14px;color:#444;margin-top:2px;line-height:1.3}
+.op .sv{display:inline-block;margin-top:6px;background:#e8f5e9;color:#1b5e20;font-weight:bold;font-size:14.5px;padding:5px 12px;border-radius:30px}
+.nicho{background:linear-gradient(135deg,#1f5f2a,#2e7d32);color:#fff;border-radius:14px;padding:12px 16px;border:3px solid #e6c66e}
+.nicho .t{font-size:21px;font-weight:bold}
+.nicho .s{font-size:15px;line-height:1.4;margin-top:4px}
+.nicho s{color:#c8e6c9}
+.gift{background:linear-gradient(90deg,#c9a24a,#e6c66e);border-radius:14px;padding:9px 14px;display:flex;align-items:center;gap:12px;color:#3b2a00;border:3px solid #c62828}
+.gift .i{font-size:36px}.gift .t{font-size:16.5px;font-weight:bold}.gift .s{font-size:12.5px;line-height:1.3}
+.vig{font-size:17px;font-weight:bold;color:#c62828}
+.steps{display:flex;gap:8px;font-size:14.5px}
+.st{flex:1;background:#eef6ef;border-radius:10px;padding:7px 8px;text-align:center;line-height:1.25}
+.st b.n{display:block;font-size:20px;color:#2e7d32}
+.foot{border-top:3px solid #2e7d32;padding-top:8px;display:flex;justify-content:space-between;align-items:center}
+.foot .n{font-size:23px;font-weight:bold;color:#1f5f2a}.foot .r{font-size:14px;color:#444}
+.foot .w{font-size:22px;white-space:nowrap;font-weight:bold;color:#fff;background:#25a244;padding:8px 18px;border-radius:30px}
+.fine{font-size:11.5px;color:#777;line-height:1.3}
+
+.rib{font-size:21px !important;background:repeating-linear-gradient(45deg,#c62828 0 22px,#b71c1c 22px 44px);color:#fff;text-align:center;font-weight:bold;font-size:21px;letter-spacing:2px;padding:9px;border-radius:10px;border:3px solid #e6c66e}.rib small{display:block;font-size:14px;letter-spacing:1px;color:#ffe9a8}.wrap{gap:8px;padding-top:20px}.top img{height:78px}.top{padding-bottom:6px}
+.cmp{border-collapse:separate;border-spacing:0;width:100%;font-size:14.5px;border:3px solid #2e7d32;border-radius:14px;overflow:hidden}
+.cmp th{background:#2e7d32;color:#fff;padding:8px 4px;font-size:15px;line-height:1.2}
+.cmp th.db{background:#6b7b70}
+.cmp th.win{background:#b8892f}
+.cmp th small{display:block;font-size:11px;letter-spacing:1px;font-weight:normal}
+.cmp td{padding:6px 5px;text-align:center;border-top:1px solid #dfe9e0}
+.cmp td.k{text-align:left;font-weight:bold;color:#1f5f2a;background:#f6faf6;font-size:13.5px}
+.cmp td.w{background:#fff8e6}
+.cmp .m{font-size:21px;font-weight:bold;color:#1f5f2a}
+.cmp .x{color:#c62828;font-weight:bold}.cmp .ok{color:#2e7d32;font-weight:bold}
+.vs{background:#c62828;color:#fff;border-radius:14px;padding:10px 14px;text-align:center}
+.vs .t{font-size:20px;font-weight:bold}.vs .s{font-size:14.5px;margin-top:3px;line-height:1.35}
+</style></head><body><div class="wrap">
+<div class="top"><img src="logo.jpg"><div class="r"><div class="k">COMPARATIVO PERSONALIZADO</div><div class="d">Previsión Familiar · 12 de noviembre de 2026</div></div></div>
+<div class="rib">🔥 PREVENTA BUEN FIN · HASTA EL 18 DE NOVIEMBRE 🔥<small>Nueva Capillas Marianas Nogalar · certificados vacacionales limitados</small></div>
+<div class="band"><div class="t">DÉBITO vs. TARJETA DE CRÉDITO</div><div class="s">2 Servicios ESENCIAL PRO + Nicho para 2 urnas de obsequio · Mausoleo Nogalar</div></div>
+<div class="main">
+ <div class="side" style="width:350px">
+  <div class="box inc"><h3>✅ Cada servicio Esencial Pro</h3><ul>
+   <li>Sala de velación Estándar 24 h · 20 personas</li>
+   <li>Ataúd metálico categoría Esencial</li>
+   <li>Urna de madera y ataúd de presentación (si elige cremación)</li>
+   <li>Embalsamamiento y arreglo estético</li>
+   <li>Cafetería básica</li>
+   <li>Traslados y asesoría en trámites (área conurbada)</li>
+   <li><b>Ambivalente:</b> inhumación o cremación</li></ul></div>
+  <div class="box inc"><h3>🕊️ Su nicho</h3><ul>
+   <li>Nicho chico · <b>capacidad para 2 urnas</b></li>
+   <li>Piso 5, nivel superior · Mausoleo Nogalar</li>
+   <li>Ceremonia de depósito de cenizas</li>
+   <li>Uso a perpetuidad</li></ul></div>
+  <div class="lista"><div class="l">Precio de lista</div>
+   <div class="row"><span>2 servicios Esencial Pro</span><s>$96,600.00</s></div>
+   <div class="row"><span>Nicho chico 2 urnas</span><s>$32,000.00</s></div>
+   <div class="tot"><span>Total</span><s>$128,600.00</s></div>
+   <div class="n">36 mensualidades de <s>$3,575.08</s></div></div>
+  <div class="box" style="background:#fdf6e3;border:2px solid #c9a24a;font-size:14px;line-height:1.45"><b style="color:#7a5a10;font-size:15.5px">🛡️ En cualquier opción</b><br>✔ Sin enganche requerido<br>✔ Precio congelado · sin intereses<br>✔ 5 días hábiles para cancelar<br>✔ Contrato registrado ante PROFECO</div>
+  <div class="box" style="background:#1f5f2a;color:#fff;font-size:14.5px;line-height:1.5;padding:12px 14px"><b style="font-size:17px">📍 Marianas Nogalar</b><br>Av. Nogalar Sur 420 A, San Nicolás<br>A un lado de AutoZone · enfrente de BanRegio<br><span style="color:#ffe9a8">Visitas bajo cita · L–V 9 a 5 · sáb 9 a 2</span></div>
+ </div>
+ <div class="right">
+  <table class="cmp">
+   <tr><th style="background:#1f5f2a;width:24%"> </th><th class="db">DÉBITO<small>36 MESES</small></th><th class="win">T. CRÉDITO<small>36 MESES · ★ MEJOR</small></th><th>T. CRÉDITO<small>48 MESES</small></th></tr>
+   <tr><td class="k">Mensualidad</td><td><span class="m" style="color:#555">$2,427.48</span></td><td class="w"><span class="m">$2,302.35</span></td><td><span class="m">$1,816.24</span></td></tr>
+   <tr><td class="k">Vs. lista ($3,575)</td><td>$1,147 menos</td><td class="w"><b>$1,272 menos</b></td><td>Casi la mitad</td></tr>
+   <tr><td class="k">Diario por todo</td><td>&lt; $80</td><td class="w">&lt; $76</td><td>&lt; $60</td></tr>
+   <tr><td class="k">Precio con promoción</td><td>$87,319.40</td><td class="w"><b>$82,818.40</b></td><td>$87,319.40</td></tr>
+   <tr><td class="k">Ahorro vs. lista</td><td>$41,280</td><td class="w"><b>$45,781</b></td><td>$41,280</td></tr>
+   <tr><td class="k">Nicho de obsequio</td><td class="ok">✔</td><td class="w ok">✔</td><td class="ok">✔</td></tr>
+   <tr><td class="k">🏖️ Certificado vacacional ($24,995)</td><td class="x">✖ No aplica</td><td class="w ok">✔ Incluido</td><td class="ok">✔ Incluido</td></tr>
+   <tr><td class="k">Beneficio total a su favor</td><td><b style="font-size:17px;color:#555">$41,280</b></td><td class="w"><b style="font-size:19px;color:#1f5f2a">$70,776</b></td><td><b style="font-size:17px;color:#1f5f2a">$66,275</b></td></tr>
+  </table>
+  <div class="vs"><div class="t">💳 Con tarjeta de crédito paga MENOS y recibe MÁS</div><div class="s">Mismo plazo de 36 meses: <b>$125 menos cada mes</b> que con débito ($4,504 menos)<br><b>+ el certificado vacacional de $24,995</b> = <b style="color:#ffe9a8;font-size:17px">$29,499 más a su favor</b></div></div>
+  <div class="nicho"><div class="t">🎁 ¡EL NICHO LE SALE DE OBSEQUIO!</div><div class="s">Solo los 2 servicios a precio de lista cuestan <s>$96,600</s>. En <b>las tres opciones</b> paga menos que eso y se lleva <b>los 2 servicios + el nicho</b>.</div></div>
+  <div class="box" style="border:2px solid #2e7d32;font-size:14px;line-height:1.45;text-align:center">Otras formas de pago: <b>contado $72,016</b> (ahorra $56,584) · <b>enganche 20%</b> $15,303.40 + 35 × $1,744.59 (ahorra $52,083)</div>
+  <div class="gift"><div class="i">🏖️</div><div><div class="t">Certificado Royal Holiday · 4 días / 3 noches todo incluido · ¡LIMITADOS!</div><div class="s">2 adultos + 2 menores · tarifa regular $24,995 · cuota de reservación desde $3,999 · <b>aplica con tarjeta de crédito</b></div></div></div>
+  <div class="vig">⏰ Precio preventa hasta el 18 de noviembre · aparte su folio y se lo respeto hasta el 30</div>
+  <div class="steps"><div class="st"><b class="n">1</b>Aparte su folio: correo e INE (sin pago)</div><div class="st"><b class="n">2</b>Correo de ABRAHAM CUTIPA QUENAYA → <b>Ver mi cotización</b></div><div class="st"><b class="n">3</b>Firma electrónica desde su celular</div></div>
+ </div>
+</div>
+<div class="foot"><div><div class="n">Abraham Cutipa</div><div class="r">Asesor Certificado de Previsión Familiar · Grupo Gayosso · Monterrey</div></div><div class="w">WhatsApp 81 1627 6206</div></div>
+<div class="fine">Precios del Cotizador Gayosso, sujetos a condiciones del plan. Exclusivo Marianas Nogalar. Al formalizar solo se carga la 1ª mensualidad. No incluye cuota de mantenimiento anual del nicho, apertura/cierre, grabado de placa, derechos ni trámites. Si se elige cremación, Gayosso informa si el ataúd aplica o hay diferencia de precio. Certificado sujeto a términos de Royal Holiday y disponibilidad.</div>
+</div></body></html>
