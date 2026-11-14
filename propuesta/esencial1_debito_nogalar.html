@@ -1,0 +1,99 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:1080px;height:1350px;font-family:"DejaVu Sans",Arial,sans-serif;background:#fff;color:#1d2b22}
+.wrap{padding:28px 40px 22px;height:100%;display:flex;flex-direction:column;gap:12px}
+.top{display:flex;align-items:center;justify-content:space-between;border-bottom:5px solid #2e7d32;padding-bottom:10px}
+.top img{height:95px}
+.top .r{text-align:right}.top .k{font-size:21px;letter-spacing:3px;color:#2e7d32;font-weight:bold}.top .d{font-size:18px;color:#555;margin-top:5px}
+.band{background:#1f5f2a;color:#fff;text-align:center;padding:12px;border-radius:10px;position:relative}
+.band .t{font-size:30px;font-weight:bold}.band .s{font-size:18px;margin-top:4px;color:#d9f0da}
+.bf{display:inline-block;background:#c62828;color:#fff;font-weight:bold;font-size:15px;letter-spacing:2px;padding:4px 14px;border-radius:20px;margin-bottom:6px}
+.main{display:flex;gap:16px;flex:1}
+.side{width:420px;display:flex;flex-direction:column;gap:10px}
+.box{border-radius:12px;padding:10px 14px}
+.inc{background:#eef6ef;border:2px solid #2e7d32}
+.inc h3,.no h3{font-size:17px;margin-bottom:4px}
+.inc h3{color:#1f5f2a}
+.inc li{list-style:none;font-size:14.5px;line-height:1.32;padding-left:20px;position:relative;margin-bottom:1px}
+.inc li:before{content:"✔";position:absolute;left:0;color:#2e7d32;font-weight:bold}
+.no{background:#fbeeee;border:2px solid #c62828}
+.no h3{color:#c62828}
+.no li{list-style:none;font-size:13px;line-height:1.32;padding-left:16px;position:relative}
+.no li:before{content:"✖";position:absolute;left:0;color:#c62828;font-size:11px}
+.right{flex:1;display:flex;flex-direction:column;gap:10px}
+.lista{border:2px solid #c9b37e;border-radius:10px;padding:10px 14px}
+.lista .l{font-size:17px;color:#666;text-align:center;margin-bottom:4px}
+.lista .row{display:flex;justify-content:space-between;font-size:15px;color:#777}
+.lista .row s{color:#999}
+.lista .tot{display:flex;justify-content:space-between;font-size:20px;color:#888;font-weight:bold;border-top:1px dashed #c9b37e;margin-top:4px;padding-top:4px}
+.lista .n{font-size:14px;color:#666;text-align:center;margin-top:3px}
+.op{border:3px solid #2e7d32;border-radius:14px;overflow:hidden}
+.op.best{border-color:#c9a24a;box-shadow:0 0 0 3px #e6c66e}
+.op .h{background:#2e7d32;color:#fff;font-size:17px;font-weight:bold;padding:7px;text-align:center}
+.op.best .h{background:#b8892f}
+.badge{background:#c62828;color:#fff;font-size:12px;font-weight:bold;padding:3px 0;text-align:center;letter-spacing:2px}
+.op .b{padding:8px 10px;text-align:center}
+.op .big{font-size:30px;font-weight:bold;color:#1f5f2a}
+.op .sm{font-size:14px;color:#444;margin-top:2px;line-height:1.3}
+.op .sv{display:inline-block;margin-top:6px;background:#e8f5e9;color:#1b5e20;font-weight:bold;font-size:14.5px;padding:5px 12px;border-radius:30px}
+.nicho{background:linear-gradient(135deg,#1f5f2a,#2e7d32);color:#fff;border-radius:14px;padding:12px 16px;border:3px solid #e6c66e}
+.nicho .t{font-size:21px;font-weight:bold}
+.nicho .s{font-size:15px;line-height:1.4;margin-top:4px}
+.nicho s{color:#c8e6c9}
+.gift{background:linear-gradient(90deg,#c9a24a,#e6c66e);border-radius:14px;padding:9px 14px;display:flex;align-items:center;gap:12px;color:#3b2a00;border:3px solid #c62828}
+.gift .i{font-size:36px}.gift .t{font-size:16.5px;font-weight:bold}.gift .s{font-size:12.5px;line-height:1.3}
+.vig{font-size:17px;font-weight:bold;color:#c62828}
+.steps{display:flex;gap:8px;font-size:14.5px}
+.st{flex:1;background:#eef6ef;border-radius:10px;padding:7px 8px;text-align:center;line-height:1.25}
+.st b.n{display:block;font-size:20px;color:#2e7d32}
+.foot{border-top:3px solid #2e7d32;padding-top:8px;display:flex;justify-content:space-between;align-items:center}
+.foot .n{font-size:23px;font-weight:bold;color:#1f5f2a}.foot .r{font-size:14px;color:#444}
+.foot .w{font-size:22px;white-space:nowrap;font-weight:bold;color:#fff;background:#25a244;padding:8px 18px;border-radius:30px}
+.fine{font-size:11.5px;color:#777;line-height:1.3}
+.rib{font-size:21px !important;background:repeating-linear-gradient(45deg,#c62828 0 22px,#b71c1c 22px 44px);color:#fff;text-align:center;font-weight:bold;font-size:21px;letter-spacing:2px;padding:9px;border-radius:10px;border:3px solid #e6c66e}.rib small{display:block;font-size:14px;letter-spacing:1px;color:#ffe9a8}.wrap{gap:8px;padding-top:20px}.top img{height:78px}.top{padding-bottom:6px}.side{width:420px;flex:none}.right{gap:16px}.op .b{padding:12px 6px}</style></head><body><div class="wrap">
+<div class="top"><img src="logo.jpg"><div class="r"><div class="k">PROPUESTA PERSONALIZADA</div><div class="d">Previsión Familiar · 14 de noviembre de 2026</div></div></div>
+<div class="rib">🔥 BUEN FIN GAYOSSO · HASTA EL 18 DE NOVIEMBRE 🔥<small>Preventa de la nueva Capillas Marianas Nogalar</small></div>
+<div class="band" style="padding:9px"><div class="t">1 Servicio · Gayosso ESENCIAL PRO</div><div class="s">Un servicio funerario completo y digno · de contado o con su tarjeta de débito</div></div>
+<div class="main">
+ <div class="side">
+  <div class="box inc"><h3>✅ Su servicio Esencial Pro incluye</h3><ul>
+   <li><b>Sala de velación</b> Estándar 24 h · 20 personas · ecuménica, sin imágenes religiosas</li>
+   <li>Ataúd metálico categoría Esencial</li>
+   <li>Urna de madera y ataúd de presentación (si elige cremación)</li>
+   <li>Embalsamado y arreglo estético (aseo, vestido y maquillaje)</li>
+   <li>Cafetería básica</li>
+   <li>Traslados y asesoría en trámites (área conurbada)</li>
+   <li><b>Ambivalente:</b> inhumación o cremación</li>
+   <li>Servicio en la agencia Gayosso de su plaza</li>
+   <li><b>100% transferible</b></li></ul></div>
+  <div class="box no"><h3>✖ No incluye</h3><ul>
+   <li>Recuperación en hospitales · trámites médicos y CODE</li>
+   <li>Traslados foráneos · sacerdote y oficios · esquela y flores</li>
+   <li>Derechos de inhumación · gestión y pago del acta de defunción</li>
+   <li>Maniobras de nicho y de destape</li></ul></div>
+  <div class="box" style="background:#1f5f2a;color:#fff;font-size:14.5px;line-height:1.5;padding:14px"><b style="font-size:17px">📍 Capillas Marianas Nogalar</b><br>Av. Nogalar Sur 420 A, San Nicolás<br>A un lado de AutoZone · enfrente de BanRegio<br><span style="color:#ffe9a8">Recorridos bajo cita · lunes de 9 a 2</span></div>
+  <div class="box" style="background:linear-gradient(135deg,#fdf6e3,#f3e2b3);border:3px solid #c9a24a;padding:12px 14px"><b style="color:#7a5a10;font-size:17px">💰 Su ahorro contra precio de lista</b>
+   <div style="display:flex;justify-content:space-between;font-size:16px;margin-top:5px"><span>De contado</span><b>$15,456 (32%)</b></div>
+   <div style="display:flex;justify-content:space-between;font-size:16px;margin-top:5px"><span>Débito 36 meses</span><b>$6,134 (12.7%)</b></div>
+   <div style="font-size:13px;color:#6b5a2e;margin-top:6px">De contado ahorra <b>$9,322 más</b> que a meses.</div></div>
+  <div class="box" style="background:#fff;border:2px dashed #2e7d32;font-size:14px;line-height:1.45"><b style="color:#1f5f2a;font-size:16px">🕊️ ¿Y el lugar de descanso?</b><br>Nicho para 2 urnas en Mausoleo Nogalar desde <b>$25,600</b> de contado.<br>Con <b>2 servicios</b> Esencial Pro, <b>¡el nicho es de regalo!</b></div>
+ </div>
+ <div class="right">
+  <div class="lista"><div class="l">Precio de lista · 1 servicio</div>
+   <div class="tot" style="justify-content:center;border:0;margin:0;font-size:26px"><s>$48,300.00</s></div>
+   <div class="n">36 mensualidades de <s>$1,342.74</s></div></div>
+  <div style="display:flex;gap:12px">
+   <div class="op best" style="flex:1"><div class="h" style="font-size:18px">1 · DE CONTADO</div><div class="badge">★ MAYOR AHORRO ★</div><div class="b"><div class="sm">Una sola exhibición</div><div class="big" style="font-size:40px">$32,844</div><div class="sm">Liquidado desde hoy, sin mensualidades</div><div class="sv" style="font-size:15px">Ahorra $15,456 · 32%</div></div></div>
+   <div class="op" style="flex:1"><div class="h" style="font-size:18px">2 · TARJETA DE DÉBITO</div><div class="badge" style="background:#2e7d32">36 MESES · SIN ENGANCHE</div><div class="b"><div class="sm">36 mensualidades de</div><div class="big" style="font-size:36px">$1,172.21<span style="font-size:14px">/mes</span></div><div class="sm">$170 menos que la de lista · <b>menos de $40 diarios</b></div><div class="sv" style="font-size:15px">Ahorra $6,134</div></div></div>
+  </div>
+  <div class="box" style="background:#eef6ef;border:2px solid #2e7d32;font-size:15px;line-height:1.5"><b style="color:#1f5f2a;font-size:16.5px">💳 ¿Cómo funciona con débito?</b><br>Se domicilia a su tarjeta de débito: al formalizar solo se carga la <b>1ª mensualidad de $1,172.21</b> y después el mismo monto cada mes. No se requiere enganche ni tarjeta de crédito.</div>
+  <div class="nicho"><div class="t">🎁 PLAN AMBIVALENTE · 2 EN 1</div><div class="s">Su servicio incluye <b>inhumación o cremación</b> (urna de madera + ataúd de presentación). Su familia elige al momento, <b>sin pagar más</b>.</div></div>
+  <div class="box" style="background:#fdf6e3;border:2px solid #c9a24a;font-size:15px;line-height:1.5"><b style="color:#7a5a10;font-size:16.5px">🛡️ Su tranquilidad, por contrato</b><br>✔ Precio congelado · sin intereses pagando a tiempo<br>✔ 5 días hábiles para cancelar con devolución íntegra<br>✔ Contrato registrado ante PROFECO</div>
+  <div class="vig">⏰ Precio Buen Fin hasta el 18 de noviembre · aparte su folio y se lo respeto hasta el 30</div>
+  <div class="steps"><div class="st"><b class="n">1</b>Aparte su folio: correo e INE <b>(sin pago)</b></div><div class="st"><b class="n">2</b>Correo de ABRAHAM CUTIPA QUENAYA → <b>Ver mi cotización</b></div><div class="st"><b class="n">3</b>Firma electrónica desde su celular</div></div>
+ </div>
+</div>
+<div class="foot"><div><div class="n">Abraham Cutipa</div><div class="r">Asesor Certificado de Previsión Familiar · Grupo Gayosso · Monterrey</div></div><div class="w">WhatsApp 81 1627 6206</div></div>
+<div class="fine">Precios del Cotizador Gayosso, sujetos a condiciones del plan. Si se elige cremación, Gayosso informa si el ataúd aplica o hay diferencia de precio. Contenido según tabla oficial Gayosso.</div>
+</div></body></html>
