@@ -321,6 +321,17 @@ Usar SIEMPRE en imágenes y textos de propuesta (columna lateral "¿Qué incluye
 - No poner en las imágenes el teléfono 800 de Gayosso ni "atención 24/7" como recuadro (pedido del usuario 2026-10-28).
 - Salas en los formatos (Capillas Marianas): en propuestas Premier escribir "Sala Premier 24 h para 60 personas · salas Premier y Magna (5º piso), Lourdes y Fátima (4º piso) en Capillas Marianas". En Universal/Esencial escribir la capacidad (40 / 20 personas) y NO nombrar sala hasta que el usuario confirme cuáles de Mausoleo A, Mausoleo B, Esperanza y Piedad corresponden a cada categoría.
 
+## Lo que el cliente DEBE saber al contratar (material oficial Gayosso / Universidad Gayosso, compartido 2026-11-14)
+
+Usar en cierres, bienvenida post-venta y cuando pregunten "¿qué no incluye?" o "¿qué hago si fallece alguien?". Explicarlo ANTES de la firma para evitar cancelaciones en los 5 días hábiles.
+- Incluyen los paquetes (las 3 categorías): asesoría en trámites, traslado local, embalsamamiento, arreglo estético, ataúd/ataúd de uso, sala de velación, cafetería básica, traslado al destino final (local), urna de cenizas. Características: Ambivalencia, Multiplaza (según categoría: solo Premier), copia de acta de defunción (solo Premier Pro).
+- ¡Importante! (frase oficial): "Se proporciona asesoría en trámites gubernamentales, pero la responsabilidad de gestión y el pago recae en el cliente."
+- NO incluyen (ficha Universidad Gayosso): embalsamamiento clínico; oficios religiosos, música y florería; permiso de salubridad; registro civil; trámites de inhumación/cremación; traslado foráneo; trámites ante la embajada.
+- NO incluye (ficha Capillas Marianas): flores, sacerdote, coro, oratorio, pago de acta de defunción, destapes. "Los puntos anteriores se tramitan con Consejeros familiares" (se contratan aparte al momento del servicio).
+- Para reportar un fallecimiento: *247 desde el celular (Emergencia Gayosso, "sabemos que cada segundo cuenta"), 800 429 6776 (800 GAYOSSO) o 800 716 1616.
+- Datos/documentos necesarios para el trámite: nombre del titular del contrato; nombre de la persona fallecida; certificado de defunción; identificación oficial vigente de la persona fallecida (INE o pasaporte); acta de nacimiento; acta de matrimonio; lugar de descanso (destino final: cementerio, nicho, cremación); ropa para la velación; foto para la velación.
+- Uso: en el mensaje de bienvenida tras la firma, mandar el *247 + lista de documentos ("guárdelo junto a su contrato y compártalo con sus beneficiarios"). En imágenes de propuesta NO poner los 800 (regla 2026-10-28); el *247 y la lista van en mensajes post-venta. Diferenciar con honestidad: lo que no incluye se paga aparte, pero el consejero familiar lo gestiona en el momento, la familia no anda buscando proveedores.
+
 ## Direcciones Gayosso Monterrey y cobertura nacional (usar en propuestas cuando se requiera)
 
 - *Capillas Marianas* (agencia GCM8, Agencia A): Av. Lázaro Cárdenas No. 1005 Pte., Col. Loma Larga, San Pedro Garza García, N.L. (la presentación oficial de Gayosso usa C.P. 64710; antes teníamos 66220: usar 64710).
