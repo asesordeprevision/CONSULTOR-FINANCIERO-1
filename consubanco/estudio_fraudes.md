@@ -77,3 +77,4 @@ Otros delitos relacionados, ya vistos en Ética:
 4. Sanción por falsificación de documentos PRIVADOS → **a. 6 meses a 5 años de prisión y 180 a 360 días multa** (art. 243 CPF; documentos PÚBLICOS = 4 a 8 años y 200 a 360 días multa).
 5. ¿Qué es el abuso de confianza? → **c. Cuando una persona utiliza algún bien u objeto que no le pertenece o lo emplea indebidamente para perjuicio del dueño.**
 6. "Terminación del convenio, pérdida de confianza e impactos económicos son consecuencias para las empresas al cometer un fraude" → **Verdadero**.
+7. ¿Qué es el fraude electrónico? → **a. Estafa digital que combina medios tecnológicos con técnicas de Ingeniería Social.**
