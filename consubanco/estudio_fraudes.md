@@ -72,3 +72,5 @@ Otros delitos relacionados, ya vistos en Ética:
 
 **EXAMEN FINAL Prevención de Fraudes**
 1. ¿En qué consiste la falsificación de documentos? → **c. Al alterar o crear documentos falsos para hacerlos pasar como auténticos.**
+2. Año/fecha en que la CNBV busca frenar el robo de identidad con cambios a la CUB → elegida **b. 29 agosto 2017** (no confirmada en fuente oficial; julio-2017 seguía en Cofemer, descarta 19-abr-2017).
+3. Fraude que falsifica remitentes de email, sitios web o IP para parecer fuente legítima → **a. Spoofing**.
