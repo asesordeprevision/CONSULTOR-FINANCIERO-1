@@ -81,3 +81,5 @@ Otros delitos relacionados, ya vistos en Ética:
 7b. Fraude electrónico ya registrado. 8. "El vishing se realiza a través de correos electrónicos falsos" → **a. Falso** (vishing = llamadas; correos = phishing).
 9. ¿Qué es el ransomware? → **b. Un programa que secuestra la información de una organización** (la cifra y pide rescate).
 10. Elemento indispensable para que exista fraude → **c. Intención y preparación** (dolo; un error involuntario no es fraude).
+
+**Resultado: APROBADO, certificado obtenido 2026-11-18** (la pregunta 2, 29-ago-2017, quedó dentro de lo aprobado).
