@@ -78,3 +78,4 @@ Otros delitos relacionados, ya vistos en Ética:
 5. ¿Qué es el abuso de confianza? → **c. Cuando una persona utiliza algún bien u objeto que no le pertenece o lo emplea indebidamente para perjuicio del dueño.**
 6. "Terminación del convenio, pérdida de confianza e impactos económicos son consecuencias para las empresas al cometer un fraude" → **Verdadero**.
 7. ¿Qué es el fraude electrónico? → **a. Estafa digital que combina medios tecnológicos con técnicas de Ingeniería Social.**
+7b. Fraude electrónico ya registrado. 8. "El vishing se realiza a través de correos electrónicos falsos" → **a. Falso** (vishing = llamadas; correos = phishing).
