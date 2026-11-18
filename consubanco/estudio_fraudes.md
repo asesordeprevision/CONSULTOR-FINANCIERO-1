@@ -80,3 +80,4 @@ Otros delitos relacionados, ya vistos en Ética:
 7. ¿Qué es el fraude electrónico? → **a. Estafa digital que combina medios tecnológicos con técnicas de Ingeniería Social.**
 7b. Fraude electrónico ya registrado. 8. "El vishing se realiza a través de correos electrónicos falsos" → **a. Falso** (vishing = llamadas; correos = phishing).
 9. ¿Qué es el ransomware? → **b. Un programa que secuestra la información de una organización** (la cifra y pide rescate).
+10. Elemento indispensable para que exista fraude → **c. Intención y preparación** (dolo; un error involuntario no es fraude).
