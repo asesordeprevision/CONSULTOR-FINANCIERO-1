@@ -65,3 +65,6 @@ Otros delitos relacionados, ya vistos en Ética:
 - Crédito con información falsa para obtener dinero que no piensa pagar → **Fraude**.
 - Empleado se queda el dinero que le dieron para depositar a nombre de un cliente → **Abuso de confianza**.
 - Amenaza a un cliente para que transfiera dinero "a cambio de no perjudicarlo" → **Extorsión**.
+
+**Ejercicio "técnica de robo de identidad" (arrastrar):**
+- "El remitente parece oficial, pero la dirección es falsa" → **Phishing** (correo/mensaje falso). Vishing = llamada telefónica; Smishing = SMS; Pharming = sitio web falso por redirección.
