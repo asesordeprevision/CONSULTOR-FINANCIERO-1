@@ -23,4 +23,8 @@ Otros delitos relacionados, ya vistos en Ética:
 
 ## Preguntas del examen (respuestas)
 
-(Se agregan conforme el usuario las comparta.)
+**Ejercicio "relaciona conducta con delito":**
+- Constancia laboral alterada para abrir cuenta → **Falsificación de documentos**.
+- Crédito con información falsa para obtener dinero que no piensa pagar → **Fraude**.
+- Empleado se queda el dinero que le dieron para depositar a nombre de un cliente → **Abuso de confianza**.
+- Amenaza a un cliente para que transfiera dinero "a cambio de no perjudicarlo" → **Extorsión**.
