@@ -68,3 +68,4 @@ Otros delitos relacionados, ya vistos en Ética:
 
 **Ejercicio "técnica de robo de identidad" (arrastrar):**
 - "El remitente parece oficial, pero la dirección es falsa" → **Phishing** (correo/mensaje falso). Vishing = llamada telefónica; Smishing = SMS; Pharming = sitio web falso por redirección.
+- Correo de bloqueo de cuenta → Phishing. Archivo adjunto peligroso → Phishing. NIP por teléfono → Vishing. Llamada que imita menú del banco → Vishing. "Te presionan diciendo que actúes de inmediato" → Vishing (elegido; ambiguo).
