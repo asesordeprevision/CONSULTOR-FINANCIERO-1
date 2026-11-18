@@ -75,3 +75,4 @@ Otros delitos relacionados, ya vistos en Ética:
 2. Año/fecha en que la CNBV busca frenar el robo de identidad con cambios a la CUB → elegida **b. 29 agosto 2017** (no confirmada en fuente oficial; julio-2017 seguía en Cofemer, descarta 19-abr-2017).
 3. Fraude que falsifica remitentes de email, sitios web o IP para parecer fuente legítima → **a. Spoofing**.
 4. Sanción por falsificación de documentos PRIVADOS → **a. 6 meses a 5 años de prisión y 180 a 360 días multa** (art. 243 CPF; documentos PÚBLICOS = 4 a 8 años y 200 a 360 días multa).
+5. ¿Qué es el abuso de confianza? → **c. Cuando una persona utiliza algún bien u objeto que no le pertenece o lo emplea indebidamente para perjuicio del dueño.**
