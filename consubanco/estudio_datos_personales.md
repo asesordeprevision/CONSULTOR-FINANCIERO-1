@@ -74,3 +74,18 @@ Aplicado a la operación: si Consubanco le pasa los datos a Gayosso para ofrecer
 - **Proporcionalidad** → una tienda pide solo nombre, dirección y correo para el envío, sin datos extra.
 
 La LFPDPPP tiene 8 principios: licitud, consentimiento, información, calidad, finalidad, lealtad, proporcionalidad y responsabilidad.
+
+## Derechos ARCO
+
+- **Acceso**: conocer qué datos tiene el responsable sobre ti, para qué los usa y las condiciones de uso, incluido el aviso de privacidad.
+- **Rectificación**: corregir datos inexactos o incompletos.
+- **Cancelación**: pedir que se eliminen. Antes hay un periodo de bloqueo y después la supresión.
+- **Oposición**: negarte a un tratamiento específico, por ejemplo publicidad, o a un tratamiento que te cause perjuicio.
+
+Plazos de la LFPDPPP:
+- 20 días hábiles para que el responsable responda.
+- 15 días hábiles para hacerlo efectivo si procede.
+- Ambos plazos son ampliables una vez por un periodo igual.
+
+### Evaluación ARCO (4 preguntas)
+1. Quieres saber qué información tiene una empresa sobre ti y cómo la usa → **Acceso**.
