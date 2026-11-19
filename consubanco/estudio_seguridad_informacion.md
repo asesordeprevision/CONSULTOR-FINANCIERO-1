@@ -23,3 +23,4 @@ Ejemplo en la operación: la INE y los recibos de nómina del cliente son el act
 ## Examen final Seguridad de la Información
 1. ¿Qué es la seguridad de la información? → **b. El conjunto de procesos y metodologías diseñadas para proteger los datos confidenciales, privados o sensibles de una organización** (no solo herramientas tecnológicas ni solo lo digital).
 2. ¿Quién es el Oficial en Jefe de Seguridad de la Información? → **c. CISO** (Chief Information Security Officer). El BISO (Business Information Security Officer) es el enlace de seguridad dentro de cada área de negocio.
+3. ¿Qué es un activo de información? → **b. Toda la información en formato físico o digital** (los medios donde se guarda o procesa, opción c, son activos de soporte o tecnológicos; la opción a describe el ciclo de vida). Respuesta razonada, con ambigüedad entre b y c.
