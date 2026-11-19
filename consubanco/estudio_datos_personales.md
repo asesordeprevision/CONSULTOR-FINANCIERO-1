@@ -92,3 +92,50 @@ Plazos de la LFPDPPP:
 2. La empresa tiene incorrectos tu dirección y teléfono → **Solicitar la rectificación de tus datos personales**.
 3. Usan tus datos para enviarte promociones que no autorizaste; ¿qué derecho detiene ese uso? → **Oposición**.
 4. Ya no deseas que la empresa conserve tus datos porque dejaste sus servicios → **Cancelación**.
+
+## Infracciones (descargable; art. 63 de la LFPDPPP de 2010)
+
+Las comete el **responsable**. El descargable lista 17 conductas; el texto viene con la numeración rota.
+
+**I a VII: fallas en derechos ARCO, aviso y calidad**
+- I. No atender sin razón fundada una solicitud ARCO.
+- II. Actuar con negligencia o dolo al tramitar y responder solicitudes ARCO.
+- III. Declarar dolosamente que no existen datos que sí están en la base.
+- IV. Tratar datos en contra de los principios de la ley.
+- V. Omitir en el aviso de privacidad uno o todos los elementos del art. 16.
+- VI. Mantener datos inexactos por culpa del responsable, o no rectificar o cancelar cuando procede.
+- VII. No cumplir el apercibimiento de la autoridad para atender lo que pidió el titular.
+
+**VIII en adelante: las más graves**
+- VIII. Romper el deber de confidencialidad (art. 21).
+- IX. Cambiar sustancialmente la finalidad original sin respetar el art. 12.
+- X. Transferir datos a terceros sin comunicarles el aviso de privacidad con las limitaciones del titular.
+- XI. Vulnerar la seguridad de bases, locales, programas o equipos por causa imputable al responsable.
+- XII. Transferir o ceder datos fuera de los casos permitidos.
+- XIII. Recabar o transferir datos sin consentimiento expreso cuando la ley lo exige.
+- XIV. Obstruir la verificación de la autoridad.
+- XV. Recabar datos de forma engañosa y fraudulenta.
+- XVI. Seguir usando los datos de forma ilegítima después de que el INAI o el titular pidieron el cese.
+- XVII. Tratar los datos de forma que se impida ejercer los derechos ARCO (art. 16 constitucional).
+
+### Sanciones (art. 64 de la ley de 2010, de memoria; confirmar con el curso)
+
+- **Apercibimiento**: para la fracción I, no atender una solicitud ARCO.
+- **Multa de 100 a 160,000 días de salario mínimo**: para las fracciones II a VII.
+- **Multa de 200 a 320,000 días**: para las fracciones VIII en adelante.
+- **Reincidencia**: multa adicional de 100 a 320,000 días.
+- **Datos sensibles**: las sanciones pueden **duplicarse**.
+
+### Delitos (arts. 67 y 68 de la ley de 2010)
+
+- **3 meses a 3 años de prisión** a quien, con autorización para tratar datos y con ánimo de lucro, provoque una vulneración de seguridad.
+- **6 meses a 5 años** a quien, con ánimo de lucro indebido, trate datos mediante engaño o aprovechando el error del titular.
+- Con **datos sensibles** las penas se **duplican**.
+
+Nota: en marzo de 2025 se publicó una nueva LFPDPPP y el INAI se extinguió; sus funciones pasaron a la Secretaría Anticorrupción y Buen Gobierno. En el examen hay que contestar como dice el curso (INAI y la numeración de la ley de 2010).
+
+### Aplicación al asesor
+
+- Mandar fotos de INE o de recibos de nómina por canales no autorizados, o dejar expedientes a la vista: confidencialidad (VIII) y seguridad (XI).
+- Ofrecer Gayosso con la base de Consubanco: cambio de finalidad (IX) y transferencia sin consentimiento (XIII).
+- Pedir datos con engaños: XV, que además puede ser delito.
