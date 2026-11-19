@@ -151,3 +151,5 @@ Nota: en marzo de 2025 se publicó una nueva LFPDPPP y el INAI se extinguió; su
 8. ¿Qué es un dato sensible? → **c. Aquellos que afectan la esfera más íntima del titular o que pueden generar discriminación o riesgos graves** (la opción b define "dato personal", no "dato sensible").
 9. Autodeterminación informativa → **a. El derecho de cada persona a decidir cómo y para qué se usan sus datos personales**.
 10. "La diferencia principal es que el dato personal puede generar discriminación" → **Falso** (es el dato SENSIBLE el que puede generar discriminación).
+
+**Resultado:** APROBADO 2026-11-19, certificado obtenido.
