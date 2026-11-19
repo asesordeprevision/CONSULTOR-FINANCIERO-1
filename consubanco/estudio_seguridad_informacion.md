@@ -19,3 +19,6 @@ Ejemplo en la operación: la INE y los recibos de nómina del cliente son el act
 
 ## Escenarios (¿qué harías?)
 1. Correo "Detectamos actividad inusual. Haz clic aquí para verificar tu cuenta" → **Lo ignoras y lo reportas al Área de Seguridad**. Es phishing: genera urgencia y lleva a un enlace para robar credenciales.
+
+## Examen final Seguridad de la Información
+1. ¿Qué es la seguridad de la información? → **b. El conjunto de procesos y metodologías diseñadas para proteger los datos confidenciales, privados o sensibles de una organización** (no solo herramientas tecnológicas ni solo lo digital).
