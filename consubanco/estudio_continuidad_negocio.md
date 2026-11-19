@@ -14,3 +14,4 @@ Iniciado 2026-11-19. Es el último de los 8 cursos normativos del Reto 1.
 ## Examen
 
 1. Recurso considerado para la continuidad del negocio → **a. Personal, información y equipamiento**.
+2. ¿Qué busca el BIA? → **c. Examinar procesos críticos y el impacto de una interrupción**.
