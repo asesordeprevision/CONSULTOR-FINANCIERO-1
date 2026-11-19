@@ -29,3 +29,4 @@ Iniciado 2026-11-19.
 6. Responsabilidad principal del Gestor de Riesgo Operacional → **c. Identificar y documentar los procesos de cada unidad de negocio** (y en ellos sus riesgos, controles y eventos de pérdida).
 7. ¿Quién identifica y reporta el evento de pérdida? → **a. Gestor de riesgo** (lo reporta a la UAIR al menos cada mes).
 8. ¿Qué es el riesgo operacional? → **b. Riesgo que provoca pérdidas por errores humanos, procesos, sistemas o eventos externos**.
+9. La tecnología es uno de los factores de riesgo operacional → **Verdadero** (sistemas y tecnología; el riesgo tecnológico forma parte del operacional).
