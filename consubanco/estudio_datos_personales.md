@@ -51,3 +51,13 @@ Aplicado a un expediente de crédito:
 - Domicilio es medio.
 - Referencias personales y beneficiarios entran en "otros" (medio).
 - Un certificado médico o los datos de una incapacidad son salud (alto). Las pensiones por invalidez del IMSS pueden revelar padecimientos, así que esos documentos se tratan como sensibles.
+
+## Remisión vs. transferencia
+
+- **Remisión**: el responsable comunica los datos a un **encargado**, que los trata por cuenta del responsable y siguiendo sus instrucciones. No requiere consentimiento del titular. Ejemplo: la tienda en línea le pasa los datos a la mensajería para entregar el pedido.
+- **Transferencia**: el responsable comunica los datos a un **tercero distinto del encargado**, que los usará para sus propios fines (otro responsable). Debe informarse en el aviso de privacidad y, por regla general, requiere consentimiento. Ejemplo: la tienda vende o comparte su base de datos con una aseguradora para que ofrezca sus productos.
+
+Aplicado a la operación: si Consubanco le pasa los datos a Gayosso para ofrecer previsión, eso sería transferencia y requiere consentimiento.
+
+### Evaluación (4 preguntas)
+1. Una tienda en línea comparte tus datos con la empresa de mensajería para entregar tu pedido → **Remisión**.
