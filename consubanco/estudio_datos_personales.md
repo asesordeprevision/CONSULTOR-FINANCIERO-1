@@ -150,3 +150,4 @@ Nota: en marzo de 2025 se publicó una nueva LFPDPPP y el INAI se extinguió; su
 7. Vulneración de seguridad según el art. 63 (del Reglamento) → **c. Uso no autorizado de datos personales**. El art. 63 enumera cuatro vulneraciones: pérdida o destrucción no autorizada; robo, extravío o copia no autorizada; uso, acceso o tratamiento no autorizado; daño, alteración o modificación no autorizada.
 8. ¿Qué es un dato sensible? → **c. Aquellos que afectan la esfera más íntima del titular o que pueden generar discriminación o riesgos graves** (la opción b define "dato personal", no "dato sensible").
 9. Autodeterminación informativa → **a. El derecho de cada persona a decidir cómo y para qué se usan sus datos personales**.
+10. "La diferencia principal es que el dato personal puede generar discriminación" → **Falso** (es el dato SENSIBLE el que puede generar discriminación).
