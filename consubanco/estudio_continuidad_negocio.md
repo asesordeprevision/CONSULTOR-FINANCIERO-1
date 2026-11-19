@@ -23,3 +23,5 @@ Iniciado 2026-11-19. Es el último de los 8 cursos normativos del Reto 1.
 8. ¿Qué determina el BIA respecto a los procesos críticos? → **a. Sus prioridades y tiempos de reanudación** (orden de recuperación y RTO/RPO).
 9. Principio de la Continuidad del Negocio → **a. Promoción de la resiliencia organizacional** (los riesgos se gestionan y mitigan; no se pueden eliminar).
 10. La continuidad del negocio solo aplica después de un desastre → **Falso**. Aplica antes (BIA, planes, pruebas), durante (respuesta) y después (recuperación).
+
+**Resultado:** APROBADO 2026-11-19, certificado obtenido. Con este curso se cierra el Reto 1.
