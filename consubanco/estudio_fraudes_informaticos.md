@@ -24,3 +24,4 @@ Un **virus no es una vulnerabilidad**: es una **amenaza** que explota vulnerabil
 2. Dos tipos principales de ingeniería social → **a. Basados en humanos y basados en computadoras.**
 3. ¿Qué caracteriza al Smishing? → **a. Ataque por SMS haciéndose pasar por una entidad legítima.**
 4. "Phishing masivo y Spear-Phishing son lo mismo" → **b. Falso** (masivo = muchos destinatarios genéricos; spear = dirigido a una persona/organización específica con datos personalizados).
+5. "Prevenir fraudes manteniendo software actualizado y usando herramientas de seguridad" → **b. Verdadero**.
