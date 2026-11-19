@@ -145,3 +145,4 @@ Nota: en marzo de 2025 se publicó una nueva LFPDPPP y el INAI se extinguió; su
 2. ¿A quién aplica la LFPDPPP? → **a. Personas físicas o morales con actividad empresarial que manejen datos personales**.
 3. ¿A qué hace referencia la Oposición? → **a. Pedir que se detenga el uso de datos por motivos legítimos**.
 4. Derechos que integran ARCO → **c. Acceso, Rectificación, Cancelación y Oposición**.
+5. ¿Qué es un aviso de privacidad? → **a. Es el documento que informa al titular cómo se usarán sus datos personales**.
