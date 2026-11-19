@@ -91,3 +91,4 @@ Plazos de la LFPDPPP:
 1. Quieres saber qué información tiene una empresa sobre ti y cómo la usa → **Acceso**.
 2. La empresa tiene incorrectos tu dirección y teléfono → **Solicitar la rectificación de tus datos personales**.
 3. Usan tus datos para enviarte promociones que no autorizaste; ¿qué derecho detiene ese uso? → **Oposición**.
+4. Ya no deseas que la empresa conserve tus datos porque dejaste sus servicios → **Cancelación**.
