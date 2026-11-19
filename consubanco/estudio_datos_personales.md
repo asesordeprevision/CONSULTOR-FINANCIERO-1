@@ -147,3 +147,4 @@ Nota: en marzo de 2025 se publicó una nueva LFPDPPP y el INAI se extinguió; su
 4. Derechos que integran ARCO → **c. Acceso, Rectificación, Cancelación y Oposición**.
 5. ¿Qué es un aviso de privacidad? → **a. Es el documento que informa al titular cómo se usarán sus datos personales**.
 6. Plazo para responder una solicitud ARCO → **b. 20 días hábiles** (después, 15 días hábiles para hacerla efectiva; ambos ampliables una vez).
+7. Vulneración de seguridad según el art. 63 (del Reglamento) → **c. Uso no autorizado de datos personales**. El art. 63 enumera cuatro vulneraciones: pérdida o destrucción no autorizada; robo, extravío o copia no autorizada; uso, acceso o tratamiento no autorizado; daño, alteración o modificación no autorizada.
