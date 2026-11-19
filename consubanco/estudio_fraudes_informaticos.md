@@ -29,3 +29,4 @@ Un **virus no es una vulnerabilidad**: es una **amenaza** que explota vulnerabil
 7. "Vishing = obtener información por llamadas telefónicas" → **b. Verdadero**.
 8. "Dumpster Diving = revisar la basura corporativa para obtener información confidencial" → **b. Verdadero**.
 9. Documentos impresos con información sensible → **c. Recogerlos y destruirlos en trituradores de papel.**
+10. Causa principal de vulnerabilidades informáticas → **c. La mala configuración de los sistemas.**
