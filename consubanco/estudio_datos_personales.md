@@ -139,3 +139,6 @@ Nota: en marzo de 2025 se publicó una nueva LFPDPPP y el INAI se extinguió; su
 - Mandar fotos de INE o de recibos de nómina por canales no autorizados, o dejar expedientes a la vista: confidencialidad (VIII) y seguridad (XI).
 - Ofrecer Gayosso con la base de Consubanco: cambio de finalidad (IX) y transferencia sin consentimiento (XIII).
 - Pedir datos con engaños: XV, que además puede ser delito.
+
+## Examen final Datos Personales (10 preguntas)
+1. El tratamiento de datos incluye su acceso, almacenamiento, transferencia y disposición → **Verdadero**. Según el art. 3 fr. XVIII, tratamiento es obtener, usar, divulgar o almacenar datos por cualquier medio, y el uso abarca el acceso, manejo, aprovechamiento, transferencia o disposición.
