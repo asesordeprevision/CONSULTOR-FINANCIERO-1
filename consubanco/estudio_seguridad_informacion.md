@@ -27,3 +27,4 @@ Ejemplo en la operación: la INE y los recibos de nómina del cliente son el act
 4. Ejemplo de amenaza lógica → **c. Programas con virus o contraseñas débiles**. Robos o desastres naturales son amenazas físicas; el personal interno es una amenaza humana.
 5. ¿Cuándo se produce un ataque? → **c. Cuando una amenaza aprovecha una vulnerabilidad**.
 6. Proteger la información es vital para la continuidad y los objetivos del negocio → **Verdadero**.
+7. ¿El ciclo de vida de la información concluye cuando deja de ser útil? → **Falso**. Concluye con su destrucción o eliminación segura, después de cumplir los plazos de conservación. Fases: creación, almacenamiento, uso, transmisión, archivo y destrucción. Respuesta razonada: si la marcan mal, cambiar a Verdadero.
