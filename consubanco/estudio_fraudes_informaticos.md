@@ -18,3 +18,6 @@ Un **virus no es una vulnerabilidad**: es una **amenaza** que explota vulnerabil
 
 1. ¿Qué tipos de vulnerabilidades informáticas existen? → **Tecnológicas, Configuración y Políticas.**
 2. Tipos de ataque de Ingeniería Social → **Basados en computadoras y basados en humanos** (computadoras: phishing, ventanas emergentes, correos; humanos: suplantación por teléfono o en persona, shoulder surfing, dumpster diving).
+
+**EXAMEN FINAL Prevención de Fraudes Informáticos**
+1. ¿Qué es el Shoulder Surfing? → **c. Observar contraseñas sobre el hombro de la víctima.**
