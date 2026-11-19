@@ -20,3 +20,4 @@ Iniciado 2026-11-19. Es el último de los 8 cursos normativos del Reto 1.
 5. "El RPO se refiere al tiempo máximo permitido para recuperar operaciones" → **Falso**. Eso es el RTO; el RPO es la pérdida máxima de datos tolerable (hasta qué punto en el tiempo hay que restaurar la información).
 6. Las pruebas del plan permiten validar la capacidad de recuperación ante una disrupción → **Verdadero**.
 7. La alta dirección tiene responsabilidades clave en la gestión de continuidad del negocio → **Verdadero** (aprueba el BCP, asigna recursos y lo supervisa).
+8. ¿Qué determina el BIA respecto a los procesos críticos? → **a. Sus prioridades y tiempos de reanudación** (orden de recuperación y RTO/RPO).
