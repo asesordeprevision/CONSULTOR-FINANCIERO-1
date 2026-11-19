@@ -18,3 +18,4 @@ Iniciado 2026-11-19. Es el último de los 8 cursos normativos del Reto 1.
 3. Propósito del BCP → **a. Guiar a la organización para responder y recuperarse ante una disrupción**.
 4. Fase del desarrollo del BIA → **b. Recopilación de información** (después siguen el análisis, la determinación de procesos críticos, RTO y RPO, y la validación o presentación a la dirección).
 5. "El RPO se refiere al tiempo máximo permitido para recuperar operaciones" → **Falso**. Eso es el RTO; el RPO es la pérdida máxima de datos tolerable (hasta qué punto en el tiempo hay que restaurar la información).
+6. Las pruebas del plan permiten validar la capacidad de recuperación ante una disrupción → **Verdadero**.
