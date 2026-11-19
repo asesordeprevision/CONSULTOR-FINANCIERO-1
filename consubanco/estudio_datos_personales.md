@@ -143,3 +143,4 @@ Nota: en marzo de 2025 se publicó una nueva LFPDPPP y el INAI se extinguió; su
 ## Examen final Datos Personales (10 preguntas)
 1. El tratamiento de datos incluye su acceso, almacenamiento, transferencia y disposición → **Verdadero**. Según el art. 3 fr. XVIII, tratamiento es obtener, usar, divulgar o almacenar datos por cualquier medio, y el uso abarca el acceso, manejo, aprovechamiento, transferencia o disposición.
 2. ¿A quién aplica la LFPDPPP? → **a. Personas físicas o morales con actividad empresarial que manejen datos personales**.
+3. ¿A qué hace referencia la Oposición? → **a. Pedir que se detenga el uso de datos por motivos legítimos**.
