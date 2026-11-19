@@ -17,3 +17,4 @@ Un **virus no es una vulnerabilidad**: es una **amenaza** que explota vulnerabil
 ## Preguntas (respuestas)
 
 1. ¿Qué tipos de vulnerabilidades informáticas existen? → **Tecnológicas, Configuración y Políticas.**
+2. Tipos de ataque de Ingeniería Social → **Basados en computadoras y basados en humanos** (computadoras: phishing, ventanas emergentes, correos; humanos: suplantación por teléfono o en persona, shoulder surfing, dumpster diving).
