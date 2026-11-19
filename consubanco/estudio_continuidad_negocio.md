@@ -21,3 +21,4 @@ Iniciado 2026-11-19. Es el último de los 8 cursos normativos del Reto 1.
 6. Las pruebas del plan permiten validar la capacidad de recuperación ante una disrupción → **Verdadero**.
 7. La alta dirección tiene responsabilidades clave en la gestión de continuidad del negocio → **Verdadero** (aprueba el BCP, asigna recursos y lo supervisa).
 8. ¿Qué determina el BIA respecto a los procesos críticos? → **a. Sus prioridades y tiempos de reanudación** (orden de recuperación y RTO/RPO).
+9. Principio de la Continuidad del Negocio → **a. Promoción de la resiliencia organizacional** (los riesgos se gestionan y mitigan; no se pueden eliminar).
