@@ -63,3 +63,4 @@ Aplicado a la operación: si Consubanco le pasa los datos a Gayosso para ofrecer
 1. Una tienda en línea comparte tus datos con la empresa de mensajería para entregar tu pedido → **Remisión**.
 2. Un banco envía datos de contacto de sus clientes a un call center para atención de quejas → **Remisión** (el call center atiende por cuenta del banco).
 3. Una empresa envía los datos de sus clientes a una aseguradora para ofrecerles un nuevo seguro → **Transferencia** (la aseguradora los usa para su propio fin comercial).
+4. Una empresa contrata a un contador externo para que maneje la nómina de sus empleados → **Remisión** (el contador es encargado, trabaja por cuenta de la empresa).
