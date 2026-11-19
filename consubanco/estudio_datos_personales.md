@@ -23,3 +23,31 @@ El sector público se rige por otra ley: la Ley General de Protección de Datos 
 - **Encargado**: quien trata los datos por cuenta del responsable y sigue sus instrucciones. Ejemplo: la empresa de mensajería que recibe los datos para entregar el pedido.
 
 Aplicado a Consubanco: el cliente es el titular, Consubanco/Opcipres es el responsable y el asesor o un proveedor que procesa expedientes es el encargado (o actúa por cuenta del responsable).
+
+## Nivel de riesgo inherente de los datos (descargable)
+
+Escalera de 4 niveles. Sigue la metodología del INAI. El texto del descargable venía desordenado; esta es la lectura reconstruida.
+
+- **BAJO**, datos de identificación: nombre, teléfono, edad, sexo, RFC, CURP, estado civil, correo, lugar y fecha de nacimiento, nacionalidad, puesto, idioma o lengua, escolaridad, cédula profesional, información migratoria.
+- **MEDIO**:
+  - **Tarjeta bancaria**: solo el número de la tarjeta de crédito o débito.
+  - **Jurídicos**: antecedentes penales, amparos, demandas, contratos, litigios y procedimientos laborales, civiles, penales o administrativos.
+  - **Autenticación**: usuarios, contraseñas, firma electrónica, huella u otros datos para acceder a sistemas. El descargable repetía por error el ejemplo de "jurídico".
+  - **Patrimoniales**: saldos, estados y números de cuenta, inversiones, bienes, información fiscal, historial crediticio, ingresos y egresos, buró, seguros, afores, fianzas, sueldos y servicios contratados.
+  - **Ubicación física**: domicilio y tránsito de la persona dentro y fuera del país.
+  - **Otros**: datos que identifican a alguien a través de lo que proporciona un tercero, como dependientes, beneficiarios, familiares y referencias laborales o personales.
+- **ALTO**, datos sensibles:
+  - Origen racial o étnico, ideología, creencias religiosas o filosóficas, afiliación sindical, opiniones políticas y preferencia o hábitos sexuales.
+  - **Salud**: estado físico o mental pasado, presente o futuro, e información genética.
+- **REFORZADO**:
+  - **Titulares de alto riesgo**: líderes políticos, religiosos, empresariales y de opinión, y personajes públicos.
+  - **Información adicional de la tarjeta**: fecha de vencimiento, código de seguridad (CVV), banda magnética y PIN.
+
+Regla para no confundir los niveles: el número de tarjeta solo es MEDIO. Si se le suman el vencimiento, el CVV o el PIN, sube a REFORZADO, porque con eso ya se puede disponer del dinero.
+
+Aplicado a un expediente de crédito:
+- INE, CURP y teléfono son nivel bajo.
+- Recibos de nómina, estados de cuenta y buró son patrimoniales (medio).
+- Domicilio es medio.
+- Referencias personales y beneficiarios entran en "otros" (medio).
+- Un certificado médico o los datos de una incapacidad son salud (alto). Las pensiones por invalidez del IMSS pueden revelar padecimientos, así que esos documentos se tratan como sensibles.
