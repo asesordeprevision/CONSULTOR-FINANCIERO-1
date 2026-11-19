@@ -28,3 +28,4 @@ Un **virus no es una vulnerabilidad**: es una **amenaza** que explota vulnerabil
 6. Malware que cifra archivos y exige pago → **b. Ransomware**.
 7. "Vishing = obtener información por llamadas telefónicas" → **b. Verdadero**.
 8. "Dumpster Diving = revisar la basura corporativa para obtener información confidencial" → **b. Verdadero**.
+9. Documentos impresos con información sensible → **c. Recogerlos y destruirlos en trituradores de papel.**
