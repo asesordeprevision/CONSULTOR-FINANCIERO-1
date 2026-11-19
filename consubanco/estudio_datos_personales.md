@@ -61,3 +61,4 @@ Aplicado a la operación: si Consubanco le pasa los datos a Gayosso para ofrecer
 
 ### Evaluación (4 preguntas)
 1. Una tienda en línea comparte tus datos con la empresa de mensajería para entregar tu pedido → **Remisión**.
+2. Un banco envía datos de contacto de sus clientes a un call center para atención de quejas → **Remisión** (el call center atiende por cuenta del banco).
