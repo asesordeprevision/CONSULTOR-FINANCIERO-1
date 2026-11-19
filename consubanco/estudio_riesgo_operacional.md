@@ -27,3 +27,4 @@ Iniciado 2026-11-19.
 4. Origen que NO corresponde al riesgo operacional → **a. Riesgo estratégico** (es un riesgo no cuantificable). Los orígenes del riesgo operacional son procesos, personas (recursos humanos), sistemas y eventos externos.
 5. El riesgo operacional excluye el riesgo estratégico y el reputacional → **Verdadero**. Según la definición de Basilea, el operacional incluye el legal pero excluye el estratégico y el reputacional.
 6. Responsabilidad principal del Gestor de Riesgo Operacional → **c. Identificar y documentar los procesos de cada unidad de negocio** (y en ellos sus riesgos, controles y eventos de pérdida).
+7. ¿Quién identifica y reporta el evento de pérdida? → **a. Gestor de riesgo** (lo reporta a la UAIR al menos cada mes).
