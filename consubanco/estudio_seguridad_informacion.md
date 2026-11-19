@@ -31,3 +31,5 @@ Ejemplo en la operación: la INE y los recibos de nómina del cliente son el act
 8. Información que solo puede ser accedida por un grupo muy limitado → **a. Información restringida**. Clasificación usual, de menor a mayor: pública, interna (uso interno), confidencial (áreas o personas autorizadas) y restringida (grupo muy limitado). Si la marcan mal: confidencial.
 9. ¿Quién apoya al Oficial en Jefe de Seguridad (CISO)? → **a. Oficial Operativo de Seguridad de la Información** (equivale al BISO de la pregunta 2: apoya y ejecuta en la operación).
 10. La integridad asegura que la información se mantenga completa, precisa y sin alteraciones durante su procesamiento, almacenamiento y transmisión → **Verdadero**. Triada CID: confidencialidad, integridad y disponibilidad.
+
+**Resultado:** APROBADO 2026-11-19, certificado obtenido.
