@@ -87,7 +87,7 @@ Plazos de la LFPDPPP:
 - 15 días hábiles para hacerlo efectivo si procede.
 - Ambos plazos son ampliables una vez por un periodo igual.
 
-### Evaluación ARCO (4 preguntas)
+### Evaluación ARCO (4 preguntas) — resultado 100
 1. Quieres saber qué información tiene una empresa sobre ti y cómo la usa → **Acceso**.
 2. La empresa tiene incorrectos tu dirección y teléfono → **Solicitar la rectificación de tus datos personales**.
 3. Usan tus datos para enviarte promociones que no autorizaste; ¿qué derecho detiene ese uso? → **Oposición**.
