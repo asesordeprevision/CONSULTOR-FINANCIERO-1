@@ -25,3 +25,4 @@ Ejemplo en la operación: la INE y los recibos de nómina del cliente son el act
 2. ¿Quién es el Oficial en Jefe de Seguridad de la Información? → **c. CISO** (Chief Information Security Officer). El BISO (Business Information Security Officer) es el enlace de seguridad dentro de cada área de negocio.
 3. ¿Qué es un activo de información? → **b. Toda la información en formato físico o digital** (los medios donde se guarda o procesa, opción c, son activos de soporte o tecnológicos; la opción a describe el ciclo de vida). Respuesta razonada, con ambigüedad entre b y c.
 4. Ejemplo de amenaza lógica → **c. Programas con virus o contraseñas débiles**. Robos o desastres naturales son amenazas físicas; el personal interno es una amenaza humana.
+5. ¿Cuándo se produce un ataque? → **c. Cuando una amenaza aprovecha una vulnerabilidad**.
