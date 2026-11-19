@@ -146,3 +146,4 @@ Nota: en marzo de 2025 se publicó una nueva LFPDPPP y el INAI se extinguió; su
 3. ¿A qué hace referencia la Oposición? → **a. Pedir que se detenga el uso de datos por motivos legítimos**.
 4. Derechos que integran ARCO → **c. Acceso, Rectificación, Cancelación y Oposición**.
 5. ¿Qué es un aviso de privacidad? → **a. Es el documento que informa al titular cómo se usarán sus datos personales**.
+6. Plazo para responder una solicitud ARCO → **b. 20 días hábiles** (después, 15 días hábiles para hacerla efectiva; ambos ampliables una vez).
