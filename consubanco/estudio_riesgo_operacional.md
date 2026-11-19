@@ -31,3 +31,5 @@ Iniciado 2026-11-19.
 8. ¿Qué es el riesgo operacional? → **b. Riesgo que provoca pérdidas por errores humanos, procesos, sistemas o eventos externos**.
 9. La tecnología es uno de los factores de riesgo operacional → **Verdadero** (sistemas y tecnología; el riesgo tecnológico forma parte del operacional).
 10. Contenido mínimo del inventario de riesgos operacionales → **c. Tipo de riesgo, proceso, producto, impacto y controles**.
+
+**Resultado:** APROBADO 2026-11-19, certificado obtenido.
