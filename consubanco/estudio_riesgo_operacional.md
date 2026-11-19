@@ -23,3 +23,4 @@ Iniciado 2026-11-19.
 
 1. Los riesgos no cuantificables permiten crear bases estadísticas → **Falso**. Es justo lo que no se puede hacer con ellos.
 2. ¿Con qué periodicidad se reportan los eventos de pérdida por riesgo operacional a la UAIR (Unidad para la Administración Integral de Riesgos)? → **b. Al menos de forma mensual**. El reporte de las áreas a la UAIR es interno; el reporte regulatorio a la CNBV es otro y tiene su propia periodicidad.
+3. ¿Qué unidad establece el proceso para la administración del riesgo operacional? → **c. UAIR**. Auditoría interna revisa de forma independiente; no diseña el proceso.
