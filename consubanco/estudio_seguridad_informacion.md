@@ -16,3 +16,6 @@ Iniciado 2026-11-19. Se completa con lo que comparta el usuario.
 Cadena para recordar: una **amenaza** aprovecha una **vulnerabilidad** con un **ataque** contra un **activo** y causa un **impacto**. El **riesgo** es la probabilidad multiplicada por el impacto.
 
 Ejemplo en la operación: la INE y los recibos de nómina del cliente son el activo. El phishing es la amenaza. Un celular sin bloqueo o un WhatsApp personal es la vulnerabilidad. El ataque sería el robo del expediente, y el impacto, una suplantación de identidad para sacar un crédito.
+
+## Escenarios (¿qué harías?)
+1. Correo "Detectamos actividad inusual. Haz clic aquí para verificar tu cuenta" → **Lo ignoras y lo reportas al Área de Seguridad**. Es phishing: genera urgencia y lleva a un enlace para robar credenciales.
