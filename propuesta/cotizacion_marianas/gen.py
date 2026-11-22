@@ -6,17 +6,17 @@ MESES=["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septie
 hoy=datetime.datetime.now(datetime.UTC).replace(tzinfo=None)-datetime.timedelta(hours=6); fecha=f"{hoy.day} de {MESES[hoy.month-1]} de {hoy.year}"
 CAT={
 "premier":dict(nom="PREMIER PRO",clave="826890",lista=164600.02,ml=4575.88,cont=98760.00,t36=(121145.62,3367.85),t48=(127729.62,2656.78),
- fotos=["../marianas_fachada.jpg","../ataudes/celesti.jpg","../ataudes/pacis.jpg"],pies=["Capillas Marianas","Ataúd Celesti","Urna Pacis"],
+ fotos=["../fotos_marianas/fachada_noche.jpg","../ataudes/celesti.jpg","../ataudes/pacis.jpg"],pies=["Capillas Marianas","Ataúd Celesti","Urna Pacis"],
  por="La categoría más completa de Gayosso y la única <b>Multiplaza</b>: su servicio es válido en las 24 agencias Gayosso de 13 estados.",
  inc=["<b>Sala de velación Premier</b> 24 h para 60 personas (salas Premier y Magna, 5º piso; Lourdes y Fátima, 4º piso)","Ataúd de lujo de metal o madera cat. Premier (Celesti / Eternus)","Si elige cremación: ataúd de lujo de presentación y <b>urna de lujo</b> de madera (Pacis)","<b>Multiplaza:</b> válido en cualquier agencia Gayosso del país","1 copia del acta de defunción"],
  up=("¿Quiere proteger a una persona más?","Con la <b>Promoción 2 + 1</b> el tercer servicio Premier Pro le sale de obsequio: <b>48 × $3,321.14</b> con tarjeta de crédito (solo <b>$664.36 más al mes</b>) o <b>$131,686.58 de contado</b>."),conf=True),
 "universal":dict(nom="UNIVERSAL PRO",clave="826885",lista=124600.02,ml=3463.88,cont=74760.01,t36=(91705.61,2549.42),t48=(96689.62,2011.14),
- fotos=["../marianas_fachada.jpg","../ataudes/legatum.jpg","../ataudes/aural.jpg"],pies=["Capillas Marianas","Ataúd Legatum","Urna Aural"],
+ fotos=["../fotos_marianas/fachada_noche.jpg","../ataudes/legatum.jpg","../ataudes/aural.jpg"],pies=["Capillas Marianas","Ataúd Legatum","Urna Aural"],
  por="El punto de equilibrio de Gayosso: ataúd de metal o madera y un servicio completo, con una inversión muy por debajo de Premier.",
  inc=["Sala de velación Estándar 24 h para 40 personas","Ataúd de metal o madera cat. Universal (Legatum / Stella)","Si elige cremación: ataúd de presentación y <b>urna de madera</b> (Aural)","Servicio en la agencia Gayosso de su plaza"],
  up=("¿Quiere proteger a una persona más?","Con la <b>Promoción 2 + 1</b> el tercer servicio Universal Pro le sale de obsequio: <b>48 × $2,514.06</b> con tarjeta de crédito o <b>$99,685 de contado</b>."),conf=False),
 "esencial":dict(nom="ESENCIAL PRO",clave="826882",lista=96600.00,ml=2685.48,cont=61824.00,t36=(71097.60,1976.51),t48=(74961.60,1559.20),
- fotos=["../marianas_fachada.jpg","../ataudes/iter_pax.jpg","../ataudes/oblatio.jpg"],pies=["Capillas Marianas","Ataúd Iter Pax","Urna Oblatio"],
+ fotos=["../fotos_marianas/fachada_noche.jpg","../ataudes/iter_pax.jpg","../ataudes/oblatio.jpg"],pies=["Capillas Marianas","Ataúd Iter Pax","Urna Oblatio"],
  por="Un servicio funerario completo y digno, con el respaldo de Gayosso, a la inversión más accesible.",
  inc=["Sala de velación Estándar 24 h para 20 personas","Ataúd metálico cat. Esencial (Iter Pax)","Si elige cremación: ataúd de presentación y <b>urna de madera</b> (Oblatio)","Servicio en la agencia Gayosso de su plaza"],
  up=("¿Busca también el lugar de descanso?","En la nueva <b>Marianas Nogalar</b>: 2 Esencial Pro + <b>nicho para 2 urnas de regalo</b> desde <b>48 × $1,816.24</b> con tarjeta de crédito o <b>$72,016 de contado</b>."),conf=True)}
@@ -64,7 +64,7 @@ def page(k):
   rows=f"""<tr class="st"><td><b>Tarjeta de crédito · 48 meses</b><span class="tg">MÁS ACCESIBLE</span><div class="sm">Sin enganche · sin intereses</div></td><td class="r mo">{m(c['t48'][1],1)}</td><td class="r">{m(c['t48'][0],1)}</td><td class="r sv">{m(a48)} <span class="sm">({p48:.1f}%)</span></td><td class="r sm">menos de ${dia(c['t48'][1])}<br>diarios c/u</td></tr>
 <tr><td><b>Tarjeta de crédito · 36 meses</b><div class="sm">Sin enganche · sin intereses</div></td><td class="r mo">{m(c['t36'][1],1)}</td><td class="r">{m(c['t36'][0],1)}</td><td class="r sv">{m(a36)} <span class="sm">({p36:.1f}%)</span></td><td class="r sm">${c['ml']-c['t36'][1]:,.0f} menos<br>que la de lista</td></tr>
 <tr class="st"><td><b>Contado</b><span class="tg g">MAYOR AHORRO</span><div class="sm">Una sola exhibición</div></td><td class="r">—</td><td class="r mo">{m(c['cont'],1)}</td><td class="r sv">{m(ac)} <span class="sm">({pc:.1f}%)</span></td><td class="r sm">{m(c['cont']/2)}<br>por servicio</td></tr>"""
-  ph="".join(f"<div><img src=\"{f}\" style=\"{'object-fit:cover' if i==0 else ''}\">{p}</div>" for i,(f,p) in enumerate(zip(c["fotos"],c["pies"])))
+  ph="".join(f"<div><img src=\"{f}\" style=\"{'object-fit:cover;object-position:50% 45%' if i==0 else ''}\">{p}</div>" for i,(f,p) in enumerate(zip(c["fotos"],c["pies"])))
   return f"""<div class="pg"><div class="hd"><img src="../logo.jpg"><div class="t"><h1>PROPUESTA DE PREVISIÓN FAMILIAR</h1><h2>Capillas Marianas · Monterrey</h2></div><div class="r">San Pedro Garza García, N.L.<br><b>{fecha}</b></div></div>
 <div class="to"><span>Para:</span><span class="ln"></span><span>Tel.:</span><span class="ln" style="flex:.55"></span></div>
 <p class="intro">Es un gusto saludarle. Conforme a lo que platicamos, le comparto la propuesta para dejar protegidos a <b>dos integrantes de su familia</b>, con el detalle de lo que incluye, su inversión y las formas de pago disponibles.</p>
