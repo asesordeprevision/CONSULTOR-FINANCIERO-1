@@ -1,0 +1,96 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:1080px;height:1350px;font-family:"DejaVu Sans",Arial,sans-serif;background:#fff;color:#1d2b22;overflow:hidden}
+.wrap{padding:22px 40px 18px;height:100%;display:flex;flex-direction:column;gap:12px}
+.top{display:flex;align-items:center;justify-content:space-between;border-bottom:5px solid #2e7d32;padding-bottom:6px}
+.top img{height:76px}
+.top .r{text-align:right}.top .k{font-size:20px;letter-spacing:3px;color:#2e7d32;font-weight:bold}.top .d{font-size:17px;color:#555;margin-top:4px}
+.rib{background:repeating-linear-gradient(45deg,#c62828 0 22px,#b71c1c 22px 44px);color:#fff;text-align:center;font-weight:bold;font-size:20px;letter-spacing:1px;padding:10px;border-radius:10px;border:3px solid #e6c66e;white-space:nowrap}
+.rib small{display:block;font-size:15px;color:#ffe9a8;margin-top:2px}
+.hero{text-align:center}
+.hero .a{font-size:27px;color:#1f5f2a;font-weight:bold}
+.hero .b{font-size:62px;font-weight:900;color:#1f5f2a;line-height:1.05}
+.hero .b span{color:#c62828}
+.hero .c{font-size:18px;color:#444;margin-top:3px}
+.main{display:flex;gap:14px}
+.side{width:400px;display:flex;flex-direction:column;gap:10px}
+.box{border-radius:12px;padding:10px 14px}
+.inc{background:#eef6ef;border:2px solid #2e7d32}
+.inc h3{font-size:16.5px;margin-bottom:3px;color:#1f5f2a}
+.inc li{list-style:none;font-size:14px;line-height:1.32;padding-left:20px;position:relative}
+.inc li:before{content:"✔";position:absolute;left:0;color:#2e7d32;font-weight:bold}
+.lista{border:2px solid #c9b37e;border-radius:12px;padding:10px 14px;font-size:15px;color:#777}
+.lista .h{text-align:center;font-size:16px;color:#666;margin-bottom:3px}
+.lista .row{display:flex;justify-content:space-between}
+.lista .tot{display:flex;justify-content:space-between;font-weight:bold;font-size:18px;border-top:1px dashed #c9b37e;margin-top:4px;padding-top:4px}
+.lista .n{text-align:center;font-size:13.5px;margin-top:3px}
+.right{flex:1;display:flex;flex-direction:column;gap:10px}
+.op{border:3px solid #2e7d32;border-radius:14px;overflow:hidden}
+.op .h{background:#2e7d32;color:#fff;font-size:16px;font-weight:bold;padding:6px;text-align:center}
+.op.g{border-color:#c9a24a;box-shadow:0 0 0 3px #e6c66e}.op.g .h{background:#b8892f}
+.badge{background:#c62828;color:#fff;font-size:12px;font-weight:bold;padding:3px 0;text-align:center;letter-spacing:2px}
+.op .b{padding:7px 8px;text-align:center}
+.big{font-size:30px;font-weight:bold;color:#1f5f2a}.big span{font-size:14px}
+.sm{font-size:13.5px;color:#444;margin-top:2px;line-height:1.3}
+.sv{display:inline-block;margin-top:5px;background:#e8f5e9;color:#1b5e20;font-weight:bold;font-size:13.5px;padding:4px 10px;border-radius:20px}
+.row2{display:flex;gap:10px}.row2 .op{flex:1}
+.nicho{background:linear-gradient(135deg,#1f5f2a,#2e7d32);color:#fff;border-radius:14px;padding:11px 16px;border:3px solid #e6c66e}
+.nicho .t{font-size:20px;font-weight:bold}
+.nicho .s{font-size:14.5px;line-height:1.4;margin-top:3px}
+.nicho s{color:#c8e6c9}
+.gift{background:linear-gradient(90deg,#c9a24a,#e6c66e);border-radius:14px;padding:9px 14px;display:flex;align-items:center;gap:12px;color:#3b2a00;border:3px solid #c62828}
+.gift .i{font-size:38px}.gift .t{font-size:16.5px;font-weight:bold}.gift .s{font-size:12.5px;line-height:1.35}
+.trust{display:flex;gap:8px;font-size:13.5px;text-align:center}
+.trust div{flex:1;background:#eef6ef;border-radius:10px;padding:7px 6px;line-height:1.3}
+.vig{background:#c62828;color:#fff;text-align:center;font-size:19px;font-weight:bold;padding:9px;border-radius:12px;line-height:1.35}
+.vig small{display:block;font-size:15px;font-weight:normal;color:#ffe9a8}
+.steps{display:flex;gap:8px;font-size:14px}
+.st{flex:1;background:#eef6ef;border-radius:10px;padding:7px 8px;text-align:center;line-height:1.25}
+.st b.n{display:block;font-size:19px;color:#2e7d32}
+.foot{border-top:3px solid #2e7d32;padding-top:8px;display:flex;justify-content:space-between;align-items:center}
+.foot .n{font-size:23px;font-weight:bold;color:#1f5f2a}.foot .r{font-size:14px;color:#444}
+.foot .w{font-size:22px;white-space:nowrap;font-weight:bold;color:#fff;background:#25a244;padding:8px 18px;border-radius:30px}
+.fine{font-size:11px;color:#777;line-height:1.3}
+</style></head><body><div class="wrap">
+<div class="top"><img src="logo.jpg"><div class="r"><div class="k">PROPUESTA PERSONALIZADA</div><div class="d">16 de noviembre de 2026</div></div></div>
+<div class="rib">⏳ CAPILLAS MARIANAS · PROMOCIÓN HASTA EL 30 DE NOVIEMBRE ⏳<small>Nichos zona Premier y certificados vacacionales limitados</small></div>
+<div class="hero"><div class="a">2 servicios Previsión Gayosso ESENCIAL PRO</div><div class="b">+ ¡nicho de <span>regalo!</span></div><div class="c">El servicio completo y un nicho en Mausoleo Capillas Marianas, en un solo plan</div></div>
+<div class="main">
+ <div class="side">
+  <div class="box inc"><h3>🕊️ Cada servicio Esencial Pro incluye</h3><ul>
+   <li>Sala de velación Estándar 24 h · 20 personas</li>
+   <li>Ataúd metálico cat. Esencial (inhumación)</li>
+   <li>Urna de madera y ataúd de presentación (cremación)</li>
+   <li>Embalsamamiento, arreglo estético y cafetería</li>
+   <li>Traslados locales y asesoría en trámites</li>
+   <li><b>Ambivalente:</b> al momento elige inhumación o cremación</li></ul></div>
+  <div class="box inc"><h3>⚱️ Su nicho de regalo incluye</h3><ul>
+   <li>Nicho para <b>2 urnas</b> a perpetuidad</li>
+   <li>Mausoleo Capillas Marianas · <b>zona Premier</b></li>
+   <li>Nivel superior o inferior</li>
+   <li>Ceremonia de depósito de cenizas</li></ul></div>
+  <div class="lista"><div class="h">Precio de lista</div>
+   <div class="row"><span>2 servicios Esencial Pro</span><s>$96,600.00</s></div>
+   <div class="row"><span>Nicho 2 urnas zona Premier</span><s>$38,680.00</s></div>
+   <div class="tot"><span>Total</span><s>$135,280.00</s></div>
+   <div class="n">36 mensualidades de $3,760.78</div></div>
+  <div class="box" style="background:#1f5f2a;color:#fff;font-size:14px;line-height:1.45"><b style="font-size:16px">📍 Capillas Marianas</b><br>Av. Lázaro Cárdenas 1005 Pte., Col. Loma Larga, San Pedro Garza García<br><span style="color:#ffe9a8">Agencia y mausoleo en el mismo lugar</span></div>
+ </div>
+ <div class="right">
+  <div class="op g"><div class="h">1 · CONTADO</div><div class="badge">★ MAYOR AHORRO ★</div><div class="b"><div class="big" style="font-size:36px">$81,168.00</div><div class="sm">Una sola exhibición · todo incluido</div><div class="sv">Ahorra $54,112 (40%)</div></div></div>
+  <div class="row2">
+   <div class="op" style="border-color:#c9a24a"><div class="h" style="background:#b8892f">2 · ENGANCHE 15% · 35 M</div><div class="badge">★ MENSUALIDAD MÁS BAJA ★</div><div class="b"><div class="big">$2,095.66<span>/mes</span></div><div class="sm">Enganche $12,936.15<br>+ 35 mensualidades</div><div class="sv">Ahorra $49,039</div></div></div>
+   <div class="op"><div class="h">3 · SIN ENGANCHE 36 M</div><div class="b" style="padding-top:11px"><div class="big">$2,594.94<span>/mes</span></div><div class="sm">$1,166 menos que la de<br>lista · menos de $87 diarios</div><div class="sv">Ahorra $41,937</div></div></div>
+  </div>
+  <div class="box" style="border:2px solid #2e7d32;font-size:14px;line-height:1.45;text-align:center"><b>En paquete el nicho vale menos:</b> solo, de contado, cuesta <s>$30,944</s>; aquí <b>$23,208</b><br>Opciones 2 y 3 con tarjeta de crédito</div>
+  <div class="nicho"><div class="t">🎁 ¡EL NICHO LE SALE DE REGALO!</div><div class="s">Solo los 2 servicios a precio de lista cuestan <s>$96,600</s>. Usted se lleva <b>los 2 servicios + el nicho</b> desde <b>$81,168</b>. En las 3 formas de pago paga menos que los 2 servicios solos.</div></div>
+  <div class="gift"><div class="i">🏖️</div><div><div class="t">🎁 + Certificado vacacional · 4 días / 3 noches</div><div class="s">Royal Holiday todo incluido · 2 adultos + 2 menores · tarifa regular $24,995 · reservación desde $3,999 · con tarjeta de crédito · <b style="color:#8a1c1c">LIMITADOS</b></div></div></div>
+ </div>
+</div>
+<div class="trust"><div>🚫 Opción <b>sin enganche</b></div><div>🔒 <b>Precio congelado</b> y sin intereses</div><div>↩️ <b>5 días hábiles</b> para cancelar</div><div>📄 Contrato registrado ante <b>PROFECO</b></div></div>
+<div class="vig">⏰ Promoción hasta el lunes 30 de noviembre · nichos limitados<small>Aparte hoy su folio con correo e INE, sin pago ni compromiso, y le respeto precio y regalo</small></div>
+<div class="steps"><div class="st"><b class="n">1</b>Folio con correo e INE <b>(sin pago)</b></div><div class="st"><b class="n">2</b>Correo de ABRAHAM CUTIPA QUENAYA → <b>Ver mi cotización</b></div><div class="st"><b class="n">3</b>Firma electrónica desde su celular</div></div>
+<div class="foot"><div><div class="n">Abraham Cutipa</div><div class="r">Asesor Certificado de Previsión Familiar · Grupo Gayosso · Monterrey</div></div><div class="w">WhatsApp 81 1627 6206</div></div>
+<div class="fine">Precios del Cotizador Gayosso, sujetos a condiciones del plan. Si se elige cremación, Gayosso informa si el ataúd aplica o hay diferencia de precio. No incluye mantenimiento anual del nicho, apertura/cierre, placa, derechos ni trámites. Certificado con tarjeta de crédito, sujeto a términos de Royal Holiday y disponibilidad.</div>
+</div></body></html>
