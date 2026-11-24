@@ -1,0 +1,116 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:1080px;height:1350px;font-family:"DejaVu Sans",Arial,sans-serif;background:#fff;color:#1d2b22;overflow:hidden}
+.wrap{padding:22px 40px 18px;height:100%;display:flex;flex-direction:column;gap:12px}
+.top{display:flex;align-items:center;justify-content:space-between;border-bottom:5px solid #2e7d32;padding-bottom:6px}
+.top img{height:76px}
+.top .r{text-align:right}.top .k{font-size:20px;letter-spacing:3px;color:#2e7d32;font-weight:bold}.top .d{font-size:17px;color:#555;margin-top:4px}
+.rib{background:repeating-linear-gradient(45deg,#c62828 0 22px,#b71c1c 22px 44px);color:#fff;text-align:center;font-weight:bold;font-size:20px;letter-spacing:1px;padding:10px;border-radius:10px;border:3px solid #e6c66e;white-space:nowrap}
+.rib small{display:block;font-size:15px;color:#ffe9a8;margin-top:2px}
+.hero{text-align:center}
+.hero .a{font-size:27px;color:#1f5f2a;font-weight:bold}
+.hero .b{font-size:62px;font-weight:900;color:#1f5f2a;line-height:1.05}
+.hero .b span{color:#c62828}
+.hero .c{font-size:18px;color:#444;margin-top:3px}
+.main{display:flex;gap:14px}
+.side{width:400px;display:flex;flex-direction:column;gap:10px}
+.box{border-radius:12px;padding:10px 14px}
+.inc{background:#eef6ef;border:2px solid #2e7d32}
+.inc h3{font-size:16.5px;margin-bottom:3px;color:#1f5f2a}
+.inc li{list-style:none;font-size:14px;line-height:1.32;padding-left:20px;position:relative}
+.inc li:before{content:"✔";position:absolute;left:0;color:#2e7d32;font-weight:bold}
+.lista{border:2px solid #c9b37e;border-radius:12px;padding:10px 14px;font-size:15px;color:#777}
+.lista .h{text-align:center;font-size:16px;color:#666;margin-bottom:3px}
+.lista .row{display:flex;justify-content:space-between}
+.lista .tot{display:flex;justify-content:space-between;font-weight:bold;font-size:18px;border-top:1px dashed #c9b37e;margin-top:4px;padding-top:4px}
+.lista .n{text-align:center;font-size:13.5px;margin-top:3px}
+.right{flex:1;display:flex;flex-direction:column;gap:10px}
+.op{border:3px solid #2e7d32;border-radius:14px;overflow:hidden}
+.op .h{background:#2e7d32;color:#fff;font-size:16px;font-weight:bold;padding:6px;text-align:center}
+.op.g{border-color:#c9a24a;box-shadow:0 0 0 3px #e6c66e}.op.g .h{background:#b8892f}
+.badge{background:#c62828;color:#fff;font-size:12px;font-weight:bold;padding:3px 0;text-align:center;letter-spacing:2px}
+.op .b{padding:7px 8px;text-align:center}
+.big{font-size:30px;font-weight:bold;color:#1f5f2a}.big span{font-size:14px}
+.sm{font-size:13.5px;color:#444;margin-top:2px;line-height:1.3}
+.sv{display:inline-block;margin-top:5px;background:#e8f5e9;color:#1b5e20;font-weight:bold;font-size:13.5px;padding:4px 10px;border-radius:20px}
+.row2{display:flex;gap:10px}.row2 .op{flex:1}
+.nicho{background:linear-gradient(135deg,#1f5f2a,#2e7d32);color:#fff;border-radius:14px;padding:11px 16px;border:3px solid #e6c66e}
+.nicho .t{font-size:20px;font-weight:bold}
+.nicho .s{font-size:14.5px;line-height:1.4;margin-top:3px}
+.nicho s{color:#c8e6c9}
+.gift{background:linear-gradient(90deg,#c9a24a,#e6c66e);border-radius:14px;padding:9px 14px;display:flex;align-items:center;gap:12px;color:#3b2a00;border:3px solid #c62828}
+.gift .i{font-size:38px}.gift .t{font-size:16.5px;font-weight:bold}.gift .s{font-size:12.5px;line-height:1.35}
+.trust{display:flex;gap:8px;font-size:13.5px;text-align:center}
+.trust div{flex:1;background:#eef6ef;border-radius:10px;padding:7px 6px;line-height:1.3}
+.vig{background:#c62828;color:#fff;text-align:center;font-size:19px;font-weight:bold;padding:9px;border-radius:12px;line-height:1.35}
+.vig small{display:block;font-size:15px;font-weight:normal;color:#ffe9a8}
+.steps{display:flex;gap:8px;font-size:14px}
+.st{flex:1;background:#eef6ef;border-radius:10px;padding:7px 8px;text-align:center;line-height:1.25}
+.st b.n{display:block;font-size:19px;color:#2e7d32}
+.foot{border-top:3px solid #2e7d32;padding-top:8px;display:flex;justify-content:space-between;align-items:center}
+.foot .n{font-size:23px;font-weight:bold;color:#1f5f2a}.foot .r{font-size:14px;color:#444}
+.foot .w{font-size:22px;white-space:nowrap;font-weight:bold;color:#fff;background:#25a244;padding:8px 18px;border-radius:30px}
+.fine{font-size:11px;color:#777;line-height:1.3}
+
+.sub{text-align:center;font-size:17px;color:#444;margin-top:-4px}
+.plan{display:flex;gap:8px}
+.plan div{flex:1;background:#eef6ef;border:2px solid #2e7d32;border-radius:10px;text-align:center;padding:6px 4px;font-size:13px;line-height:1.3}
+.plan b.n{display:block;font-size:17px;color:#1f5f2a}
+.plan .nx{background:#fdf6e3;border-color:#c9a24a}.plan .nx b.n{color:#7a5a10}
+.cols{display:flex;gap:12px}
+.col{flex:1;border:3px solid #2e7d32;border-radius:14px;overflow:hidden}
+.col.p{border-color:#c9a24a;box-shadow:0 0 0 3px #e6c66e}
+.col .h{background:#2e7d32;color:#fff;text-align:center;font-weight:bold;font-size:20px;padding:7px}
+.col.p .h{background:#b8892f}
+.col .tg{background:#e8f5e9;color:#1b5e20;text-align:center;font-size:12.5px;font-weight:bold;letter-spacing:1px;padding:3px}
+.col.p .tg{background:#c62828;color:#fff}
+.col .b{padding:8px 12px}
+.col .li{font-size:13px;color:#444;line-height:1.35;margin-bottom:5px}
+.col .ls{text-align:center;font-size:14px;color:#777;border-top:1px dashed #ccc;padding-top:5px}
+.col .row{display:flex;justify-content:space-between;align-items:baseline;border-top:1px dashed #ccc;padding:5px 0}
+.col .row .k{font-size:13.5px;color:#333}
+.col .row .v{font-size:22px;font-weight:bold;color:#1f5f2a}
+.col .row .v small{font-size:12px;color:#555;font-weight:normal}
+.col .x{font-size:12px;color:#555;text-align:right;margin-top:-3px}
+.col .sv{display:block;text-align:center;margin:6px auto 0;background:#e8f5e9;color:#1b5e20;font-weight:bold;font-size:14px;padding:5px 10px;border-radius:20px}
+.nb{background:linear-gradient(135deg,#1f5f2a,#2e7d32);color:#fff;border-radius:14px;padding:10px 16px;border:3px solid #e6c66e;font-size:14px;line-height:1.45}
+.nb .t{font-size:18px;font-weight:bold}
+.photos{display:flex;gap:8px;height:175px}.photos .p{flex:1;border-radius:12px;overflow:hidden;position:relative}.photos img{width:100%;height:100%;object-fit:cover}.photos .lb{position:absolute;bottom:0;left:0;right:0;background:linear-gradient(transparent,rgba(0,0,0,.75));color:#fff;font-size:13px;font-weight:bold;padding:16px 8px 5px;text-align:center}
+</style></head><body><div class="wrap">
+<div class="top"><img src="logo.jpg"><div class="r"><div class="k">PROPUESTA DE CIERRE</div><div class="d">Previsión Familiar · 24 de noviembre de 2026</div></div></div>
+<div class="rib">⏳ PREVENTA MARIANAS NOGALAR · HASTA EL 30 DE NOVIEMBRE ⏳<small>2 + 1 en cada contrato · certificados vacacionales limitados</small></div>
+<div class="hero"><div class="a">Plan familiar completo</div><div class="b" style="font-size:46px">9 servicios + <span>nicho para 8 urnas</span></div></div>
+<div class="sub">Usted elige la categoría: <b>Universal Pro</b> o <b>Premier Pro</b> · 3 servicios le salen de obsequio</div>
+<div class="plan">
+ <div><b class="n">Contrato 1</b>2 + 1 · 3 servicios<br>🎁 1 de obsequio</div>
+ <div><b class="n">Contrato 2</b>2 + 1 · 3 servicios<br>🎁 1 de obsequio</div>
+ <div><b class="n">Contrato 3</b>2 + 1 · 3 servicios<br>🎁 1 de obsequio</div>
+ <div class="nx"><b class="n">Contrato 4</b>Nicho familiar<br>8 urnas · nivel medio</div>
+</div>
+<div class="photos"><div class="p"><img src="fotos_nogalar/fachada_gayosso.jpg"><div class="lb">Marianas Nogalar · San Nicolás</div></div><div class="p"><img src="fotos_nogalar/lobby.jpg"><div class="lb">Salas Universal y Premier</div></div><div class="p"><img src="nogalar_nichos3.jpg"><div class="lb">Mausoleo · su nicho familiar</div></div></div>
+<div class="cols">
+ <div class="col"><div class="h">UNIVERSAL PRO</div><div class="tg">EL PUNTO DE EQUILIBRIO</div><div class="b">
+  <div class="li">Sala de velación 24 h · 40 personas · ataúd de <b>metal o madera</b> · urna de madera · Ambivalente</div>
+  <div class="ls">Precio de lista (9 servicios + nicho) <s>$785,350</s></div>
+  <div class="row"><span class="k">💳 Crédito 48 meses<br><span style="font-size:11.5px;color:#666">sin enganche · todo junto</span></span><span class="v">$12,074.72<small>/mes</small></span></div>
+  <div class="x">3 × $2,514.06 + nicho $4,532.54 · menos de $45 diarios por persona</div>
+  <div class="row"><span class="k">💵 Contado</span><span class="v">$478,775</span></div>
+  <div class="x">3 × $99,685 + nicho $179,720</div>
+  <span class="sv">Ahorra $306,575 (39%)</span></div></div>
+ <div class="col p"><div class="h">PREMIER PRO</div><div class="tg">★ LA MÁS COMPLETA ★</div><div class="b">
+  <div class="li"><b>Sala Premier</b> 24 h · 60 personas · ataúd y urna <b>de lujo</b> · acta · <b>Multiplaza</b> 24 agencias</div>
+  <div class="ls">Precio de lista (9 servicios + nicho) <s>$965,350</s></div>
+  <div class="row"><span class="k">💳 Crédito 48 meses<br><span style="font-size:11.5px;color:#666">sin enganche · todo junto</span></span><span class="v">$14,495.96<small>/mes</small></span></div>
+  <div class="x">3 × $3,321.14 + nicho $4,532.54 · menos de $54 diarios por persona</div>
+  <div class="row"><span class="k">💵 Contado</span><span class="v">$574,780</span></div>
+  <div class="x">3 × $131,686.58 + nicho $179,720</div>
+  <span class="sv">Ahorra $390,570 (40%)</span></div></div>
+</div>
+<div class="nb"><div class="t">🎁 3 servicios de obsequio + 4 certificados vacacionales</div>Por cada contrato 2 + 1 paga 2 servicios y se lleva 3: <b>9 servicios por el precio de menos de 6</b>. Y cada contrato con tarjeta de crédito lleva su <b>certificado Royal Holiday</b> (4 días / 3 noches todo incluido, tarifa regular $24,995, reservación desde $3,999) · <b>limitados</b>.</div>
+<div class="trust"><div>⚱️ <b>Ambivalente:</b> inhumación o cremación</div><div>🔒 <b>Precio congelado</b> y sin intereses</div><div>👨‍👩‍👧 <b>100% transferible</b></div><div>↩️ <b>5 días hábiles</b> para cancelar</div></div>
+<div class="vig">⏰ Preventa hasta el lunes 30 de noviembre<small>Visitas a Nogalar de lunes a viernes, 9:00 a 17:00, con folio apartado (INE y correo, sin pago)</small></div>
+<div class="steps"><div class="st"><b class="n">1</b>Elija Universal o Premier y aparte sus folios <b>(sin pago)</b></div><div class="st"><b class="n">2</b>Visite Nogalar y conozca su nicho y las salas</div><div class="st"><b class="n">3</b>Firme sus 4 contratos desde su celular</div></div>
+<div class="foot"><div><div class="n">Abraham Cutipa</div><div class="r">Asesor Certificado de Previsión Familiar · Grupo Gayosso · Monterrey</div></div><div class="w">WhatsApp 81 1627 6206</div></div>
+<div class="fine">Precios del Cotizador Gayosso sujetos a condiciones y disponibilidad. Cada contrato es independiente: se cargan las 4 mensualidades por separado (solo la 1ª de cada uno al formalizar). Certificado por contrato con tarjeta de crédito, sujeto a términos de Royal Holiday. No incluye mantenimiento anual del nicho, apertura, placa, derechos ni trámites.</div>
+</div></body></html>
