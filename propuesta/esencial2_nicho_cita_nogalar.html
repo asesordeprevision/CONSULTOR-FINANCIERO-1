@@ -1,0 +1,111 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:1080px;height:1350px;font-family:"DejaVu Sans",Arial,sans-serif;background:#fff;color:#1d2b22;overflow:hidden}
+.wrap{padding:22px 40px 18px;height:100%;display:flex;flex-direction:column;gap:14px}
+.top{display:flex;align-items:center;justify-content:space-between;border-bottom:5px solid #2e7d32;padding-bottom:6px}
+.top img{height:76px}
+.top .r{text-align:right}.top .k{font-size:20px;letter-spacing:3px;color:#2e7d32;font-weight:bold}.top .d{font-size:17px;color:#555;margin-top:4px}
+.rib{background:repeating-linear-gradient(45deg,#c62828 0 22px,#b71c1c 22px 44px);color:#fff;text-align:center;font-weight:bold;font-size:20px;letter-spacing:1px;padding:10px;border-radius:10px;border:3px solid #e6c66e;white-space:nowrap}
+.rib small{display:block;font-size:15px;color:#ffe9a8;margin-top:2px}
+.hero{text-align:center}
+.hero .a{font-size:27px;color:#1f5f2a;font-weight:bold}
+.hero .b{font-size:62px;font-weight:900;color:#1f5f2a;line-height:1.05}
+.hero .b span{color:#c62828}
+.hero .c{font-size:18px;color:#444;margin-top:3px}
+.main{display:flex;gap:14px}
+.side{width:400px;display:flex;flex-direction:column;gap:10px}
+.box{border-radius:12px;padding:10px 14px}
+.inc{background:#eef6ef;border:2px solid #2e7d32}
+.inc h3{font-size:16.5px;margin-bottom:3px;color:#1f5f2a}
+.inc li{list-style:none;font-size:14px;line-height:1.32;padding-left:20px;position:relative}
+.inc li:before{content:"✔";position:absolute;left:0;color:#2e7d32;font-weight:bold}
+.lista{border:2px solid #c9b37e;border-radius:12px;padding:10px 14px;font-size:15px;color:#777}
+.lista .h{text-align:center;font-size:16px;color:#666;margin-bottom:3px}
+.lista .row{display:flex;justify-content:space-between}
+.lista .tot{display:flex;justify-content:space-between;font-weight:bold;font-size:18px;border-top:1px dashed #c9b37e;margin-top:4px;padding-top:4px}
+.lista .n{text-align:center;font-size:13.5px;margin-top:3px}
+.right{flex:1;display:flex;flex-direction:column;gap:10px}
+.op{border:3px solid #2e7d32;border-radius:14px;overflow:hidden}
+.op .h{background:#2e7d32;color:#fff;font-size:16px;font-weight:bold;padding:6px;text-align:center}
+.op.g{border-color:#c9a24a;box-shadow:0 0 0 3px #e6c66e}.op.g .h{background:#b8892f}
+.badge{background:#c62828;color:#fff;font-size:12px;font-weight:bold;padding:3px 0;text-align:center;letter-spacing:2px}
+.op .b{padding:7px 8px;text-align:center}
+.big{font-size:30px;font-weight:bold;color:#1f5f2a}.big span{font-size:14px}
+.sm{font-size:13.5px;color:#444;margin-top:2px;line-height:1.3}
+.sv{display:inline-block;margin-top:5px;background:#e8f5e9;color:#1b5e20;font-weight:bold;font-size:13.5px;padding:4px 10px;border-radius:20px}
+.row2{display:flex;gap:10px}.row2 .op{flex:1}
+.nicho{background:linear-gradient(135deg,#1f5f2a,#2e7d32);color:#fff;border-radius:14px;padding:11px 16px;border:3px solid #e6c66e}
+.nicho .t{font-size:20px;font-weight:bold}
+.nicho .s{font-size:14.5px;line-height:1.4;margin-top:3px}
+.nicho s{color:#c8e6c9}
+.gift{background:linear-gradient(90deg,#c9a24a,#e6c66e);border-radius:14px;padding:9px 14px;display:flex;align-items:center;gap:12px;color:#3b2a00;border:3px solid #c62828}
+.gift .i{font-size:38px}.gift .t{font-size:16.5px;font-weight:bold}.gift .s{font-size:12.5px;line-height:1.35}
+.trust{display:flex;gap:8px;font-size:13.5px;text-align:center}
+.trust div{flex:1;background:#eef6ef;border-radius:10px;padding:7px 6px;line-height:1.3}
+.vig{background:#c62828;color:#fff;text-align:center;font-size:19px;font-weight:bold;padding:9px;border-radius:12px;line-height:1.35}
+.vig small{display:block;font-size:15px;font-weight:normal;color:#ffe9a8}
+.steps{display:flex;gap:8px;font-size:14px}
+.st{flex:1;background:#eef6ef;border-radius:10px;padding:7px 8px;text-align:center;line-height:1.25}
+.st b.n{display:block;font-size:19px;color:#2e7d32}
+.foot{border-top:3px solid #2e7d32;padding-top:8px;display:flex;justify-content:space-between;align-items:center}
+.foot .n{font-size:23px;font-weight:bold;color:#1f5f2a}.foot .r{font-size:14px;color:#444}
+.foot .w{font-size:22px;white-space:nowrap;font-weight:bold;color:#fff;background:#25a244;padding:8px 18px;border-radius:30px}
+.fine{font-size:11px;color:#777;line-height:1.3}
+
+.photos{display:flex;gap:8px;height:300px;position:relative}
+.photos .p{flex:1;border-radius:12px;overflow:hidden;position:relative}
+.photos img{width:100%;height:100%;object-fit:cover}
+.photos .lb{position:absolute;bottom:0;left:0;right:0;background:linear-gradient(transparent,rgba(0,0,0,.75));color:#fff;font-size:13.5px;font-weight:bold;padding:18px 8px 6px;text-align:center}
+.price{display:flex;gap:10px;align-items:stretch}
+.pl{width:290px;border:2px solid #c9b37e;border-radius:12px;padding:8px 12px;font-size:14px;color:#777}
+.pl .row{display:flex;justify-content:space-between}.pl .tot{display:flex;justify-content:space-between;font-weight:bold;font-size:17px;border-top:1px dashed #c9b37e;margin-top:3px;padding-top:3px}
+.pl .n{text-align:center;font-size:12.5px;margin-top:3px}
+.pm{flex:1;border:3px solid #c9a24a;box-shadow:0 0 0 3px #e6c66e;border-radius:14px;overflow:hidden;text-align:center}
+.pm .h{background:#b8892f;color:#fff;font-weight:bold;font-size:15px;padding:5px;letter-spacing:1px}
+.pm .v{font-size:46px;font-weight:900;color:#1f5f2a;line-height:1.05;margin-top:4px}.pm .v span{font-size:17px}
+.pm .x{font-size:13.5px;color:#444;margin:2px 6px 5px}
+.opts{display:flex;gap:8px}
+.opts div{flex:1;background:#eef6ef;border:2px solid #2e7d32;border-radius:10px;text-align:center;padding:6px 4px;font-size:13px;line-height:1.3}
+.opts b{display:block;font-size:19px;color:#1f5f2a}
+.two{display:flex;gap:10px}.two .box{flex:1}
+.cita{background:linear-gradient(135deg,#1f5f2a,#2e7d32);border:3px solid #e6c66e;border-radius:14px;color:#fff;padding:10px 16px}
+.cita .t{font-size:22px;font-weight:bold;text-align:center}
+.cita .s{font-size:14.5px;text-align:center;color:#ffe9a8;margin-top:2px}
+.cita .stp{display:flex;gap:8px;margin-top:8px}
+.cita .stp div{flex:1;background:rgba(255,255,255,.12);border-radius:10px;padding:6px 8px;font-size:13.5px;line-height:1.3;text-align:center}
+.cita .stp b.n{display:block;font-size:20px;color:#ffe08a}
+</style></head><body><div class="wrap">
+<div class="top"><img src="logo.jpg"><div class="r"><div class="k">PREVENTA MARIANAS NOGALAR</div><div class="d">Previsión Familiar · 24 de noviembre de 2026</div></div></div>
+<div class="hero"><div class="a">2 servicios Previsión Gayosso ESENCIAL PRO</div><div class="b" style="font-size:56px">+ ¡nicho de <span>regalo!</span></div><div class="c">Servicio completo para 2 personas y su lugar de descanso a perpetuidad, en un solo plan</div></div>
+<div class="photos">
+ <div class="p"><img src="fotos_nogalar/fachada_gayosso.jpg"><div class="lb">Nueva casa funeraria · San Nicolás</div></div>
+ <div class="p"><img src="fotos_nogalar/sala_velacion.jpg"><div class="lb">Sala de velación</div></div>
+ <div class="p"><img src="nogalar_nichos3.jpg"><div class="lb">Mausoleo · nichos para 2 urnas</div></div>
+</div>
+<div class="price">
+ <div class="pl"><div style="text-align:center;font-size:15px;color:#666;margin-bottom:2px">Precio de lista</div>
+  <div class="row"><span>2 Esencial Pro</span><s>$96,600</s></div>
+  <div class="row"><span>Nicho 2 urnas</span><s>$32,000</s></div>
+  <div class="tot"><span>Total</span><s>$128,600</s></div>
+  <div class="n">36 mensualidades de $3,575.08</div></div>
+ <div class="pm"><div class="h">PRECIO DE PREVENTA · DESDE</div><div class="v">$1,816.24<span>/mes</span></div>
+  <div class="x">48 meses con tarjeta de crédito · <b>sin enganche</b> · menos de $61 diarios por todo<br><b style="color:#c62828">Usted paga menos que solo los 2 servicios: el nicho es de regalo</b></div></div>
+</div>
+<div class="opts">
+ <div>💵 Contado<b>$72,016</b>ahorra $56,584 (44%)</div>
+ <div>💳 Crédito 36 meses<b>$2,302.35</b>$1,272 menos que lista</div>
+ <div>🏦 Débito 36 meses<b>$2,427.48</b>sin enganche</div>
+</div>
+<div class="two">
+ <div class="box inc"><h3>🕊️ Cada servicio incluye</h3><ul>
+  <li>Sala de velación 24 h</li><li>Ataúd metálico cat. Esencial</li><li>Urna de madera si elige cremación</li><li>Embalsamamiento, arreglo y cafetería</li><li>Traslados locales y asesoría en trámites</li><li><b>Ambivalente:</b> inhumación o cremación</li></ul></div>
+ <div class="box inc"><h3>⚱️ Su nicho de regalo</h3><ul>
+  <li>Nicho para <b>2 urnas</b>, piso 5</li><li>Uso <b>a perpetuidad</b> con título</li><li>2 ceremonias de depósito de cenizas</li><li>Precio congelado y sin intereses</li><li>5 días hábiles para cancelar</li><li>Contrato registrado ante PROFECO</li></ul></div>
+</div>
+<div class="gift"><div class="i">🏖️</div><div><div class="t">🎁 + Certificado vacacional Royal Holiday · 4 días / 3 noches</div><div class="s">Todo incluido · 2 adultos + 2 menores · tarifa regular $24,995 · reservación desde $3,999 · con tarjeta de crédito · <b style="color:#8a1c1c">LIMITADOS</b></div></div></div>
+<div class="cita"><div class="t">📅 Conozca Nogalar antes de que abra · lunes 30 de noviembre</div><div class="s">Recorrido con cita de 9:00 a 14:00 · último día de preventa · Av. Nogalar Sur 420 A, San Nicolás</div>
+ <div class="stp"><div><b class="n">1</b>Aparte hoy su folio con correo e INE · <b>sin pago</b></div><div><b class="n">2</b>Visite las instalaciones con su folio y conozca su nicho</div><div><b class="n">3</b>Firme desde su celular · se carga solo la 1ª mensualidad</div></div></div>
+<div class="foot"><div><div class="n">Abraham Cutipa</div><div class="r">Asesor Certificado de Previsión Familiar · Grupo Gayosso · Monterrey</div></div><div class="w">WhatsApp 81 1627 6206</div></div>
+<div class="fine">Precios del Cotizador Gayosso (claves 827291 ×2 + 827302, nivel superior), vigentes al 30-nov-2026 y sujetos a disponibilidad. Certificado con tarjeta de crédito, sujeto a términos de Royal Holiday. No incluye mantenimiento anual del nicho, apertura, placa, derechos ni trámites. Si se elige cremación, Gayosso informa si el ataúd aplica.</div>
+</div></body></html>
